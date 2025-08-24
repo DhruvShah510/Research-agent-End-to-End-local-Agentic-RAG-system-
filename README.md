@@ -29,7 +29,7 @@ The core retrieval-augmented generation (RAG) pipeline is equipped with multiple
 - data analyst
 - innovation forcaster
 
-# knowledge and retrieval 
+# knowledge and retrieval methods created 
 - Semantic Search
 - Keyword Search               
 - Hybrid Search
