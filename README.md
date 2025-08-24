@@ -58,10 +58,10 @@ The project is built on a multi-layered architecture that ensures a clear separa
 
 # File Structure
 A brief overview of the key files in this repository:
-- agentic_RAG_demo.mp4        # Project demo video
+- agentic_RAG_demo.mp4                 # Project demo video
 - agentic_rag.py              # Main application entry point
 - patent_crew.py              # Defines CrewAI agents, tools, and tasks
-- tent_search_tools.py      # Contains search functions (semantic, keyword, hybrid)
+- tent_search_tools.py        # Contains search functions (semantic, keyword, hybrid)
 - information_collector.py    # Fetches patent data using SerpAPI
 - helper.py                   # Helper functions for data collection
 - embeddings.py               # Handles text embedding generation
