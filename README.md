@@ -11,6 +11,52 @@ The core retrieval-augmented generation (RAG) pipeline is equipped with multiple
 # System Architecture
 The project is built on a multi-layered architecture that ensures a clear separation of concerns, from data storage to agentic task execution.
 
+Of course. Here is how you can fix the spacing and alignment issues in your `README.md` file.
+
+The solution for both problems is to use **Markdown code blocks**. When you wrap text in a code block, it uses a monospaced font, which means every character has the same width. This preserves all your spaces and keeps text-based diagrams perfectly aligned.
+
+-----
+
+### 1\. Aligning the File Structure Comments
+
+To create a clean, table-like look, wrap the entire file list in a fenced code block (using three backticks ` ``` `) and then manually add spaces to align the `#` comments.
+
+**Replace this:**
+
+  * `agentic_rag.py # Main application entry point`
+  * `patent_crew.py # Defines CrewAI agents, tools, and tasks`
+  * ...and so on
+
+**With this:**
+
+```
+├── agentic_RAG_demo.mp4     # Project demo video
+├── agentic_rag.py           # Main application entry point
+├── patent_crew.py           # Defines CrewAI agents, tools, and tasks
+├── patent_search_tools.py   # Contains search functions (semantic, keyword, hybrid)
+├── information_collector.py # Fetches patent data using SerpAPI
+├── helper.py                # Helper functions for data collection
+├── embeddings.py            # Handles text embedding generation
+├── ingestion.py             # Ingests embeddings into OpenSearch
+├── opensearch_client.py     # OpenSearch client configuration
+├── docker-compose.yml       # Docker configuration for OpenSearch services
+├── requirements.txt         # Python dependencies
+└── dev.ipynb                # Jupyter notebook for development and testing
+```
+
+*I've used the `├──` and `└──` characters to give it a nice tree structure, which is common practice.*
+
+-----
+
+### 2\. Fixing the System Architecture Diagram
+
+Your diagram is misaligned because standard text uses proportional fonts. Wrapping it in a code block will force a monospaced font and fix the alignment.
+
+Here is a corrected and slightly cleaned-up version of your architecture diagram that you can copy and paste directly into your `README.md`.
+
+**Replace your current broken diagram with this:**
+
+```
 ┌──────────────────────────────────┐
 │          User Interface          │
 │ (Input Query via Terminal)       │
@@ -39,6 +85,7 @@ The project is built on a multi-layered architecture that ensures a clear separa
 │      Data Storage & Indexing     │
 │           (OpenSearch)           │
 └──────────────────────────────────┘
+```
 
 
 # Key Features
@@ -58,8 +105,8 @@ The project is built on a multi-layered architecture that ensures a clear separa
 
 # File Structure
 A brief overview of the key files in this repository:
-- agentic_RAG_demo.mp4                 # Project demo video
-- agentic_rag.py              # Main application entry point
+- agentic_RAG_demo.mp4      ```  # Project demo video
+- agentic_rag.py            ```  # Main application entry point
 - patent_crew.py              # Defines CrewAI agents, tools, and tasks
 - tent_search_tools.py        # Contains search functions (semantic, keyword, hybrid)
 - information_collector.py    # Fetches patent data using SerpAPI
@@ -78,4 +125,10 @@ Before you begin, ensure you have the following installed:
 - Docker and Docker Compose
 - Ollama
 - You will also need a SerpAPI key to fetch patent data.
+
+
+# Installation and Setup
+Follow these steps to get the project running on your local machine.
+1. Clone the Repository
+
 
