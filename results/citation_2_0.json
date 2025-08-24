@@ -1,0 +1,1472 @@
+{
+  "search_metadata": {
+    "id": "68a9f8a550849cf10368a646",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/fee753b4c1538039/68a9f8a550849cf10368a646.json",
+    "created_at": "2025-08-23 17:21:41 UTC",
+    "processed_at": "2025-08-23 17:21:41 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN109980177A/en",
+    "raw_html_file": "https://serpapi.com/searches/fee753b4c1538039/68a9f8a550849cf10368a646.html",
+    "total_time_taken": 0.83
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN109980177A/en"
+  },
+  "title": "Electrode plates and electrochemical appliance comprising the electrode plates",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/0b/dd/28/d66854ad4cfc44/CN109980177A.pdf",
+  "publication_number": "CN109980177A",
+  "country": "China",
+  "prior_art_keywords": [
+    "region",
+    "cathode",
+    "anode",
+    "sheet",
+    "active material"
+  ],
+  "prior_art_date": "2019-03-29",
+  "application_number": "CN201910251826.8A",
+  "inventors": [
+    {
+      "name": "\u738b\u6167\u946b",
+      "link": "https://patents.google.com/?inventor=%E7%8E%8B%E6%85%A7%E9%91%AB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E7%8E%8B%E6%85%A7%E9%91%AB"
+    },
+    {
+      "name": "\u9ec4\u601d\u6797",
+      "link": "https://patents.google.com/?inventor=%E9%BB%84%E6%80%9D%E6%9E%97",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E9%BB%84%E6%80%9D%E6%9E%97"
+    },
+    {
+      "name": "\u7a0b\u665f",
+      "link": "https://patents.google.com/?inventor=%E7%A8%8B%E6%99%9F",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E7%A8%8B%E6%99%9F"
+    },
+    {
+      "name": "\u4f59\u7ea2\u660e",
+      "link": "https://patents.google.com/?inventor=%E4%BD%99%E7%BA%A2%E6%98%8E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E4%BD%99%E7%BA%A2%E6%98%8E"
+    }
+  ],
+  "assignees": [
+    "Ningde Amperex Technology Ltd"
+  ],
+  "priority_date": "2019-03-29",
+  "filing_date": "2019-03-29",
+  "publication_date": "2019-07-05",
+  "worldwide_applications": {
+    "2019": [
+      {
+        "filing_date": "2019-03-29",
+        "country_code": "CN",
+        "application_number": "CN201910251826.8A",
+        "document_id": "patent/CN109980177B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2019-08-07",
+        "country_code": "US",
+        "application_number": "US16/534,191",
+        "document_id": "patent/US11682765B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2019-03-29",
+      "title": "Application filed by Ningde Amperex Technology Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Ningde Amperex Technology Ltd"
+    },
+    {
+      "date": "2019-03-29",
+      "title": "Priority to CN201910251826.8A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN109980177B/en"
+    },
+    {
+      "date": "2019-07-05",
+      "title": "Publication of CN109980177A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN109980177A/en"
+    },
+    {
+      "date": "2019-08-07",
+      "title": "Priority to US16/534,191",
+      "type": "priority",
+      "document_id": "patent/US11682765B2/en"
+    },
+    {
+      "date": "2021-10-22",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2021-10-22",
+      "title": "Publication of CN109980177B",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN109980177B/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2039-03-29",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=109980177A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/201910251826/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN109980177A"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "H01M4/131",
+      "description": "Electrodes based on mixed oxides or hydroxides, or on mixtures of oxides or hydroxides, e.g. LiCoOx",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/13",
+      "description": "Electrodes for accumulators with non-aqueous electrolyte, e.g. for lithium-accumulators; Processes of manufacture thereof",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0525",
+      "description": "Rocking-chair batteries, i.e. batteries with lithium insertion or intercalation in both electrodes; Lithium-ion batteries",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/133",
+      "description": "Electrodes based on carbonaceous material, e.g. graphite-intercalation compounds or CFx",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/134",
+      "description": "Electrodes based on metals, Si or alloys",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/36",
+      "description": "Selection of substances as active materials, active masses, active liquids",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/364",
+      "description": "Composites as mixtures",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/366",
+      "description": "Composites as layered products",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/386",
+      "description": "Silicon or alloys based on silicon",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/525",
+      "description": "Selection of substances as active materials, active masses, active liquids of inorganic oxides or hydroxides of nickel, cobalt or iron of mixed oxides or hydroxides containing iron, cobalt or nickel for inserting or intercalating light metals, e.g. LiNiO2, LiCoO2 or LiCoOxFy",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/583",
+      "description": "Carbonaceous material, e.g. graphite-intercalation compounds or CFx",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/587",
+      "description": "Carbonaceous material, e.g. graphite-intercalation compounds or CFx for inserting or intercalating light metals",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/625",
+      "description": "Carbon or graphite",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2004/021",
+      "description": "Physical characteristics, e.g. porosity, surface area",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2004/027",
+      "description": "Negative electrodes",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2004/028",
+      "description": "Positive electrodes",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E60/10",
+      "description": "Energy storage using batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The present application relates to electrode pads and electrochemical devices including the electrode pads. The anode electrode sheet described in this application includes an anode first region and an anode second region, wherein the DC resistance value R A2 of the anode second region is less than or equal to 98% of the DC resistance value R A1 of the anode first region . The cathode electrode piece described in this application includes a cathode first region and a cathode second region, wherein the DC resistance value R C2 of the cathode second region is greater than the DC resistance value R C1 of the cathode first region. When the anode electrode sheet and/or the cathode electrode sheet described in the present application is applied to an electrochemical device, the formation of lithium dendrites can be effectively reduced, and the safety of the electrochemical device can be improved.",
+  "abstract_original": "\u672c\u7533\u8bf7\u6d89\u53ca\u7535\u6781\u6781\u7247\u548c\u5305\u542b\u6240\u8ff0\u7535\u6781\u6781\u7247\u7684\u7535\u5316\u5b66\u88c5\u7f6e\u3002\u672c\u7533\u8bf7\u6240\u8ff0\u7684\u9633\u6781\u6781\u7247\u5305\u62ec\u9633\u6781\u7b2c\u4e00\u533a\u548c\u9633\u6781\u7b2c\u4e8c\u533a\uff0c\u5176\u4e2d\u6240\u8ff0\u9633\u6781\u7b2c\u4e8c\u533a\u7684\u76f4\u6d41\u963b\u6297\u503cRA2\u5c0f\u4e8e\u6216\u7b49\u4e8e\u6240\u8ff0\u9633\u6781\u7b2c\u4e00\u533a\u7684\u76f4\u6d41\u963b\u6297\u503cRA1\u768498\uff05\u3002\u672c\u7533\u8bf7\u6240\u8ff0\u7684\u9634\u6781\u6781\u7247\u5305\u62ec\u9634\u6781\u7b2c\u4e00\u533a\u548c\u9634\u6781\u7b2c\u4e8c\u533a\uff0c\u5176\u4e2d\u6240\u8ff0\u9634\u6781\u7b2c\u4e8c\u533a\u7684\u76f4\u6d41\u963b\u6297\u503cRC2\u5927\u4e8e\u6240\u8ff0\u9634\u6781\u7b2c\u4e00\u533a\u7684\u76f4\u6d41\u963b\u6297\u503cRC1\u3002\u5f53\u5c06\u672c\u7533\u8bf7\u6240\u8ff0\u7684\u9633\u6781\u6781\u7247\u548c/\u6216\u9634\u6781\u6781\u7247\u5e94\u7528\u4e8e\u7535\u5316\u5b66\u88c5\u7f6e\u65f6\uff0c\u80fd\u591f\u6709\u6548\u5730\u964d\u4f4e\u9502\u679d\u6676\u7684\u5f62\u6210\uff0c\u6539\u5584\u7535\u5316\u5b66\u88c5\u7f6e\u7684\u5b89\u5168\u6027\u3002",
+  "description_link": "https://serpapi.com/searches/68a9f8a550849cf10368a646/google_patents_details/description.html",
+  "claims": [
+    "1.\u4e00\u79cd\u9633\u6781\u6781\u7247\uff0c\u5176\u5305\u62ec\u9633\u6781\u7b2c\u4e00\u533a\u548c\u9633\u6781\u7b2c\u4e8c\u533a\uff0c1. An anode plate comprising an anode first region and an anode second region,\n      \n      \n         \u5176\u4e2d\u6240\u8ff0\u9633\u6781\u6781\u7247\u5305\u62ec\u9633\u6781\u57fa\u6750\u548c\u5728\u6240\u8ff0\u9633\u6781\u57fa\u6750\u7684\u81f3\u5c11\u4e00\u4e2a\u8868\u9762\u4e0a\u7684\u9633\u6781\u6d3b\u6027\u7269\u8d28\uff1b\u4e14wherein the anode sheet includes an anode substrate and an anode active material on at least one surface of the anode substrate; and\n      \n      \n         \u5176\u4e2d\u6240\u8ff0\u9633\u6781\u7b2c\u4e8c\u533a\u7684\u76f4\u6d41\u963b\u6297\u503cRA2\u5c0f\u4e8e\u6216\u7b49\u4e8e\u6240\u8ff0\u9633\u6781\u7b2c\u4e00\u533a\u7684\u76f4\u6d41\u963b\u6297\u503cRA1\u768498\uff05\u3002The DC resistance value R A2 of the second anode region is less than or equal to 98% of the DC resistance value R A1 of the anode first region.",
+    "2.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u9633\u6781\u6781\u7247\uff0c\u5176\u4e2d\u6240\u8ff0\u9633\u6781\u7b2c\u4e00\u533a\u5305\u62ec\u9633\u6781\u4e3b\u4f53\u533a\uff0c\u6240\u8ff0\u9633\u6781\u7b2c\u4e8c\u533a\u5305\u62ec\u9633\u6781\u8fb9\u7f18\u533a\u30022. The anode sheet of claim 1, wherein the anode first region includes an anode body region and the anode second region includes an anode edge region.",
+    "3.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u9633\u6781\u6781\u7247\uff0c\u5176\u4e2d\u6240\u8ff0\u9633\u6781\u7b2c\u4e8c\u533a\u7684\u9633\u6781\u6781\u7247\u7684\u539a\u5ea6\u5c0f\u4e8e\u6240\u8ff0\u9633\u6781\u7b2c\u4e00\u533a\u7684\u9633\u6781\u6781\u7247\u7684\u539a\u5ea6\u30023. The anode sheet of claim 1, wherein the thickness of the anode sheet in the second region of the anode is less than the thickness of the anode sheet in the first region of the anode.",
+    "4.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u9633\u6781\u6781\u7247\uff0c\u5176\u4e2d\u6240\u8ff0\u9633\u6781\u7b2c\u4e00\u533a\u7684\u9633\u6781\u6d3b\u6027\u7269\u8d28\u7684\u4e2d\u503c\u7c92\u5f84Dv50\u5927\u4e8e\u6240\u8ff0\u9633\u6781\u7b2c\u4e8c\u533a\u7684\u9633\u6781\u6d3b\u6027\u7269\u8d28\u7684Dv50\u30024. The anode sheet according to claim 1, wherein the median particle size Dv50 of the anode active material in the first region of the anode is greater than the Dv50 of the anode active material in the second region of the anode.",
+    "5.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u9633\u6781\u6781\u7247\uff0c\u5176\u4e2d\u6240\u8ff0\u9633\u6781\u7b2c\u4e00\u533a\u7684\u9633\u6781\u6d3b\u6027\u7269\u8d28\u5305\u62ec\u77f3\u58a8\uff0c\u4e14\u5176\u4e2d\u6240\u8ff0\u9633\u6781\u7b2c\u4e8c\u533a\u7684\u9633\u6781\u6d3b\u6027\u7269\u8d28\u5305\u62ec\u786c\u78b3\u30025. The anode sheet of claim 1, wherein the anode active material of the anode first region comprises graphite, and wherein the anode active material of the anode second region comprises hard carbon.",
+    "6.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u9633\u6781\u6781\u7247\uff0c\u5176\u4e2d\u6240\u8ff0\u9633\u6781\u7b2c\u4e00\u533a\u7684\u9633\u6781\u6d3b\u6027\u7269\u8d28\u5305\u62ecSi\uff0c\u4e14\u5176\u4e2d\u6240\u8ff0\u9633\u6781\u7b2c\u4e8c\u533a\u7684\u9633\u6781\u6d3b\u6027\u7269\u8d28\u5305\u62ec\u77f3\u58a8\u548c\u786c\u78b3\u7684\u6df7\u5408\u7269\u30026. The anode sheet of claim 1, wherein the anode active material of the anode first region comprises Si, and wherein the anode active material of the anode second region comprises a mixture of graphite and hard carbon.",
+    "7.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u9633\u6781\u6781\u7247\uff0c\u5176\u4e2d\u6240\u8ff0\u9633\u6781\u6781\u7247\u8fd8\u5305\u62ec\u5bfc\u7535\u78b3\uff0c\u4e14\u5176\u4e2d\u6240\u8ff0\u9633\u6781\u7b2c\u4e00\u533a\u4e2d\u7684\u5bfc\u7535\u78b3\u542b\u91cf\u5c0f\u4e8e\u6240\u8ff0\u9633\u6781\u7b2c\u4e8c\u533a\u4e2d\u7684\u5bfc\u7535\u78b3\u542b\u91cf\u30027. The anode sheet of claim 1, wherein the anode sheet further comprises conductive carbon, and wherein the conductive carbon content in the anode first region is less than the conductive carbon content in the anode second region.",
+    "8.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u9633\u6781\u6781\u7247\uff0c\u5176\u4e2d\u6240\u8ff0\u9633\u6781\u7b2c\u4e00\u533a\u7684\u57fa\u6750\u7684\u5bfc\u7535\u6027\u5dee\u4e8e\u6240\u8ff0\u9633\u6781\u7b2c\u4e8c\u533a\u7684\u57fa\u6750\u7684\u5bfc\u7535\u6027\u30028. The anode sheet of claim 1, wherein the conductivity of the substrate in the first region of the anode is less conductive than the conductivity of the substrate in the second region of the anode.",
+    "9.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u9633\u6781\u6781\u7247\uff0c\u5176\u4e2d\u6240\u8ff0\u9633\u6781\u7b2c\u4e00\u533a\u7684\u57fa\u6750\u5305\u62ec\u5728\u5176\u8868\u9762\u4e0a\u6d82\u6577\u7684\u5e95\u6d82\u5c42\uff0c\u5176\u4e2d\u6240\u8ff0\u9633\u6781\u7b2c\u4e00\u533a\u7684\u5e95\u6d82\u5c42\u7684\u5bfc\u7535\u6027\u5dee\u4e8e\u6240\u8ff0\u9633\u6781\u7b2c\u4e8c\u533a\u7684\u5e95\u6d82\u5c42\u7684\u5bfc\u7535\u6027\u30029. The anode sheet of claim 1, wherein the substrate of the anode first region comprises a primer coating applied on its surface, wherein the conductivity of the primer coating of the anode first region is less than The conductivity of the primer layer of the second region of the anode.",
+    "10.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u9633\u6781\u6781\u7247\uff0c\u5176\u8fd8\u5305\u62ec\u9633\u6781\u7b2c\u4e09\u533a\uff0c10. The anode sheet of claim 1, further comprising an anode third region,\n      \n      \n         \u5176\u4e2d\u6240\u8ff0\u9633\u6781\u7b2c\u4e09\u533a\u7684\u76f4\u6d41\u963b\u6297\u503cRA3\u5c0f\u4e8e\u6216\u7b49\u4e8e\u6240\u8ff0\u9633\u6781\u7b2c\u4e8c\u533a\u7684\u76f4\u6d41\u963b\u6297\u503cRA2\u3002The DC resistance value R A3 of the third anode region is less than or equal to the DC resistance value R A2 of the anode second region.",
+    "11.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u9633\u6781\u6781\u7247\uff0c\u5176\u8fd8\u5305\u62ec\u9633\u6781\u7b2c\u56db\u533a\uff0c11. The anode sheet of claim 1, further comprising an anode fourth region,\n      \n      \n         \u5176\u4e2d\u6240\u8ff0\u9633\u6781\u7b2c\u56db\u533a\u5305\u62ec\u7edd\u7f18\u6750\u6599\u3002Wherein the anode fourth region includes insulating material.",
+    "12.\u4e00\u79cd\u9634\u6781\u6781\u7247\uff0c\u5176\u5305\u62ec\u9634\u6781\u7b2c\u4e00\u533a\u548c\u9634\u6781\u7b2c\u4e8c\u533a\uff0c12. A cathode pole piece comprising a cathode first region and a cathode second region,\n      \n      \n         \u5176\u4e2d\u6240\u8ff0\u9634\u6781\u6781\u7247\u5305\u62ec\u9634\u6781\u57fa\u6750\u548c\u5728\u6240\u8ff0\u9634\u6781\u57fa\u6750\u7684\u81f3\u5c11\u4e00\u4e2a\u8868\u9762\u4e0a\u7684\u9634\u6781\u6d3b\u6027\u7269\u8d28\uff1bwherein the cathode electrode sheet includes a cathode substrate and a cathode active material on at least one surface of the cathode substrate;\n      \n      \n         \u5176\u4e2d\u6240\u8ff0\u9634\u6781\u7b2c\u4e8c\u533a\u7684\u76f4\u6d41\u963b\u6297\u503cRC2\u5927\u4e8e\u6240\u8ff0\u9634\u6781\u7b2c\u4e00\u533a\u7684\u76f4\u6d41\u963b\u6297\u503cRC1\u3002The DC resistance value R C2 of the second cathode region is greater than the DC resistance value R C1 of the cathode first region.",
+    "13.\u6839\u636e\u6743\u5229\u8981\u6c4212\u6240\u8ff0\u7684\u9634\u6781\u6781\u7247\uff0c\u5176\u4e2d\u6240\u8ff0\u9634\u6781\u7b2c\u4e00\u533a\u5305\u62ec\u9634\u6781\u4e3b\u4f53\u533a\uff0c\u6240\u8ff0\u9634\u6781\u7b2c\u4e8c\u533a\u5305\u62ec\u9634\u6781\u8fb9\u7f18\u533a\u300213. The cathode electrode sheet of claim 12, wherein the cathode first region includes a cathode body region and the cathode second region includes a cathode edge region.",
+    "14.\u6839\u636e\u6743\u5229\u8981\u6c4212\u6240\u8ff0\u7684\u9634\u6781\u6781\u7247\uff0c\u5176\u4e2d\u6240\u8ff0\u9634\u6781\u7b2c\u4e8c\u533a\u7684\u9634\u6781\u6781\u7247\u7684\u539a\u5ea6\u5c0f\u4e8e\u6240\u8ff0\u9634\u6781\u7b2c\u4e00\u533a\u7684\u9634\u6781\u6781\u7247\u7684\u539a\u5ea6\u300214. The cathode sheet of claim 12, wherein the thickness of the cathode sheet in the second region of the cathode is less than the thickness of the cathode sheet in the first region of the cathode.",
+    "15.\u6839\u636e\u6743\u5229\u8981\u6c4212\u6240\u8ff0\u7684\u9634\u6781\u6781\u7247\uff0c\u5176\u4e2d\u6240\u8ff0\u9634\u6781\u7b2c\u4e00\u533a\u7684\u9634\u6781\u6d3b\u6027\u7269\u8d28\u5305\u62ec\u591a\u6676\u9897\u7c92\uff0c\u6240\u8ff0\u9634\u6781\u7b2c\u4e8c\u533a\u7684\u9634\u6781\u6d3b\u6027\u7269\u8d28\u5305\u62ec\u5355\u6676\u9897\u7c92\u300215. The cathode electrode sheet of claim 12, wherein the cathode active material in the first region of the cathode comprises polycrystalline particles and the cathode active material in the second region of the cathode comprises monocrystalline particles.",
+    "16.\u6839\u636e\u6743\u5229\u8981\u6c4214\u6240\u8ff0\u7684\u9634\u6781\u6781\u7247\uff0c\u5176\u4e2d\u6240\u8ff0\u9634\u6781\u6d3b\u6027\u7269\u8d28\u5305\u62ec\u4e09\u5143\u6750\u6599\u300216. The cathode sheet of claim 14, wherein the cathode active material comprises a ternary material.",
+    "17.\u6839\u636e\u6743\u5229\u8981\u6c4212\u6240\u8ff0\u7684\u9634\u6781\u6781\u7247\uff0c\u5176\u4e2d\u6240\u8ff0\u9634\u6781\u7b2c\u4e00\u533a\u7684\u9634\u6781\u6d3b\u6027\u7269\u8d28\u7684Dv50\u5c0f\u4e8e\u6240\u8ff0\u9634\u6781\u7b2c\u4e8c\u533a\u7684\u9634\u6781\u6d3b\u6027\u7269\u8d28\u7684Dv50\u300217. The cathode sheet of claim 12, wherein the Dv50 of the cathode active material in the first region of the cathode is less than the Dv50 of the cathode active material in the second region of the cathode.",
+    "18.\u6839\u636e\u6743\u5229\u8981\u6c4212\u6240\u8ff0\u7684\u9634\u6781\u6781\u7247\uff0c\u5176\u4e2d\u6240\u8ff0\u9634\u6781\u6d3b\u6027\u7269\u8d28\u5305\u62ec\u7ecf\u78b3\u5305\u8986\u7684\u6d3b\u6027\u7269\u8d28\uff0c\u5176\u4e2d\u6240\u8ff0\u9634\u6781\u7b2c\u4e00\u533a\u7684\u6d3b\u6027\u7269\u8d28\u7684\u78b3\u5305\u8986\u91cf\u5927\u4e8e\u6240\u8ff0\u9634\u6781\u7b2c\u4e8c\u533a\u7684\u6d3b\u6027\u7269\u8d28\u7684\u78b3\u5305\u8986\u91cf\u300218. The cathode electrode sheet of claim 12, wherein the cathode active material comprises a carbon-coated active material, wherein the active material in the first region of the cathode has a greater amount of carbon coating than the second region of the cathode The amount of carbon coating of the active material.",
+    "19.\u6839\u636e\u6743\u5229\u8981\u6c4212\u6240\u8ff0\u7684\u9634\u6781\u6781\u7247\uff0c\u5176\u4e2d\u6240\u8ff0\u9634\u6781\u7b2c\u4e00\u533a\u7684\u9634\u6781\u6d3b\u6027\u7269\u8d28\u5305\u62ec\u4e09\u5143\u6750\u6599\uff0c\u4e14\u5176\u4e2d\u6240\u8ff0\u9634\u6781\u7b2c\u4e8c\u533a\u7684\u9634\u6781\u6d3b\u6027\u7269\u8d28\u5305\u62ec\u94b4\u9178\u9502\u300219. The cathode electrode sheet of claim 12, wherein the cathode active material of the cathode first region comprises a ternary material, and wherein the cathode active material of the cathode second region comprises lithium cobaltate.",
+    "20.\u6839\u636e\u6743\u5229\u8981\u6c4212\u6240\u8ff0\u7684\u9634\u6781\u6781\u7247\uff0c\u5176\u4e2d\u6240\u8ff0\u9634\u6781\u6750\u6599\u8fd8\u5305\u62ec\u5bfc\u7535\u78b3\uff0c\u4e14\u5176\u4e2d\u6240\u8ff0\u9634\u6781\u7b2c\u4e00\u533a\u4e2d\u7684\u9634\u6781\u6750\u6599\u4e2d\u7684\u5bfc\u7535\u78b3\u542b\u91cf\u5927\u4e8e\u6240\u8ff0\u9634\u6781\u7b2c\u4e8c\u533a\u4e2d\u7684\u9634\u6781\u6750\u6599\u4e2d\u7684\u5bfc\u7535\u78b3\u542b\u91cf\u300220. The cathode electrode sheet of claim 12, wherein the cathode material further comprises conductive carbon, and wherein the cathode material in the first region of the cathode has a greater amount of conductive carbon than the cathode in the second region of the cathode Conductive carbon content in the material.",
+    "21.\u6839\u636e\u6743\u5229\u8981\u6c4212\u6240\u8ff0\u7684\u9634\u6781\u6781\u7247\uff0c\u5176\u4e2d\u6240\u8ff0\u9634\u6781\u7b2c\u4e00\u533a\u7684\u57fa\u6750\u7684\u5bfc\u7535\u6027\u4f18\u4e8e\u6240\u8ff0\u9634\u6781\u7b2c\u4e8c\u533a\u7684\u57fa\u6750\u7684\u5bfc\u7535\u6027\u300221. The cathode electrode sheet of claim 12, wherein the conductivity of the substrate of the cathode first region is greater than the conductivity of the substrate of the cathode second region.",
+    "22.\u6839\u636e\u6743\u5229\u8981\u6c4212\u6240\u8ff0\u7684\u9634\u6781\u6781\u7247\uff0c\u5176\u8fd8\u5305\u62ec\u9634\u6781\u7b2c\u4e09\u533a\uff0c22. The cathode electrode sheet of claim 12, further comprising a cathode third region,\n      \n      \n         \u5176\u4e2d\u6240\u8ff0\u9634\u6781\u7b2c\u4e09\u533a\u7684\u76f4\u6d41\u963b\u6297\u503cRC3\u5927\u4e8e\u6216\u7b49\u4e8e\u6240\u8ff0\u9634\u6781\u7b2c\u4e8c\u533a\u7684\u76f4\u6d41\u963b\u6297\u503cRC2\u3002The DC resistance value R C3 of the third region of the cathode is greater than or equal to the DC resistance value R C2 of the second region of the cathode.",
+    "23.\u6839\u636e\u6743\u5229\u8981\u6c4212\u6240\u8ff0\u7684\u9634\u6781\u6781\u7247\uff0c\u5176\u8fd8\u5305\u62ec\u9634\u6781\u7b2c\u56db\u533a\uff0c23. The cathode pole piece of claim 12, further comprising a cathode fourth region,\n      \n      \n         \u5176\u4e2d\u6240\u8ff0\u9634\u6781\u7b2c\u56db\u533a\u5305\u62ec\u7edd\u7f18\u6750\u6599\u3002Wherein the cathode fourth region includes insulating material.",
+    "24.\u4e00\u79cd\u7535\u82af\uff0c\u5176\u5305\u62ec\uff1a24. A cell comprising:\n      \n      \n         \u9634\u6781\u6781\u7247\uff0c\u6240\u8ff0\u9634\u6781\u6781\u7247\u5305\u62ec\u9634\u6781\u7b2c\u4e00\u533a\u548c\u9634\u6781\u7b2c\u4e8c\u533a\uff1ba cathode pole piece, the cathode pole piece includes a cathode first region and a cathode second region;\n      \n      \n         \u9633\u6781\u6781\u7247\uff0c\u6240\u8ff0\u9633\u6781\u6781\u7247\u5305\u62ec\u9633\u6781\u7b2c\u4e00\u533a\u548c\u9633\u6781\u7b2c\u4e8c\u533a\uff1ban anode pole piece, the anode pole piece includes an anode first area and an anode second area;\n      \n      \n         \u5176\u4e2d\u7b2c\u4e00\u533a\u7684\u6570\u503cC1\u5305\u62ec\u6240\u8ff0\u9633\u6781\u7b2c\u4e00\u533a\u7684\u76f4\u6d41\u963b\u6297\u503cRA1\u4e0e\u6240\u8ff0\u9634\u6781\u7b2c\u4e00\u533a\u7684\u76f4\u6d41\u963b\u6297\u503cRC1\u7684\u6bd4\u503c\uff0cThe value C 1 of the first region includes the ratio of the DC resistance value R A1 of the first region of the anode to the DC resistance value R C1 of the first region of the cathode,\n      \n      \n         \u5176\u4e2d\u7b2c\u4e8c\u533a\u7684\u6570\u503cC2\u5305\u62ec\u6240\u8ff0\u9633\u6781\u7b2c\u4e8c\u533a\u7684\u76f4\u6d41\u963b\u6297\u503cRA2\u4e0e\u6240\u8ff0\u9634\u6781\u7b2c\u4e8c\u533a\u7684\u76f4\u6d41\u963b\u6297\u503cRC2\u7684\u6bd4\u503c\uff0c\u4e14wherein the value C2 of the second region includes the ratio of the DC resistance value R A2 of the anode second region to the DC resistance value R C2 of the cathode second region, and\n      \n      \n         \u5176\u4e2dC2<C1\u3002where C 2 <C 1 .",
+    "25.\u6839\u636e\u6743\u5229\u8981\u6c4224\u6240\u8ff0\u7684\u7535\u82af\uff0c\u5176\u4e2d\u6240\u8ff0\u9633\u6781\u6781\u7247\u4e3a\u6743\u5229\u8981\u6c421-9\u4e2d\u7684\u4efb\u4e00\u8005\u6240\u8ff0\u9633\u6781\u6781\u7247\u548c/\u6216\u6240\u8ff0\u9634\u6781\u6781\u7247\u4e3a\u6743\u5229\u8981\u6c4212-21\u4e2d\u7684\u4efb\u4e00\u8005\u6240\u8ff0\u7684\u9634\u6781\u6781\u7247\u300225. The cell according to claim 24, wherein the anode electrode sheet is the anode electrode sheet and/or the cathode electrode sheet of any one of claims 1-9. The cathode electrode sheet of any one.",
+    "26.\u6839\u636e\u6743\u5229\u8981\u6c4224\u6240\u8ff0\u7684\u7535\u82af\uff0c\u5176\u4e2d\u6240\u8ff0\u9633\u6781\u6781\u7247\u8fd8\u5305\u62ec\u9633\u6781\u7b2c\u4e09\u533a\u548c/\u6216\u9633\u6781\u7b2c\u56db\u533a\uff0c26. The cell according to claim 24, wherein the anode electrode sheet further comprises an anode third region and/or an anode fourth region,\n      \n      \n         \u5176\u4e2d\u6240\u8ff0\u9633\u6781\u7b2c\u4e09\u533a\u7684\u76f4\u6d41\u963b\u6297\u503cRA3\u5c0f\u4e8e\u6216\u7b49\u4e8e\u6240\u8ff0\u9633\u6781\u7b2c\u4e8c\u533a\u7684\u76f4\u6d41\u963b\u6297\u503cRA2\uff0cWherein the DC resistance value R A3 of the third anode region is less than or equal to the DC resistance value R A2 of the anode second region,\n      \n      \n         \u5176\u4e2d\u6240\u8ff0\u9633\u6781\u7b2c\u56db\u533a\u5305\u62ec\u7edd\u7f18\u6750\u6599\u3002Wherein the anode fourth region includes insulating material.",
+    "27.\u6839\u636e\u6743\u5229\u8981\u6c4224\u6240\u8ff0\u7684\u7535\u82af\uff0c\u5176\u4e2d\u6240\u8ff0\u9634\u6781\u6781\u7247\u8fd8\u5305\u62ec\u9634\u6781\u7b2c\u4e09\u533a\u548c/\u6216\u9634\u6781\u7b2c\u56db\u533a\uff0c27. The cell according to claim 24, wherein the cathode electrode sheet further comprises a cathode third region and/or a cathode fourth region,\n      \n      \n         \u5176\u4e2d\u6240\u8ff0\u9634\u6781\u7b2c\u4e09\u533a\u7684\u76f4\u6d41\u963b\u6297\u503cRC3\u5927\u4e8e\u6216\u7b49\u4e8e\u6240\u8ff0\u9634\u6781\u7b2c\u4e8c\u533a\u7684\u76f4\u6d41\u963b\u6297\u503cRC2\uff0cWherein the DC resistance value R C3 of the third cathode region is greater than or equal to the DC resistance value R C2 of the second cathode region,\n      \n      \n         \u5176\u4e2d\u6240\u8ff0\u9634\u6781\u7b2c\u56db\u533a\u5305\u62ec\u7edd\u7f18\u6750\u6599\u3002Wherein the cathode fourth region includes insulating material."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN201910251826.8A",
+      "representative_publication": "CN109980177B",
+      "primary_language": "en",
+      "priority_date": "2019-03-29",
+      "filing_date": "2019-03-29",
+      "title": "Electrode pole piece and electrochemical device comprising the electrode pole piece"
+    },
+    {
+      "application_number": "US16/534,191",
+      "representative_publication": "US11682765B2",
+      "primary_language": "en",
+      "priority_date": "2019-03-29",
+      "filing_date": "2019-08-07",
+      "title": "Electrode and electrochemical device including the same"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CN201910251826.8A",
+      "representative_publication": "CN109980177B",
+      "primary_language": "en",
+      "priority_date": "2019-03-29",
+      "filing_date": "2019-03-29",
+      "title": "Electrode pole piece and electrochemical device comprising the electrode pole piece"
+    }
+  ],
+  "family_id": "67081722",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "CN101662011A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-08-26",
+        "publication_date": "2010-03-03",
+        "assignee_original": "\u6bd4\u4e9a\u8fea\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Battery pole piece and preparation method thereof and battery containing same",
+        "patent_id": "patent/CN101662011A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101662011A%2Fen"
+      },
+      {
+        "publication_number": "CN102468475A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-05",
+        "publication_date": "2012-05-23",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u6770\u58eb\u6c64\u6d45\u56fd\u9645",
+        "title": "Electrode for electric storage element, electric storage element using same, and method for manufacturing electrode for electric storage element",
+        "patent_id": "patent/CN102468475A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102468475A%2Fen"
+      },
+      {
+        "publication_number": "CN102969480A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-08-30",
+        "publication_date": "2013-03-13",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u6770\u58eb\u6c64\u6d45\u56fd\u9645",
+        "title": "Electrode and method of manufacturing the same",
+        "patent_id": "patent/CN102969480A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102969480A%2Fen"
+      },
+      {
+        "publication_number": "JP2017216149A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-05-31",
+        "publication_date": "2017-12-07",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u6751\u7530\u88fd\u4f5c\u6240",
+        "title": "Nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/JP2017216149A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2017216149A%2Fen"
+      },
+      {
+        "publication_number": "CN103682242B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-09-13",
+        "publication_date": "2018-01-02",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u6770\u58eb\u6c64\u6d45\u56fd\u9645",
+        "title": "Electrode body and charge storage element",
+        "patent_id": "patent/CN103682242B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103682242B%2Fen"
+      },
+      {
+        "publication_number": "WO2018079817A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-10-31",
+        "publication_date": "2018-05-03",
+        "assignee_original": "\uff2e\uff45\uff43\u30a8\u30ca\u30b8\u30fc\u30c7\u30d0\u30a4\u30b9\u682a\u5f0f\u4f1a\u793e",
+        "title": "Electrode for electrochemical device, electrochemical device, and method for producing same",
+        "patent_id": "patent/WO2018079817A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018079817A1%2Fen"
+      },
+      {
+        "publication_number": "CN108258193A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-28",
+        "publication_date": "2018-07-06",
+        "assignee_original": "\u6e56\u5357\u4e09\u8fc5\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A kind of negative plate and preparation method thereof, lithium ion battery",
+        "patent_id": "patent/CN108258193A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108258193A%2Fen"
+      },
+      {
+        "publication_number": "CN108306052A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-03-06",
+        "publication_date": "2018-07-20",
+        "assignee_original": "\u6df1\u5733\u524d\u6d77\u4f18\u5bb9\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A kind of battery core and its manufacturing method, battery and electronic device",
+        "patent_id": "patent/CN108306052A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108306052A%2Fen"
+      },
+      {
+        "publication_number": "CN109192925A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-08-17",
+        "publication_date": "2019-01-11",
+        "assignee_original": "\u73e0\u6d77\u683c\u529b\u7535\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Battery pole piece and lithium ion battery",
+        "patent_id": "patent/CN109192925A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109192925A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US7081142B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-11-23",
+        "publication_date": "2006-07-25",
+        "assignee_original": "Sion Power Corporation",
+        "title": "Methods of preparing electrochemical cells",
+        "patent_id": "patent/US7081142B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7081142B1%2Fen"
+      },
+      {
+        "publication_number": "CN2758991Y",
+        "primary_language": "en",
+        "priority_date": "2004-12-15",
+        "publication_date": "2006-02-15",
+        "assignee_original": "\u6bd4\u4e9a\u8fea\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Lithium ion secondary cell",
+        "patent_id": "patent/CN2758991Y/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN2758991Y%2Fen"
+      },
+      {
+        "publication_number": "JP5178508B2",
+        "primary_language": "en",
+        "priority_date": "2006-03-30",
+        "publication_date": "2013-04-10",
+        "assignee_original": "\u4e09\u6d0b\u96fb\u6a5f\u682a\u5f0f\u4f1a\u793e",
+        "title": "Lithium secondary battery",
+        "patent_id": "patent/JP5178508B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5178508B2%2Fen"
+      },
+      {
+        "publication_number": "US20090202903A1",
+        "primary_language": "en",
+        "priority_date": "2007-05-25",
+        "publication_date": "2009-08-13",
+        "assignee_original": "Massachusetts Institute Of Technology",
+        "title": "Batteries and electrodes for use thereof",
+        "patent_id": "patent/US20090202903A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090202903A1%2Fen"
+      },
+      {
+        "publication_number": "US20120308861A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-07-09",
+        "publication_date": "2012-12-06",
+        "assignee_original": "Greatbatch Ltd.",
+        "title": "Method of making electrodes with distributed material loading used in electrochemical cells",
+        "patent_id": "patent/US20120308861A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120308861A1%2Fen"
+      },
+      {
+        "publication_number": "JP2013051028A",
+        "primary_language": "en",
+        "priority_date": "2009-12-28",
+        "publication_date": "2013-03-14",
+        "assignee_original": "Panasonic Corp",
+        "title": "Positive electrode for nonaqueous electrolyte secondary battery and nonaqueous electrolyte secondary battery using the same",
+        "patent_id": "patent/JP2013051028A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2013051028A%2Fen"
+      },
+      {
+        "publication_number": "JP2014211944A",
+        "primary_language": "en",
+        "priority_date": "2011-08-29",
+        "publication_date": "2014-11-13",
+        "assignee_original": "\u30d1\u30ca\u30bd\u30cb\u30c3\u30af\u682a\u5f0f\u4f1a\u793e",
+        "title": "Electrode plate for nonaqueous secondary battery and nonaqueous secondary battery using the same",
+        "patent_id": "patent/JP2014211944A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2014211944A%2Fen"
+      },
+      {
+        "publication_number": "DE112011105715B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-10-07",
+        "publication_date": "2021-02-25",
+        "assignee_original": "Toyota Jidosha Kabushiki Kaisha",
+        "title": "Lithium ion accumulator",
+        "patent_id": "patent/DE112011105715B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE112011105715B4%2Fen"
+      },
+      {
+        "publication_number": "JP5957947B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-02-23",
+        "publication_date": "2016-07-27",
+        "assignee_original": "\u65e5\u7523\u81ea\u52d5\u8eca\u682a\u5f0f\u4f1a\u793e",
+        "title": "Bipolar electrode and bipolar lithium ion secondary battery using the same",
+        "patent_id": "patent/JP5957947B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5957947B2%2Fen"
+      },
+      {
+        "publication_number": "KR101560471B1",
+        "primary_language": "en",
+        "priority_date": "2013-01-25",
+        "publication_date": "2015-10-15",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc5d8\uc9c0\ud654\ud559",
+        "title": "Anode for lithium secondary battery and lithium secondary battery comprising the same",
+        "patent_id": "patent/KR101560471B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101560471B1%2Fen"
+      },
+      {
+        "publication_number": "KR101689496B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-05-17",
+        "publication_date": "2016-12-23",
+        "assignee_original": "\ub2db\uc0b0 \uc9c0\ub3c4\uc6b0\uc0e4 \uac00\ubd80\uc2dc\ud0a4\uac00\uc774\uc0e4",
+        "title": "Non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/KR101689496B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101689496B1%2Fen"
+      },
+      {
+        "publication_number": "US20150017527A1",
+        "primary_language": "en",
+        "priority_date": "2013-07-12",
+        "publication_date": "2015-01-15",
+        "assignee_original": "Posco Chemtech Co., Ltd.",
+        "title": "Negative electrode active material for rechargeable lithium battery,\nmethod for preparing the same, and rechargeable lithium battery using the same",
+        "patent_id": "patent/US20150017527A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150017527A1%2Fen"
+      },
+      {
+        "publication_number": "CN103545559A",
+        "primary_language": "en",
+        "priority_date": "2013-10-08",
+        "publication_date": "2014-01-29",
+        "assignee_original": "\u5b81\u5fb7\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Laminated type lithium ion battery",
+        "patent_id": "patent/CN103545559A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103545559A%2Fen"
+      },
+      {
+        "publication_number": "CN104882611B",
+        "primary_language": "en",
+        "priority_date": "2015-04-01",
+        "publication_date": "2017-12-08",
+        "assignee_original": "\u5e7f\u4e1c\u70db\u5149\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A kind of Anodic electrode, energy storage device comprising the anode electrode and preparation method thereof",
+        "patent_id": "patent/CN104882611B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104882611B%2Fen"
+      },
+      {
+        "publication_number": "CN108701812B",
+        "primary_language": "en",
+        "priority_date": "2016-04-15",
+        "publication_date": "2022-09-23",
+        "assignee_original": "\u65e5\u672c\u7535\u6c14\u682a\u5f0f\u4f1a\u793e",
+        "title": "Negative electrode for lithium secondary battery and lithium secondary battery",
+        "patent_id": "patent/CN108701812B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108701812B%2Fen"
+      },
+      {
+        "publication_number": "CN108352506B",
+        "primary_language": "en",
+        "priority_date": "2016-07-04",
+        "publication_date": "2021-08-24",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793eLg\u5316\u5b66",
+        "title": "Positive electrode and secondary battery comprising same",
+        "patent_id": "patent/CN108352506B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108352506B%2Fen"
+      },
+      {
+        "publication_number": "JP6961398B2",
+        "primary_language": "en",
+        "priority_date": "2017-06-14",
+        "publication_date": "2021-11-05",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u30a8\u30f3\u30d3\u30b8\u30e7\u30f3\uff21\uff45\uff53\uff43\u30b8\u30e3\u30d1\u30f3",
+        "title": "Lithium-ion secondary battery element and lithium-ion secondary battery",
+        "patent_id": "patent/JP6961398B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6961398B2%2Fen"
+      },
+      {
+        "publication_number": "WO2019239560A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-06-14",
+        "publication_date": "2019-12-19",
+        "assignee_original": "\u56fd\u7acb\u5927\u5b66\u6cd5\u4eba\u6771\u5317\u5927\u5b66",
+        "title": "Power storage element and storage battery using same",
+        "patent_id": "patent/WO2019239560A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019239560A1%2Fen"
+      },
+      {
+        "publication_number": "CN109244362B",
+        "primary_language": "en",
+        "priority_date": "2018-11-05",
+        "publication_date": "2023-11-03",
+        "assignee_original": "\u5b81\u5fb7\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Positive electrode sheet, electrochemical device and electronic device comprising same",
+        "patent_id": "patent/CN109244362B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109244362B%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN111816838A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-07-22",
+        "publication_date": "2020-10-23",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Lithium ion battery positive plate and preparation method thereof and lithium ion battery",
+        "patent_id": "patent/CN111816838A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111816838A%2Fen"
+      },
+      {
+        "publication_number": "CN111916845A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-08-13",
+        "publication_date": "2020-11-10",
+        "assignee_original": "\u4e1c\u839e\u65b0\u80fd\u5b89\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Electrochemical device and electronic device",
+        "patent_id": "patent/CN111916845A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111916845A%2Fen"
+      },
+      {
+        "publication_number": "CN111952541A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-09-14",
+        "publication_date": "2020-11-17",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Positive plate, preparation method and battery",
+        "patent_id": "patent/CN111952541A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111952541A%2Fen"
+      },
+      {
+        "publication_number": "CN112186273A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-10-29",
+        "publication_date": "2021-01-05",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Winding core capable of reducing internal temperature rise for winding type lithium ion battery",
+        "patent_id": "patent/CN112186273A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112186273A%2Fen"
+      },
+      {
+        "publication_number": "CN112310343A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-11-02",
+        "publication_date": "2021-02-02",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Negative plate and lithium ion battery containing same",
+        "patent_id": "patent/CN112310343A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112310343A%2Fen"
+      },
+      {
+        "publication_number": "CN112420983A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-11-26",
+        "publication_date": "2021-02-26",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Positive plate and lithium ion battery",
+        "patent_id": "patent/CN112420983A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112420983A%2Fen"
+      },
+      {
+        "publication_number": "CN112420984A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-11-26",
+        "publication_date": "2021-02-26",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Negative plate and lithium ion battery",
+        "patent_id": "patent/CN112420984A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112420984A%2Fen"
+      },
+      {
+        "publication_number": "CN112701247A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-29",
+        "publication_date": "2021-04-23",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Negative plate, battery roll core and battery",
+        "patent_id": "patent/CN112701247A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112701247A%2Fen"
+      },
+      {
+        "publication_number": "CN112820856A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-30",
+        "publication_date": "2021-05-18",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Electrode plate, secondary battery comprising same and device",
+        "patent_id": "patent/CN112820856A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112820856A%2Fen"
+      },
+      {
+        "publication_number": "CN112820854A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-30",
+        "publication_date": "2021-05-18",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Electrode plate and application thereof",
+        "patent_id": "patent/CN112820854A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112820854A%2Fen"
+      },
+      {
+        "publication_number": "CN113036076A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-02-25",
+        "publication_date": "2021-06-25",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Positive plate and battery",
+        "patent_id": "patent/CN113036076A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113036076A%2Fen"
+      },
+      {
+        "publication_number": "CN113066954A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-03-12",
+        "publication_date": "2021-07-02",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Negative plate and application thereof",
+        "patent_id": "patent/CN113066954A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113066954A%2Fen"
+      },
+      {
+        "publication_number": "CN113140693A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-04-19",
+        "publication_date": "2021-07-20",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Negative plate, battery core and battery",
+        "patent_id": "patent/CN113140693A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113140693A%2Fen"
+      },
+      {
+        "publication_number": "CN113358428A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-04-26",
+        "publication_date": "2021-09-07",
+        "assignee_original": "\u4e07\u5411\u4e00\u4e8c\u4e09\u80a1\u4efd\u516c\u53f8",
+        "title": "Lithium battery pole piece processing method",
+        "patent_id": "patent/CN113358428A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113358428A%2Fen"
+      },
+      {
+        "publication_number": "CN113764617A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-15",
+        "publication_date": "2021-12-07",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Negative plate and lithium ion battery",
+        "patent_id": "patent/CN113764617A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113764617A%2Fen"
+      },
+      {
+        "publication_number": "CN113871572A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-29",
+        "publication_date": "2021-12-31",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Positive plate and lithium ion battery",
+        "patent_id": "patent/CN113871572A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113871572A%2Fen"
+      },
+      {
+        "publication_number": "CN113966558A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-05-20",
+        "publication_date": "2022-01-21",
+        "assignee_original": "\u5b81\u5fb7\u65f6\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "A secondary battery, its preparation method and device containing the secondary battery",
+        "patent_id": "patent/CN113966558A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113966558A%2Fen"
+      },
+      {
+        "publication_number": "CN113991159A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-07-27",
+        "publication_date": "2022-01-28",
+        "assignee_original": "\u6cf0\u661f\u80fd\u6e90\u89e3\u51b3\u65b9\u6848\u6709\u9650\u516c\u53f8",
+        "title": "Secondary battery and method for manufacturing same",
+        "patent_id": "patent/CN113991159A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113991159A%2Fen"
+      },
+      {
+        "publication_number": "WO2022022520A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-07-27",
+        "publication_date": "2022-02-03",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Negative electrode sheet, preparation method therefor, and lithium ion battery comprising same",
+        "patent_id": "patent/WO2022022520A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022022520A1%2Fen"
+      },
+      {
+        "publication_number": "CN114127987A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-05-07",
+        "publication_date": "2022-03-01",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793eLg\u65b0\u80fd\u6e90",
+        "title": "High nickel electrode sheet with reduced moisture reactivity and method of making same",
+        "patent_id": "patent/CN114127987A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114127987A%2Fen"
+      },
+      {
+        "publication_number": "CN114156433A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-30",
+        "publication_date": "2022-03-08",
+        "assignee_original": "\u5b81\u5fb7\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Electrochemical device and electronic device",
+        "patent_id": "patent/CN114156433A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114156433A%2Fen"
+      },
+      {
+        "publication_number": "CN114242941A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-15",
+        "publication_date": "2022-03-25",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "A negative electrode sheet and its application",
+        "patent_id": "patent/CN114242941A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114242941A%2Fen"
+      },
+      {
+        "publication_number": "CN114665059A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-23",
+        "publication_date": "2022-06-24",
+        "assignee_original": "\u6bd4\u4e9a\u8fea\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Lithium ion battery pole piece, lithium ion battery and vehicle",
+        "patent_id": "patent/CN114665059A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114665059A%2Fen"
+      },
+      {
+        "publication_number": "WO2022143859A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-30",
+        "publication_date": "2022-07-07",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Electrode plate and lithium-ion battery",
+        "patent_id": "patent/WO2022143859A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022143859A1%2Fen"
+      },
+      {
+        "publication_number": "CN114759272A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-05-17",
+        "publication_date": "2022-07-15",
+        "assignee_original": "\u5b81\u5fb7\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Electrode assembly, electrochemical device comprising same and electronic device",
+        "patent_id": "patent/CN114759272A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114759272A%2Fen"
+      },
+      {
+        "publication_number": "WO2022165688A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-02-04",
+        "publication_date": "2022-08-11",
+        "assignee_original": "\u5b81\u5fb7\u65f6\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Electrode assembly and manufacturing method and system therefor, battery cell, and battery",
+        "patent_id": "patent/WO2022165688A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022165688A1%2Fen"
+      },
+      {
+        "publication_number": "CN115149086A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-06-15",
+        "publication_date": "2022-10-04",
+        "assignee_original": "\u5b81\u5fb7\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Electrochemical and electronic devices",
+        "patent_id": "patent/CN115149086A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115149086A%2Fen"
+      },
+      {
+        "publication_number": "WO2022205099A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-03-31",
+        "publication_date": "2022-10-06",
+        "assignee_original": "\u5b81\u5fb7\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Electrochemical device and electronic device comprising same",
+        "patent_id": "patent/WO2022205099A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022205099A1%2Fen"
+      },
+      {
+        "publication_number": "KR20230010502A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-07-12",
+        "publication_date": "2023-01-19",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc5d8\uc9c0\uc5d0\ub108\uc9c0\uc194\ub8e8\uc158",
+        "title": "Negative electrode for secondary battery comprising active material layer having different composition, electrode assembly and secondary battery comprising the same",
+        "patent_id": "patent/KR20230010502A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20230010502A%2Fen"
+      },
+      {
+        "publication_number": "CN115763692A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-08",
+        "publication_date": "2023-03-07",
+        "assignee_original": "\u6c5f\u82cf\u6b63\u529b\u65b0\u80fd\u7535\u6c60\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "title": "Positive plate and battery",
+        "patent_id": "patent/CN115763692A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115763692A%2Fen"
+      },
+      {
+        "publication_number": "US11848422B2",
+        "primary_language": "en",
+        "priority_date": "2020-08-13",
+        "publication_date": "2023-12-19",
+        "assignee_original": "Dongguan Poweramp Technology Limited",
+        "title": "Electrochemical device and electronic device",
+        "patent_id": "patent/US11848422B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11848422B2%2Fen"
+      },
+      {
+        "publication_number": "WO2024065726A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-30",
+        "publication_date": "2024-04-04",
+        "assignee_original": "\u5b81\u5fb7\u65f6\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Electrode sheet, battery cell, battery, and electric device",
+        "patent_id": "patent/WO2024065726A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024065726A1%2Fen"
+      },
+      {
+        "publication_number": "WO2024103224A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-11-14",
+        "publication_date": "2024-05-23",
+        "assignee_original": "\u5b81\u5fb7\u65f6\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Electrode sheet, electrode assembly, battery cell, battery and electrical device",
+        "patent_id": "patent/WO2024103224A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024103224A1%2Fen"
+      },
+      {
+        "publication_number": "WO2024215050A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-04-13",
+        "publication_date": "2024-10-17",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc5d8\uc9c0\uc5d0\ub108\uc9c0\uc194\ub8e8\uc158",
+        "title": "Electrode assembly, manufacturing method therefor, and secondary battery, battery pack and transportation means including electrode assembly",
+        "patent_id": "patent/WO2024215050A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024215050A1%2Fen"
+      },
+      {
+        "publication_number": "EP4287331A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-10-29",
+        "publication_date": "2024-12-25",
+        "assignee_original": "Contemporary Amperex Technology (Hong Kong) Limited",
+        "title": "SECONDARY BATTERY, BATTERY MODULE, BATTERY PACK AND ELECTRICAL DEVICE",
+        "patent_id": "patent/EP4287331A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4287331A4%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "CN112225576A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-10-20",
+        "publication_date": "2021-01-15",
+        "assignee_original": "\u5927\u540c\u901a\u626c\u78b3\u7d20\u6709\u9650\u516c\u53f8",
+        "title": "Preparation method of graphite electrode beneficial to reducing loss",
+        "patent_id": "patent/CN112225576A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112225576A%2Fen"
+      },
+      {
+        "publication_number": "KR102744329B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-14",
+        "publication_date": "2024-12-18",
+        "assignee_original": "\ub3c4\uc694\ud0c0 \uc9c0\ub3c4\uc0e4\uff08\uc8fc\uff09",
+        "title": "All solid state battery",
+        "patent_id": "patent/KR102744329B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102744329B1%2Fen"
+      },
+      {
+        "publication_number": "WO2022141302A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-30",
+        "publication_date": "2022-07-07",
+        "assignee_original": "\u5b81\u5fb7\u65f6\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Secondary battery and preparation method therefor, battery module comprising secondary battery, battery pack, and device",
+        "patent_id": "patent/WO2022141302A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022141302A1%2Fen"
+      },
+      {
+        "publication_number": "CN113178543B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-05-25",
+        "publication_date": "2023-06-23",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Negative plate and lithium ion battery",
+        "patent_id": "patent/CN113178543B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113178543B%2Fen"
+      },
+      {
+        "publication_number": "CN113659105B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-08-17",
+        "publication_date": "2022-12-27",
+        "assignee_original": "\u5b81\u5fb7\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Electrochemical device and electronic device",
+        "patent_id": "patent/CN113659105B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113659105B%2Fen"
+      },
+      {
+        "publication_number": "CN116783736A",
+        "primary_language": "en",
+        "priority_date": "2021-10-13",
+        "publication_date": "2023-09-19",
+        "assignee_original": "\u5b81\u5fb7\u65f6\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Electrode assemblies, secondary batteries, battery modules, battery packs and electrical devices",
+        "patent_id": "patent/CN116783736A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116783736A%2Fen"
+      },
+      {
+        "publication_number": "JP7492018B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-10-13",
+        "publication_date": "2024-05-28",
+        "assignee_original": "\u5be7\u5fb3\u6642\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u25b2\u5206\u25bc\u6709\u9650\u516c\u53f8",
+        "title": "Electrode assembly, secondary battery, battery module, battery pack, and power consuming device",
+        "patent_id": "patent/JP7492018B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7492018B2%2Fen"
+      },
+      {
+        "publication_number": "WO2023123411A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-31",
+        "publication_date": "2023-07-06",
+        "assignee_original": "\u5b81\u5fb7\u65f6\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Negative electrode plate, preparation method therefor, secondary battery comprising negative electrode plate, and electric device",
+        "patent_id": "patent/WO2023123411A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2023123411A1%2Fen"
+      },
+      {
+        "publication_number": "EP4597604A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-30",
+        "publication_date": "2025-08-06",
+        "assignee_original": "Panasonic Energy Co., Ltd.",
+        "title": "Secondary battery positive electrode, secondary battery, and production method for secondary battery positive electrode",
+        "patent_id": "patent/EP4597604A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4597604A1%2Fen"
+      },
+      {
+        "publication_number": "CN116130599A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-12-20",
+        "publication_date": "2023-05-16",
+        "assignee_original": "\u8702\u5de2\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "A kind of negative pole piece of sodium ion battery",
+        "patent_id": "patent/CN116130599A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116130599A%2Fen"
+      },
+      {
+        "publication_number": "SE2350093A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-02-01",
+        "publication_date": "2024-08-02",
+        "assignee_original": "Northvolt Ab",
+        "title": "Battery with improved electrode assembly",
+        "patent_id": "patent/SE2350093A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE2350093A1%2Fen"
+      },
+      {
+        "publication_number": "WO2025093724A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-11-01",
+        "publication_date": "2025-05-08",
+        "assignee_original": "Northvolt Ab",
+        "title": "Insulating edge coating",
+        "patent_id": "patent/WO2025093724A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025093724A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US11682765B2",
+      "primary_language": "en",
+      "publication_date": "2023-06-20",
+      "title": "Electrode and electrochemical device including the same",
+      "patent_id": "patent/US11682765B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11682765B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11728474B2",
+      "primary_language": "en",
+      "publication_date": "2023-08-15",
+      "title": "Electrode and electrochemical device including the same",
+      "patent_id": "patent/US11728474B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11728474B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109841831B",
+      "primary_language": "en",
+      "publication_date": "2020-12-25",
+      "title": "Negative electrode material, negative electrode comprising same, and electrochemical device",
+      "patent_id": "patent/CN109841831B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109841831B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111916844B",
+      "primary_language": "en",
+      "publication_date": "2022-04-15",
+      "title": "Electrochemical devices and electronic devices",
+      "patent_id": "patent/CN111916844B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111916844B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113097441B",
+      "primary_language": "en",
+      "publication_date": "2023-03-21",
+      "title": "Electrochemical device and electronic device",
+      "patent_id": "patent/CN113097441B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113097441B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109841794B",
+      "primary_language": "en",
+      "publication_date": "2021-07-20",
+      "title": "Electrode pole piece and electrochemical device comprising the electrode pole piece",
+      "patent_id": "patent/CN109841794B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109841794B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111916845A",
+      "primary_language": "en",
+      "publication_date": "2020-11-10",
+      "title": "Electrochemical device and electronic device",
+      "patent_id": "patent/CN111916845A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111916845A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN114614212B",
+      "primary_language": "en",
+      "publication_date": "2022-08-19",
+      "title": "An electrochemical device and electronic device",
+      "patent_id": "patent/CN114614212B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114614212B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113437366B",
+      "primary_language": "en",
+      "publication_date": "2023-02-03",
+      "title": "Electrolyte and electrochemical device",
+      "patent_id": "patent/CN113437366B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113437366B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113366673B",
+      "primary_language": "en",
+      "publication_date": "2023-05-09",
+      "title": "Electrochemical devices and electronic devices",
+      "patent_id": "patent/CN113366673B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113366673B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2023039750A1",
+      "primary_language": "en",
+      "publication_date": "2023-03-23",
+      "title": "Negative electrode composite material and use thereof",
+      "patent_id": "patent/WO2023039750A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2023039750A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107464933A",
+      "primary_language": "en",
+      "publication_date": "2017-12-12",
+      "title": "The active material of positive electrode of lithium secondary battery including its anode and lithium secondary battery",
+      "patent_id": "patent/CN107464933A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107464933A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111146396B",
+      "primary_language": "en",
+      "publication_date": "2022-11-04",
+      "title": "Electrochemical device and electronic device including the same",
+      "patent_id": "patent/CN111146396B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111146396B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104969403A",
+      "primary_language": "en",
+      "publication_date": "2015-10-07",
+      "title": "Non-aqueous electrolyte solution and lithium secondary battery containing same",
+      "patent_id": "patent/CN104969403A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104969403A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN116646588A",
+      "primary_language": "en",
+      "publication_date": "2023-08-25",
+      "title": "Sodium ion battery, battery module, battery pack and electricity utilization device",
+      "patent_id": "patent/CN116646588A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116646588A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20200227741A1",
+      "primary_language": "en",
+      "publication_date": "2020-07-16",
+      "title": "Cathode material and electrochemical device including cathode material",
+      "patent_id": "patent/US20200227741A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200227741A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109994729A",
+      "primary_language": "en",
+      "publication_date": "2019-07-09",
+      "title": "Positive electrode material and electrochemical device using the same",
+      "patent_id": "patent/CN109994729A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109994729A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109873144B",
+      "primary_language": "en",
+      "publication_date": "2020-10-20",
+      "title": "Negative electrode material and electrochemical device using same",
+      "patent_id": "patent/CN109873144B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109873144B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2023070989A1",
+      "primary_language": "en",
+      "publication_date": "2023-05-04",
+      "title": "Electrochemical device and electronic device comprising same",
+      "patent_id": "patent/WO2023070989A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2023070989A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN115336068A",
+      "primary_language": "en",
+      "publication_date": "2022-11-11",
+      "title": "Electrochemical device and electronic device including same",
+      "patent_id": "patent/CN115336068A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115336068A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113646946B",
+      "primary_language": "en",
+      "publication_date": "2024-09-13",
+      "title": "Secondary battery",
+      "patent_id": "patent/CN113646946B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113646946B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20250183257A1",
+      "primary_language": "en",
+      "publication_date": "2025-06-05",
+      "title": "Electrochemical apparatus and electronic apparatus",
+      "patent_id": "patent/US20250183257A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250183257A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2021134279A1",
+      "primary_language": "en",
+      "publication_date": "2021-07-08",
+      "title": "Electrochemical device and electronic device comprising same",
+      "patent_id": "patent/WO2021134279A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021134279A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111971845A",
+      "primary_language": "en",
+      "publication_date": "2020-11-20",
+      "title": "Electrolyte and electrochemical device",
+      "patent_id": "patent/CN111971845A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111971845A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN116093435A",
+      "primary_language": "en",
+      "publication_date": "2023-05-09",
+      "title": "Electrochemical device and electronic device including the same",
+      "patent_id": "patent/CN116093435A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116093435A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2019-07-05",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2019-07-05",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2019-07-30",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2019-07-30",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2021-06-04",
+      "code": "TA01",
+      "title": "Transfer of patent application right",
+      "attributes": [
+        {
+          "label": "Effective date of registration",
+          "value": "20210521"
+        },
+        {
+          "label": "Address after",
+          "value": "523808 No.1, Xinghui Road, Songshanhu Park, Dongguan City, Guangdong Province"
+        },
+        {
+          "label": "Applicant after",
+          "value": "Dongguan xinneng'an Technology Co.,Ltd."
+        },
+        {
+          "label": "Address before",
+          "value": "352100 Xingang Road, Zhangwan Town, Jiaocheng District, Ningde, Fujian 1"
+        },
+        {
+          "label": "Applicant before",
+          "value": "NINGDE AMPEREX TECHNOLOGY Ltd."
+        }
+      ]
+    },
+    {
+      "date": "2021-06-04",
+      "code": "TA01",
+      "title": "Transfer of patent application right"
+    },
+    {
+      "date": "2021-10-22",
+      "code": "GR01",
+      "title": "Patent grant"
+    },
+    {
+      "date": "2021-10-22",
+      "code": "GR01",
+      "title": "Patent grant"
+    },
+    {
+      "date": "2025-02-07",
+      "code": "TR01",
+      "title": "Transfer of patent right",
+      "attributes": [
+        {
+          "label": "Effective date of registration",
+          "value": "20250120"
+        },
+        {
+          "label": "Address after",
+          "value": "No. 1 Xingang Road, Zhangwan Town, Jiaocheng District, Ningde City, Fujian Province - Ningde New Energy Technology Co.,Ltd."
+        },
+        {
+          "label": "Patentee after",
+          "value": "NINGDE AMPEREX TECHNOLOGY Ltd."
+        },
+        {
+          "label": "Country or region after",
+          "value": "China"
+        },
+        {
+          "label": "Address before",
+          "value": "523808 No.1, Xinghui Road, Songshanhu Park, Dongguan City, Guangdong Province"
+        },
+        {
+          "label": "Patentee before",
+          "value": "Dongguan xinneng'an Technology Co.,Ltd."
+        },
+        {
+          "label": "Country or region before",
+          "value": "China"
+        }
+      ]
+    },
+    {
+      "date": "2025-02-07",
+      "code": "TR01",
+      "title": "Transfer of patent right"
+    }
+  ]
+}

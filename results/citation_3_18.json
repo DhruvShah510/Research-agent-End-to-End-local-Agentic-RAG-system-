@@ -1,0 +1,2045 @@
+{
+  "search_metadata": {
+    "id": "68a9f8dafd81c8250c3debc4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f08b6265e4b7b5d5/68a9f8dafd81c8250c3debc4.json",
+    "created_at": "2025-08-23 17:22:34 UTC",
+    "processed_at": "2025-08-23 17:22:34 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/EP2573853A1/en",
+    "raw_html_file": "https://serpapi.com/searches/f08b6265e4b7b5d5/68a9f8dafd81c8250c3debc4.html",
+    "total_time_taken": 0.76
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/EP2573853A1/en"
+  },
+  "title": "Electrolyte for lithium secondary battery and lithium secondary battery including the same",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/e8/be/74/6ba266bc275e86/EP2573853A1.pdf",
+  "publication_number": "EP2573853A1",
+  "country": "European Patent Office",
+  "prior_art_keywords": [
+    "group",
+    "substituted",
+    "electrolyte",
+    "unsubstituted",
+    "lithium secondary"
+  ],
+  "prior_art_date": "2011-09-22",
+  "application_number": "EP20120177702",
+  "inventors": [
+    {
+      "name": "Yoon-Sok Kang",
+      "link": "https://patents.google.com/?inventor=Yoon-Sok+Kang",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Yoon-Sok+Kang"
+    },
+    {
+      "name": "Min-Sik Park",
+      "link": "https://patents.google.com/?inventor=Min-Sik+Park",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Min-Sik+Park"
+    },
+    {
+      "name": "Jun-Young Mun",
+      "link": "https://patents.google.com/?inventor=Jun-Young+Mun",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Jun-Young+Mun"
+    },
+    {
+      "name": "Jin-Hwan Park",
+      "link": "https://patents.google.com/?inventor=Jin-Hwan+Park",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Jin-Hwan+Park"
+    },
+    {
+      "name": "Dong-Joon Lee",
+      "link": "https://patents.google.com/?inventor=Dong-Joon+Lee",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Dong-Joon+Lee"
+    }
+  ],
+  "assignees": [
+    "Samsung Electronics Co Ltd"
+  ],
+  "priority_date": "2011-09-22",
+  "filing_date": "2012-07-24",
+  "publication_date": "2013-03-27",
+  "worldwide_applications": {
+    "2011": [
+      {
+        "filing_date": "2011-09-22",
+        "country_code": "KR",
+        "application_number": "KR1020110095812A",
+        "document_id": "patent/KR101946011B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2012": [
+      {
+        "filing_date": "2012-07-11",
+        "country_code": "US",
+        "application_number": "US13/546,697",
+        "document_id": "patent/US9590266B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2012-07-24",
+        "country_code": "EP",
+        "application_number": "EP12177702.3A",
+        "document_id": "patent/EP2573853B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2012-09-19",
+        "country_code": "JP",
+        "application_number": "JP2012205466A",
+        "document_id": "patent/JP6072479B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2012-09-21",
+        "country_code": "CN",
+        "application_number": "CN201711283431.3A",
+        "document_id": "patent/CN107946647A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2012-09-21",
+        "country_code": "CN",
+        "application_number": "CN2012103567664A",
+        "document_id": "patent/CN103022558A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2012-07-24",
+      "title": "Application filed by Samsung Electronics Co Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Samsung Electronics Co Ltd"
+    },
+    {
+      "date": "2013-03-27",
+      "title": "Publication of EP2573853A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/EP2573853A1/en"
+    },
+    {
+      "date": "2020-09-09",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2020-09-09",
+      "title": "Publication of EP2573853B1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/EP2573853B1/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2032-07-24",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=EP&NR=2573853A1&KC=A1&FT=D"
+    },
+    {
+      "text": "EPO GPI",
+      "link": "https://data.epo.org/gpi/EP2573853A1"
+    },
+    {
+      "text": "EP Register",
+      "link": "https://register.epo.org/espacenet/application?number=EP12177702"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/EP/12177702/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/EP2573853A1"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/64/0b/ee/72e9422774604a/imgf0001.png",
+    "https://patentimages.storage.googleapis.com/3f/98/92/35488f7e03e20a/imgf0002.png",
+    "https://patentimages.storage.googleapis.com/4a/d6/4a/527710858a1bc2/imgf0003.png",
+    "https://patentimages.storage.googleapis.com/8d/ce/a2/a6a895516446d9/imgf0004.png",
+    "https://patentimages.storage.googleapis.com/cd/27/09/cadfa4e4272fb7/imgf0005.png",
+    "https://patentimages.storage.googleapis.com/ca/ed/51/7ff3a074dcf808/imgf0006.png",
+    "https://patentimages.storage.googleapis.com/5c/1a/f1/d7c3eab7b461db/imgf0007.png",
+    "https://patentimages.storage.googleapis.com/06/2b/5e/b78499df94cf30/imgf0008.png"
+  ],
+  "classifications": [
+    {
+      "code": "H01M10/0525",
+      "description": "Rocking-chair batteries, i.e. batteries with lithium insertion or intercalation in both electrodes; Lithium-ion batteries",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/052",
+      "description": "Li-accumulators",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0567",
+      "description": "Liquid materials characterised by the additives",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0568",
+      "description": "Liquid materials characterised by the solutes",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0569",
+      "description": "Liquid materials characterised by the solvents",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/13",
+      "description": "Electrodes for accumulators with non-aqueous electrolyte, e.g. for lithium-accumulators; Processes of manufacture thereof",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/36",
+      "description": "Selection of substances as active materials, active masses, active liquids",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/505",
+      "description": "Selection of substances as active materials, active masses, active liquids of inorganic oxides or hydroxides of manganese of mixed oxides or hydroxides containing manganese for inserting or intercalating light metals, e.g. LiMn2O4 or LiMn2OxFy",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/525",
+      "description": "Selection of substances as active materials, active masses, active liquids of inorganic oxides or hydroxides of nickel, cobalt or iron of mixed oxides or hydroxides containing iron, cobalt or nickel for inserting or intercalating light metals, e.g. LiNiO2, LiCoO2 or LiCoOxFy",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E60/10",
+      "description": "Energy storage using batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T10/70",
+      "description": "Energy storage systems for electromobility, e.g. batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "An electrolyte for a lithium secondary battery, the electrolyte including a lithium salt, a non-aqueous organic solvent, and a polar additive based on a substituted heterobicyclic compound. Oxidation of the electrolyte is prevented by formation of a polar thin film on a surface portion of the positive electrode, which facilitates transfer of lithium ions. The lithium secondary batteries using the electrolyte have excellent high temperature life characteristics and high temperature conservation characteristics.",
+  "description_link": "https://serpapi.com/searches/68a9f8dafd81c8250c3debc4/google_patents_details/description.html",
+  "claims": [
+    "An electrolyte for a lithium secondary battery, the electrolyte comprising a lithium salt, a non-aqueous organic solvent, and an additive represented by Formula 1 below:\n  \nwherein A1 to A9 are each, independently:\n  \nor\n  \nwith the proviso that A1 to A9 include at least one of\n  \nand\n  \nCY1 is a C3-C6 aromatic ring, and CY2 is a C3-C5 aromatic or non-aromatic ring;\nB1 and B2 are each independently a single bond,\n  \nor a C1-C5 alkylene group; and\nR1 and R2 are each independently hydrogen, a halogen group, a cyano group, a hydroxyl group, -C(=O)Ra, -C(=O)ORa, -OCO(ORa), -C=N(Ra), -SRa, -S(=O)Ra, - S(=O)2Ra, -PRa, a substituted or unsubstituted C1-C20 alkyl group, a substituted or unsubstituted C1-C20 alkoxy group, a substituted or unsubstituted C2-C20 alkenyl group, a substituted or unsubstituted C2-C20 alkynyl group, a C2-C20 alkylene oxide group, a substituted or unsubstituted C3-C30 cycloalkyl group, a substituted or unsubstituted C6-C30 aryl group, a substituted or unsubstituted C6-C30 aryloxy group, a substituted or unsubstituted C6-C30 heteroaryl group, or combinations thereof, wherein Ra is hydrogen, a C1-C10 alkyl group, or a C6-C20 aryl group,\nwith the proviso that at least one of R1 and R2 includes a polar functional group selected from the group consisting of a halogen group, a hydroxyl group, -C(=O)Ra, -C(=O)ORa, - OCO(ORa), C=N(Ra), -SRa, -PRa, a substituted or unsubstituted C1-C20 alkoxy group, a C2-C20 alkylene oxide group, a substituted or unsubstituted C6-C30 aryloxy group, and a substituted or unsubstituted C6-C30 heteroaryl group.",
+    "The electrolyte of claim 1, wherein the additive is represented by Formula 2 below:\n  \nwherein A1 and A2 are each, independently:\n  \nor\n  \nwith the proviso that A1 and A2 include at least one of\n  \nand\n  \nB3 and B4 are each independently a single bond,\n  \nor a C1-C5 alkylene group; and\nR'1, R\"1, R\"2, R\"3, and R\"4 are each independently hydrogen, a halogen group, a hydroxyl group, a cyano group, -C(=O)Ra, -C(=O)ORa, -OCO(ORa), -C=N(Ra), -SRa, - S(=O)Ra, -S(=O)2Ra, -PRa, a substituted or unsubstituted C1-C20 alkyl group, a substituted or unsubstituted C1-C20 alkoxy group, a substituted or unsubstituted C2-C20 alkenyl group, a substituted or unsubstituted C2-C20 alkynyl group, a C2-C20 alkylene oxide group, a substituted or unsubstituted C3-C30 cycloalkyl group, a substituted or unsubstituted C6-C30 aryl group, a substituted or unsubstituted C6-C30 aryloxy group, a substituted or unsubstituted C6-C30 heteroaryl group, or a combination thereof, wherein Ra is hydrogen, a C1-C10 alkyl group, or a C6-C20 aryl group,\nwith the proviso that at least one of R'1, R\"1, R\"2, R\"3, and R\"4 includes a polar functional group selected from the group consisting of a halogen group, a hydroxyl group, - C(=O)Ra, -C(=O)ORa, -OCO(ORa), C=N(Ra), -SRa, -PRa, a substituted or unsubstituted C1-C20 alkoxy group, a C2-C20 alkylene oxide group, a substituted or unsubstituted C6-C30 aryloxy group, and a substituted or unsubstituted C6-C30 heteroaryl group.",
+    "The electrolyte of claim 1, wherein the additive is at least one compound selected from the group consisting of:\n  \n  \n  \n  \nand",
+    "The electrolyte of claim 1, wherein the additive is at least one compound selected from the group consisting of:",
+    "The electrolyte of claim 1, wherein the additive is at least one compound selected from the group consisting of",
+    "The electrolyte of any of claims 1-5, wherein the amount of the additive is in a range of about 0.005 to about 10 wt% based on the total weight of the electrolyte.",
+    "The electrolyte of claim 6, wherein the amount of the additive is in a range of about 0.01 to about 5 wt% based on the total weight of the electrolyte.",
+    "The electrolyte of any of claims 1-7, wherein the lithium salt is one compound selected from LiPF6, LiBF4, LiSbF6, LiAsF6, LiCF3S03, Li(CF3SO2)3C, Li(CF3SO2)2N, LiC4F9SO3, LiCl04, LiAlO4, LiAlCl4, LiBPh4, LiN(CxF2x+1SO2)(CxF2y+1SO2) where x and y are natural numbers, LiCl, Lil, lithium bisoxalate borate (LIBOB), and combinations thereof.",
+    "The electrolyte of any of claims 1-8, wherein the non-aqueous organic solvent is a carbonate-based solvent, an ester-based solvent, an ether-based solvent, a ketone-based solvent, an alcohol-based solvent, a non-protonic solvent, or combinations thereof.",
+    "A lithium secondary battery comprising:\na positive electrode comprising a positive active material into or from which lithium ions are intercalated or deintercalated;\na negative electrode comprising a negative active material into or from which lithium ions are intercalated or deintercalated; and\nan electrolyte interposed between the positive electrode and the negative electrode,\nwherein the electrolyte is an electrolyte according to any of claims 1-9.",
+    "The lithium secondary battery of claim 10, wherein the positive electrode comprises a film formed on its surface, wherein the film is partially or fully derived from the additive in the electrolyte.",
+    "The lithium secondary battery of claim 11, wherein the thickness of the film is in a range of about 0.5 nm to about 100 nm.",
+    "The lithium secondary battery of any of claims 10-12, wherein the positive active material is Li1+x(M)1-xO2, 0.05\u2264x\u22640.2 and M is a transition metal.",
+    "The lithium secondary battery of any of claims 10-13, wherein the positive active material has an operating potential of 4.5 V \u00b1 0.5 V.",
+    "The lithium secondary battery of any of claims 10-14, wherein the negative active material is at least one material from the group vanadium oxide, lithium vanadium oxide, Si, SiOx where 0 < x < 2, Si-T alloys where T is Mg, Ca, Sr, Ba, Sc, Y, Ti, Zr, Hf, V, Nb, Ta, Cr, Mo, W, Re, Fe, Pb, Ru, Os, Rh, Ir, Pd, Pt, Cu, Ag, Au, Zn, Cd, B, Al, Ga, Sn, In, Ti, Ge, P, As, Sb, Bi, S, Se, Te, or combinations thereof, graphite, soft carbon, hard carbon, meso-phase pitch carbide, and calcined coke."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "KR1020110095812A",
+      "representative_publication": "KR101946011B1",
+      "primary_language": "en",
+      "priority_date": "2011-09-22",
+      "filing_date": "2011-09-22",
+      "title": "Electrolyte solution for lithium secondary battery and lithium secondary battery using the same"
+    }
+  ],
+  "family_id": "46548333",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "JP2001143748A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-11-15",
+        "publication_date": "2001-05-25",
+        "assignee_original": "Denso Corp",
+        "title": "Electrolyte for cell and non-aqueous electrolyte secondary cell",
+        "patent_id": "patent/JP2001143748A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2001143748A%2Fen"
+      },
+      {
+        "publication_number": "US20010004507A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-10-22",
+        "publication_date": "2001-06-21",
+        "assignee_original": "Hong Gan",
+        "title": "Organic carbonate additives for nonaqueous electrolyte rechargeable electrochemical cells",
+        "patent_id": "patent/US20010004507A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20010004507A1%2Fen"
+      },
+      {
+        "publication_number": "US20030190530A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-28",
+        "publication_date": "2003-10-09",
+        "assignee_original": "Li Yang",
+        "title": "Lithium Secondary Battery",
+        "patent_id": "patent/US20030190530A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030190530A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "ES338687A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1966-04-06",
+        "publication_date": "1968-04-01",
+        "assignee_original": "Monsanto Co",
+        "title": "Functional fluid compositions",
+        "patent_id": "patent/ES338687A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES338687A1%2Fen"
+      },
+      {
+        "publication_number": "JPH0624147B2",
+        "primary_language": "en",
+        "priority_date": "1982-08-09",
+        "publication_date": "1994-03-30",
+        "assignee_original": "\u30d2\u30e5\u30fc\u30ba\u30fb\u30a8\u30a2\u30af\u30e9\u30d5\u30c8\u30fb\u30ab\u30f3\u30d1\u30cb\u30fc",
+        "title": "Nickel-cadmium battery with electrolyte reservoir",
+        "patent_id": "patent/JPH0624147B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0624147B2%2Fen"
+      },
+      {
+        "publication_number": "JPH06349523A",
+        "primary_language": "en",
+        "priority_date": "1993-06-10",
+        "publication_date": "1994-12-22",
+        "assignee_original": "Fuji Photo Film Co Ltd",
+        "title": "Nonaqueous battery",
+        "patent_id": "patent/JPH06349523A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH06349523A%2Fen"
+      },
+      {
+        "publication_number": "CA2163187C",
+        "primary_language": "en",
+        "priority_date": "1995-11-17",
+        "publication_date": "2003-04-15",
+        "assignee_original": "Huanyu Mao",
+        "title": "Aromatic monomer gassing agents for protecting non-aqueous lithium batteries against overcharge",
+        "patent_id": "patent/CA2163187C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2163187C%2Fen"
+      },
+      {
+        "publication_number": "JPH09204932A",
+        "primary_language": "en",
+        "priority_date": "1996-01-25",
+        "publication_date": "1997-08-05",
+        "assignee_original": "Fujitsu Ltd",
+        "title": "Electrolyte for lithium secondary battery and lithium secondary battery",
+        "patent_id": "patent/JPH09204932A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH09204932A%2Fen"
+      },
+      {
+        "publication_number": "JP3417228B2",
+        "primary_language": "en",
+        "priority_date": "1996-08-30",
+        "publication_date": "2003-06-16",
+        "assignee_original": "\u5b87\u90e8\u8208\u7523\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte and lithium secondary battery",
+        "patent_id": "patent/JP3417228B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3417228B2%2Fen"
+      },
+      {
+        "publication_number": "JPH1167272A",
+        "primary_language": "en",
+        "priority_date": "1997-08-19",
+        "publication_date": "1999-03-09",
+        "assignee_original": "Yuasa Corp",
+        "title": "Lithium battery",
+        "patent_id": "patent/JPH1167272A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH1167272A%2Fen"
+      },
+      {
+        "publication_number": "EP0996187A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-10-22",
+        "publication_date": "2000-04-26",
+        "assignee_original": "Wilson Greatbatch Ltd.",
+        "title": "Organic carbonate additives for nonaqueous electrolyte rechargeable cells",
+        "patent_id": "patent/EP0996187A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0996187A1%2Fen"
+      },
+      {
+        "publication_number": "JP2000294273A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-04-02",
+        "publication_date": "2000-10-20",
+        "assignee_original": "Mitsui Chemicals Inc",
+        "title": "Nonaqueous electrolyte and secondary battery using it",
+        "patent_id": "patent/JP2000294273A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000294273A%2Fen"
+      },
+      {
+        "publication_number": "JP2001273927A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-28",
+        "publication_date": "2001-10-05",
+        "assignee_original": "Ngk Insulators Ltd",
+        "title": "Lithium secondary battery",
+        "patent_id": "patent/JP2001273927A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2001273927A%2Fen"
+      },
+      {
+        "publication_number": "JP4576662B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-04-25",
+        "publication_date": "2010-11-10",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Positive electrode material for lithium secondary battery, positive electrode for lithium secondary battery, and lithium secondary battery",
+        "patent_id": "patent/JP4576662B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4576662B2%2Fen"
+      },
+      {
+        "publication_number": "JP4734705B2",
+        "primary_language": "en",
+        "priority_date": "2000-10-31",
+        "publication_date": "2011-07-27",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Positive electrode material for lithium secondary battery, positive electrode for lithium secondary battery, and lithium secondary battery",
+        "patent_id": "patent/JP4734705B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4734705B2%2Fen"
+      },
+      {
+        "publication_number": "US6899804B2",
+        "primary_language": "en",
+        "priority_date": "2001-04-10",
+        "publication_date": "2005-05-31",
+        "assignee_original": "Applied Materials, Inc.",
+        "title": "Electrolyte composition and treatment for electrolytic chemical mechanical polishing",
+        "patent_id": "patent/US6899804B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6899804B2%2Fen"
+      },
+      {
+        "publication_number": "JP2003123837A",
+        "primary_language": "en",
+        "priority_date": "2001-10-15",
+        "publication_date": "2003-04-25",
+        "assignee_original": "Sony Corp",
+        "title": "Electrolyte and battery",
+        "patent_id": "patent/JP2003123837A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2003123837A%2Fen"
+      },
+      {
+        "publication_number": "NZ520452A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-31",
+        "publication_date": "2005-03-24",
+        "assignee_original": "Lg Chemical Ltd",
+        "title": "Anion containing mixed hydroxide and lithium transition metal oxide with gradient of metal composition",
+        "patent_id": "patent/NZ520452A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNZ520452A%2Fen"
+      },
+      {
+        "publication_number": "KR100527827B1",
+        "primary_language": "en",
+        "priority_date": "2003-03-13",
+        "publication_date": "2005-11-09",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "A non-aqueous electrolyte and a lithium secondary battery comprising the same",
+        "patent_id": "patent/KR100527827B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100527827B1%2Fen"
+      },
+      {
+        "publication_number": "KR20050029778A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-09-22",
+        "publication_date": "2005-03-28",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "An electrolyte for a lithium battery and a lithium battery comprising the same",
+        "patent_id": "patent/KR20050029778A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20050029778A%2Fen"
+      },
+      {
+        "publication_number": "JP2007087737A",
+        "primary_language": "en",
+        "priority_date": "2005-09-21",
+        "publication_date": "2007-04-05",
+        "assignee_original": "Hamamatsu Kagaku Gijutsu Kenkyu Shinkokai",
+        "title": "Lithium ion conductive material and lithium secondary battery",
+        "patent_id": "patent/JP2007087737A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007087737A%2Fen"
+      },
+      {
+        "publication_number": "JP4902998B2",
+        "primary_language": "en",
+        "priority_date": "2006-01-25",
+        "publication_date": "2012-03-21",
+        "assignee_original": "\u4e09\u6d0b\u5316\u6210\u5de5\u696d\u682a\u5f0f\u4f1a\u793e",
+        "title": "Electrolytic solution for electrochemical capacitor and electrochemical capacitor using the same",
+        "patent_id": "patent/JP4902998B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4902998B2%2Fen"
+      },
+      {
+        "publication_number": "CN1819324A",
+        "primary_language": "en",
+        "priority_date": "2006-03-03",
+        "publication_date": "2006-08-16",
+        "assignee_original": "\u6d59\u6c5f\u963b\u71c3\u9502\u7535\u6750\u6599\u6709\u9650\u516c\u53f8",
+        "title": "Electrolyte and lithium ion battery using same",
+        "patent_id": "patent/CN1819324A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1819324A%2Fen"
+      },
+      {
+        "publication_number": "JP4894313B2",
+        "primary_language": "en",
+        "priority_date": "2006-03-16",
+        "publication_date": "2012-03-14",
+        "assignee_original": "\u30bd\u30cb\u30fc\u682a\u5f0f\u4f1a\u793e",
+        "title": "Nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/JP4894313B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4894313B2%2Fen"
+      },
+      {
+        "publication_number": "JP2008052988A",
+        "primary_language": "en",
+        "priority_date": "2006-08-23",
+        "publication_date": "2008-03-06",
+        "assignee_original": "Bridgestone Corp",
+        "title": "Nonaqueous electrolytic solution for battery, and nonaqueous electrolytic solution battery equipped with it",
+        "patent_id": "patent/JP2008052988A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2008052988A%2Fen"
+      },
+      {
+        "publication_number": "JP5292885B2",
+        "primary_language": "en",
+        "priority_date": "2008-03-27",
+        "publication_date": "2013-09-18",
+        "assignee_original": "\u4f4f\u53cb\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Positive electrode active material powder",
+        "patent_id": "patent/JP5292885B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5292885B2%2Fen"
+      },
+      {
+        "publication_number": "JP2009272243A",
+        "primary_language": "en",
+        "priority_date": "2008-05-09",
+        "publication_date": "2009-11-19",
+        "assignee_original": "Mitsui Mining & Smelting Co Ltd",
+        "title": "Nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/JP2009272243A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2009272243A%2Fen"
+      },
+      {
+        "publication_number": "JP2010084094A",
+        "primary_language": "en",
+        "priority_date": "2008-10-02",
+        "publication_date": "2010-04-15",
+        "assignee_original": "Nec Corp",
+        "title": "Organometallic polymer structure, oxygen reduction catalyst and method for producing the same",
+        "patent_id": "patent/JP2010084094A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2010084094A%2Fen"
+      },
+      {
+        "publication_number": "JP2010270107A",
+        "primary_language": "en",
+        "priority_date": "2009-04-21",
+        "publication_date": "2010-12-02",
+        "assignee_original": "Sumitomo Chemical Co Ltd",
+        "title": "Modified metal complex",
+        "patent_id": "patent/JP2010270107A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2010270107A%2Fen"
+      },
+      {
+        "publication_number": "JP2011134459A",
+        "primary_language": "en",
+        "priority_date": "2009-12-22",
+        "publication_date": "2011-07-07",
+        "assignee_original": "Konica Minolta Holdings Inc",
+        "title": "Electrolytic composition, secondary battery, and compound",
+        "patent_id": "patent/JP2011134459A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2011134459A%2Fen"
+      },
+      {
+        "publication_number": "KR101850764B1",
+        "primary_language": "en",
+        "priority_date": "2011-03-30",
+        "publication_date": "2018-05-30",
+        "assignee_original": "\uc0bc\uc131\uc804\uc790\uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Electrolyte solution for seconndary lithium battery and secondary lithium battery using the same",
+        "patent_id": "patent/KR101850764B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101850764B1%2Fen"
+      },
+      {
+        "publication_number": "KR101837036B1",
+        "primary_language": "en",
+        "priority_date": "2011-03-30",
+        "publication_date": "2018-03-09",
+        "assignee_original": "\uc0bc\uc131\uc804\uc790\uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Electrolyte Solution for Lithium Secondary Battery and Lithium Secondary Battery Using the same",
+        "patent_id": "patent/KR101837036B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101837036B1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN104466245A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-09-13",
+        "publication_date": "2015-03-25",
+        "assignee_original": "\u82cf\u5dde\u7eb3\u65b0\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Lithium ion battery electrolyte solution composition",
+        "patent_id": "patent/CN104466245A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104466245A%2Fen"
+      },
+      {
+        "publication_number": "EP3279997A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-03-31",
+        "publication_date": "2018-03-14",
+        "assignee_original": "Asahi Kasei Kabushiki Kaisha",
+        "title": "Nonaqueous electrolyte and nonaqueous secondary battery",
+        "patent_id": "patent/EP3279997A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3279997A4%2Fen"
+      },
+      {
+        "publication_number": "EP3598558A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-17",
+        "publication_date": "2021-09-01",
+        "assignee_original": "Asahi Kasei Kabushiki Kaisha",
+        "title": "Nonaqueous electrolyte, nonaqueous secondary battery, cell pack, and hybrid system",
+        "patent_id": "patent/EP3598558A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3598558A4%2Fen"
+      },
+      {
+        "publication_number": "US11532839B2",
+        "primary_language": "en",
+        "priority_date": "2017-03-17",
+        "publication_date": "2022-12-20",
+        "assignee_original": "Asahi Kasei Kabushiki Kaisha",
+        "title": "Non-aqueous secondary battery",
+        "patent_id": "patent/US11532839B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11532839B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "TWI533490B",
+        "primary_language": "en",
+        "priority_date": "2013-11-28",
+        "publication_date": "2016-05-11",
+        "assignee_original": "\u570b\u7acb\u81fa\u7063\u79d1\u6280\u5927\u5b78",
+        "title": "Electrolyte and lithium battery",
+        "patent_id": "patent/TWI533490B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI533490B%2Fen"
+      },
+      {
+        "publication_number": "KR102472905B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-04",
+        "publication_date": "2022-12-01",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Electrolyte and lithium battery including the electrolyte",
+        "patent_id": "patent/KR102472905B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102472905B1%2Fen"
+      },
+      {
+        "publication_number": "JP6564336B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-02-22",
+        "publication_date": "2019-08-21",
+        "assignee_original": "\u65ed\u5316\u6210\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte and non-aqueous secondary battery",
+        "patent_id": "patent/JP6564336B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6564336B2%2Fen"
+      },
+      {
+        "publication_number": "CN112088409B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-05-02",
+        "publication_date": "2023-11-03",
+        "assignee_original": "\u65e5\u672c\u7279\u6b8a\u9676\u4e1a\u682a\u5f0f\u4f1a\u793e",
+        "title": "Ion conductor and power storage device",
+        "patent_id": "patent/CN112088409B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112088409B%2Fen"
+      },
+      {
+        "publication_number": "KR102287332B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-08-07",
+        "publication_date": "2021-08-06",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Electrolyte for rechargeable lithium battery and rechargeable lithium battery",
+        "patent_id": "patent/KR102287332B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102287332B1%2Fen"
+      },
+      {
+        "publication_number": "KR102650658B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-11-15",
+        "publication_date": "2024-03-25",
+        "assignee_original": "\uc0bc\uc131\uc804\uc790\uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Metallic salt including anion having heterocyclic aromatic structure and manufacturing method thereof, and electrolyte and electrochemincal device including the metallic salt",
+        "patent_id": "patent/KR102650658B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102650658B1%2Fen"
+      },
+      {
+        "publication_number": "CN109887764B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-01-24",
+        "publication_date": "2021-06-25",
+        "assignee_original": "\u65e0\u9521\u51ef\u5e15\u5fb7\u745e\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Electrolyte of high-nickel ternary system capacitor battery and preparation method thereof",
+        "patent_id": "patent/CN109887764B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109887764B%2Fen"
+      },
+      {
+        "publication_number": "CN111599609B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-02-21",
+        "publication_date": "2021-11-12",
+        "assignee_original": "\u56fd\u5bb6\u7eb3\u7c73\u79d1\u5b66\u4e2d\u5fc3",
+        "title": "Supercapacitor electrolyte additive, supercapacitor electrolyte and application of supercapacitor electrolyte additive",
+        "patent_id": "patent/CN111599609B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111599609B%2Fen"
+      },
+      {
+        "publication_number": "CN109786837A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-02-25",
+        "publication_date": "2019-05-21",
+        "assignee_original": "\u5b89\u5fbd\u745e\u8fbe\u673a\u68b0\u6709\u9650\u516c\u53f8",
+        "title": "A kind of anti-overcharge lithium battery electrolytes and preparation method thereof",
+        "patent_id": "patent/CN109786837A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109786837A%2Fen"
+      },
+      {
+        "publication_number": "CN112290095A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-10-26",
+        "publication_date": "2021-01-29",
+        "assignee_original": "\u5408\u80a5\u56fd\u8f69\u9ad8\u79d1\u52a8\u529b\u80fd\u6e90\u6709\u9650\u516c\u53f8",
+        "title": "Lithium ion battery electrolyte suitable for high-nickel material system and preparation method thereof",
+        "patent_id": "patent/CN112290095A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112290095A%2Fen"
+      },
+      {
+        "publication_number": "CN113394450A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-07-09",
+        "publication_date": "2021-09-14",
+        "assignee_original": "\u6749\u6749\u65b0\u6750\u6599\uff08\u8862\u5dde\uff09\u6709\u9650\u516c\u53f8",
+        "title": "Lithium cobaltate high-voltage lithium ion battery non-aqueous electrolyte and lithium ion battery",
+        "patent_id": "patent/CN113394450A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113394450A%2Fen"
+      },
+      {
+        "publication_number": "JP2024517274A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-30",
+        "publication_date": "2024-04-19",
+        "assignee_original": "\u30a8\u30eb\u30b8\u30fc \u30a8\u30ca\u30b8\u30fc \u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3 \u30ea\u30df\u30c6\u30c3\u30c9",
+        "title": "Nonaqueous electrolyte containing additive for nonaqueous electrolyte and lithium secondary battery containing the same",
+        "patent_id": "patent/JP2024517274A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2024517274A%2Fen"
+      },
+      {
+        "publication_number": "US11978857B2",
+        "primary_language": "en",
+        "priority_date": "2021-09-30",
+        "publication_date": "2024-05-07",
+        "assignee_original": "Lg Energy Solution, Ltd.",
+        "title": "Non-aqueous electrolyte including additive for non-aqueous electrolyte, and lithium secondary battery including the non-aqueous electrolyte",
+        "patent_id": "patent/US11978857B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11978857B2%2Fen"
+      },
+      {
+        "publication_number": "CN116914255B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-29",
+        "publication_date": "2024-10-29",
+        "assignee_original": "\u4e5d\u6c5f\u5929\u8d50\u9ad8\u65b0\u6750\u6599\u6709\u9650\u516c\u53f8",
+        "title": "Nonaqueous high-temperature electrolyte and lithium ion secondary battery containing same",
+        "patent_id": "patent/CN116914255B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116914255B%2Fen"
+      },
+      {
+        "publication_number": "CN115995553A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-11-18",
+        "publication_date": "2023-04-21",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "a battery",
+        "patent_id": "patent/CN115995553A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115995553A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "EP2573853B1",
+      "primary_language": "en",
+      "publication_date": "2020-09-09",
+      "title": "Electrolyte for lithium secondary battery and lithium secondary battery including the same",
+      "patent_id": "patent/EP2573853B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2573853B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR102307913B1",
+      "primary_language": "en",
+      "publication_date": "2021-10-01",
+      "title": "Electrolyte for lithium secondary battery, and lithium secondary battery including the same",
+      "patent_id": "patent/KR102307913B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102307913B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2498329B1",
+      "primary_language": "en",
+      "publication_date": "2014-01-01",
+      "title": "Non-aqueous electrolyte for rechargeable lithium battery and rechargeable lithium battery including the same",
+      "patent_id": "patent/EP2498329B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2498329B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101649133B1",
+      "primary_language": "en",
+      "publication_date": "2016-08-18",
+      "title": "Electrode for lithium rechargeable battery, and lithium rechargeable battery including the same",
+      "patent_id": "patent/KR101649133B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101649133B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101850764B1",
+      "primary_language": "en",
+      "publication_date": "2018-05-30",
+      "title": "Electrolyte solution for seconndary lithium battery and secondary lithium battery using the same",
+      "patent_id": "patent/KR101850764B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101850764B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101733737B1",
+      "primary_language": "en",
+      "publication_date": "2017-05-08",
+      "title": "Electrolyte for rechargeable lithium battery, and rechargeable lithium battery including the same",
+      "patent_id": "patent/KR101733737B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101733737B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20200005369A",
+      "primary_language": "en",
+      "publication_date": "2020-01-15",
+      "title": "Electrolyte for rechargeable lithium battery and rechargeable lithium battery",
+      "patent_id": "patent/KR20200005369A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20200005369A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101837036B1",
+      "primary_language": "en",
+      "publication_date": "2018-03-09",
+      "title": "Electrolyte Solution for Lithium Secondary Battery and Lithium Secondary Battery Using the same",
+      "patent_id": "patent/KR101837036B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101837036B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20110046076A",
+      "primary_language": "en",
+      "publication_date": "2011-05-04",
+      "title": "Anode active material for lithium secondary battery and lithium secondary battery comprising same",
+      "patent_id": "patent/KR20110046076A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20110046076A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR102446364B1",
+      "primary_language": "en",
+      "publication_date": "2022-09-21",
+      "title": "Electrolyte for rechargeable lithium battery and rechargeable lithium battery",
+      "patent_id": "patent/KR102446364B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102446364B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2472662B1",
+      "primary_language": "en",
+      "publication_date": "2014-06-18",
+      "title": "Electrolyte for lithium secondary battery and lithium secondary battery including the same",
+      "patent_id": "patent/EP2472662B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2472662B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20160024414A",
+      "primary_language": "en",
+      "publication_date": "2016-03-07",
+      "title": "Additive for electrolyte of lithium battery, electrolyte including the same and lithium battery using the electrolyte",
+      "patent_id": "patent/KR20160024414A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20160024414A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20120100439A1",
+      "primary_language": "en",
+      "publication_date": "2012-04-26",
+      "title": "Electrolyte solution for secondary lithium battery and secondary lithium battery including the electrolyte solution",
+      "patent_id": "patent/US20120100439A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120100439A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6470510B2",
+      "primary_language": "en",
+      "publication_date": "2019-02-13",
+      "title": "Electrolytic solution additive, electrolytic solution for lithium secondary battery, and lithium secondary battery",
+      "patent_id": "patent/JP6470510B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6470510B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20140308562A1",
+      "primary_language": "en",
+      "publication_date": "2014-10-16",
+      "title": "Electrolyte for lithium secondary battery and lithium secondary battery including the same",
+      "patent_id": "patent/US20140308562A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140308562A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2728651A1",
+      "primary_language": "en",
+      "publication_date": "2014-05-07",
+      "title": "Positive electrode for rechargeable lithium battery and rechargeable lithium battery including same",
+      "patent_id": "patent/EP2728651A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2728651A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20100065778A",
+      "primary_language": "en",
+      "publication_date": "2010-06-17",
+      "title": "Electrolyte for secondary lithium battery and secondary lithium battery using the same",
+      "patent_id": "patent/KR20100065778A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20100065778A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9059476B2",
+      "primary_language": "en",
+      "publication_date": "2015-06-16",
+      "title": "Electrolyte for lithium secondary battery and lithium secondary battery including the same",
+      "patent_id": "patent/US9059476B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9059476B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20150091712A",
+      "primary_language": "en",
+      "publication_date": "2015-08-12",
+      "title": "Electrolyte and rechargeable lithium battery including the same",
+      "patent_id": "patent/KR20150091712A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20150091712A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20210052006A",
+      "primary_language": "en",
+      "publication_date": "2021-05-10",
+      "title": "Electrolyte for rechargeable lithium battery and rechargeable lithium battery",
+      "patent_id": "patent/KR20210052006A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20210052006A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20170136860A",
+      "primary_language": "en",
+      "publication_date": "2017-12-12",
+      "title": "Electrolyte for rechargeable lithium battery and rechargeable lithium battery including the same",
+      "patent_id": "patent/KR20170136860A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20170136860A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20170050134A",
+      "primary_language": "en",
+      "publication_date": "2017-05-11",
+      "title": "Positive active material for rechargeable lithium battery, method of preparing the same, and rechargeable lithium battery including the same",
+      "patent_id": "patent/KR20170050134A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20170050134A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2013-03-26",
+      "code": "PUAI",
+      "title": "Public reference made under article 153(3) epc to a published international application that has entered the european phase",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ORIGINAL CODE: 0009012"
+        }
+      ]
+    },
+    {
+      "date": "2013-03-27",
+      "code": "AK",
+      "title": "Designated contracting states",
+      "attributes": [
+        {
+          "label": "Kind code of ref document",
+          "value": "A1"
+        },
+        {
+          "label": "Designated state(s)",
+          "value": "AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR"
+        }
+      ]
+    },
+    {
+      "date": "2013-03-27",
+      "code": "AX",
+      "title": "Request for extension of the european patent",
+      "attributes": [
+        {
+          "label": "Extension  state",
+          "value": "BA ME"
+        }
+      ]
+    },
+    {
+      "date": "2013-11-06",
+      "code": "17P",
+      "title": "Request for examination filed",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20130927"
+        }
+      ]
+    },
+    {
+      "date": "2013-11-06",
+      "code": "RBV",
+      "title": "Designated contracting states (corrected)",
+      "attributes": [
+        {
+          "label": "Designated state(s)",
+          "value": "AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR"
+        }
+      ]
+    },
+    {
+      "date": "2015-06-24",
+      "code": "17Q",
+      "title": "First examination report despatched",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20150522"
+        }
+      ]
+    },
+    {
+      "date": "2019-01-31",
+      "code": "STAA",
+      "title": "Information on the status of an ep patent application or granted ep patent",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "STATUS: EXAMINATION IS IN PROGRESS"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-12",
+      "code": "GRAP",
+      "title": "Despatch of communication of intention to grant a patent",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ORIGINAL CODE: EPIDOSNIGR1"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-12",
+      "code": "STAA",
+      "title": "Information on the status of an ep patent application or granted ep patent",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "STATUS: GRANT OF PATENT IS INTENDED"
+        }
+      ]
+    },
+    {
+      "date": "2020-04-08",
+      "code": "INTG",
+      "title": "Intention to grant announced",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20200313"
+        }
+      ]
+    },
+    {
+      "date": "2020-07-25",
+      "code": "GRAS",
+      "title": "Grant fee paid",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ORIGINAL CODE: EPIDOSNIGR3"
+        }
+      ]
+    },
+    {
+      "date": "2020-08-07",
+      "code": "GRAA",
+      "title": "(expected) grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ORIGINAL CODE: 0009210"
+        }
+      ]
+    },
+    {
+      "date": "2020-08-07",
+      "code": "STAA",
+      "title": "Information on the status of an ep patent application or granted ep patent",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "STATUS: THE PATENT HAS BEEN GRANTED"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-09",
+      "code": "AK",
+      "title": "Designated contracting states",
+      "attributes": [
+        {
+          "label": "Kind code of ref document",
+          "value": "B1"
+        },
+        {
+          "label": "Designated state(s)",
+          "value": "AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-09",
+      "code": "REG",
+      "title": "Reference to a national code",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "GB"
+        },
+        {
+          "label": "Ref legal event code",
+          "value": "FG4D"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-15",
+      "code": "REG",
+      "title": "Reference to a national code",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "AT"
+        },
+        {
+          "label": "Ref legal event code",
+          "value": "REF"
+        },
+        {
+          "label": "Ref document number",
+          "value": "1312691"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "AT"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "T"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200915"
+        },
+        {
+          "label": "Ref country code",
+          "value": "CH"
+        },
+        {
+          "label": "Ref legal event code",
+          "value": "EP"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-30",
+      "code": "REG",
+      "title": "Reference to a national code",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "IE"
+        },
+        {
+          "label": "Ref legal event code",
+          "value": "FG4D"
+        }
+      ]
+    },
+    {
+      "date": "2020-10-01",
+      "code": "REG",
+      "title": "Reference to a national code",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "DE"
+        },
+        {
+          "label": "Ref legal event code",
+          "value": "R096"
+        },
+        {
+          "label": "Ref document number",
+          "value": "602012072199"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "DE"
+        }
+      ]
+    },
+    {
+      "date": "2021-01-25",
+      "code": "REG",
+      "title": "Reference to a national code",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "LT"
+        },
+        {
+          "label": "Ref legal event code",
+          "value": "MG4D"
+        }
+      ]
+    },
+    {
+      "date": "2021-01-29",
+      "code": "PG25",
+      "title": "Lapsed in a contracting state [announced via postgrant information from national office to epo]",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "NO"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20201209"
+        },
+        {
+          "label": "Ref country code",
+          "value": "BG"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20201209"
+        },
+        {
+          "label": "Ref country code",
+          "value": "HR"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        },
+        {
+          "label": "Ref country code",
+          "value": "SE"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        },
+        {
+          "label": "Ref country code",
+          "value": "GR"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20201210"
+        },
+        {
+          "label": "Ref country code",
+          "value": "LT"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        },
+        {
+          "label": "Ref country code",
+          "value": "FI"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        }
+      ]
+    },
+    {
+      "date": "2021-02-15",
+      "code": "REG",
+      "title": "Reference to a national code",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "AT"
+        },
+        {
+          "label": "Ref legal event code",
+          "value": "MK05"
+        },
+        {
+          "label": "Ref document number",
+          "value": "1312691"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "AT"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "T"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        }
+      ]
+    },
+    {
+      "date": "2021-02-17",
+      "code": "REG",
+      "title": "Reference to a national code",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "NL"
+        },
+        {
+          "label": "Ref legal event code",
+          "value": "MP"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        }
+      ]
+    },
+    {
+      "date": "2021-02-26",
+      "code": "PG25",
+      "title": "Lapsed in a contracting state [announced via postgrant information from national office to epo]",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "LV"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        },
+        {
+          "label": "Ref country code",
+          "value": "RS"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        },
+        {
+          "label": "Ref country code",
+          "value": "PL"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        }
+      ]
+    },
+    {
+      "date": "2021-04-30",
+      "code": "PG25",
+      "title": "Lapsed in a contracting state [announced via postgrant information from national office to epo]",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "SM"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        },
+        {
+          "label": "Ref country code",
+          "value": "RO"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        },
+        {
+          "label": "Ref country code",
+          "value": "PT"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20210111"
+        },
+        {
+          "label": "Ref country code",
+          "value": "NL"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        },
+        {
+          "label": "Ref country code",
+          "value": "CZ"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        },
+        {
+          "label": "Ref country code",
+          "value": "EE"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        }
+      ]
+    },
+    {
+      "date": "2021-05-31",
+      "code": "PG25",
+      "title": "Lapsed in a contracting state [announced via postgrant information from national office to epo]",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "IS"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20210109"
+        },
+        {
+          "label": "Ref country code",
+          "value": "ES"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        },
+        {
+          "label": "Ref country code",
+          "value": "AT"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        },
+        {
+          "label": "Ref country code",
+          "value": "AL"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        }
+      ]
+    },
+    {
+      "date": "2021-06-10",
+      "code": "REG",
+      "title": "Reference to a national code",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "DE"
+        },
+        {
+          "label": "Ref legal event code",
+          "value": "R097"
+        },
+        {
+          "label": "Ref document number",
+          "value": "602012072199"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "DE"
+        }
+      ]
+    },
+    {
+      "date": "2021-06-30",
+      "code": "PG25",
+      "title": "Lapsed in a contracting state [announced via postgrant information from national office to epo]",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "SK"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        }
+      ]
+    },
+    {
+      "date": "2021-07-16",
+      "code": "PLBE",
+      "title": "No opposition filed within time limit",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ORIGINAL CODE: 0009261"
+        }
+      ]
+    },
+    {
+      "date": "2021-07-16",
+      "code": "STAA",
+      "title": "Information on the status of an ep patent application or granted ep patent",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT"
+        }
+      ]
+    },
+    {
+      "date": "2021-08-18",
+      "code": "26N",
+      "title": "No opposition filed",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20210610"
+        }
+      ]
+    },
+    {
+      "date": "2021-08-31",
+      "code": "PG25",
+      "title": "Lapsed in a contracting state [announced via postgrant information from national office to epo]",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "DK"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        },
+        {
+          "label": "Ref country code",
+          "value": "SI"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        }
+      ]
+    },
+    {
+      "date": "2021-10-29",
+      "code": "PG25",
+      "title": "Lapsed in a contracting state [announced via postgrant information from national office to epo]",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "IT"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-28",
+      "code": "REG",
+      "title": "Reference to a national code",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "CH"
+        },
+        {
+          "label": "Ref legal event code",
+          "value": "PL"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-04",
+      "code": "PG25",
+      "title": "Lapsed in a contracting state [announced via postgrant information from national office to epo]",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "MC"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-04",
+      "code": "REG",
+      "title": "Reference to a national code",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "BE"
+        },
+        {
+          "label": "Ref legal event code",
+          "value": "MM"
+        },
+        {
+          "label": "Effective date",
+          "value": "20210731"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-29",
+      "code": "PG25",
+      "title": "Lapsed in a contracting state [announced via postgrant information from national office to epo]",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "LI"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES"
+        },
+        {
+          "label": "Effective date",
+          "value": "20210731"
+        },
+        {
+          "label": "Ref country code",
+          "value": "CH"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES"
+        },
+        {
+          "label": "Effective date",
+          "value": "20210731"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-01",
+      "code": "PG25",
+      "title": "Lapsed in a contracting state [announced via postgrant information from national office to epo]",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "LU"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES"
+        },
+        {
+          "label": "Effective date",
+          "value": "20210724"
+        }
+      ]
+    },
+    {
+      "date": "2022-07-29",
+      "code": "PG25",
+      "title": "Lapsed in a contracting state [announced via postgrant information from national office to epo]",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "IE"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES"
+        },
+        {
+          "label": "Effective date",
+          "value": "20210724"
+        },
+        {
+          "label": "Ref country code",
+          "value": "BE"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES"
+        },
+        {
+          "label": "Effective date",
+          "value": "20210731"
+        }
+      ]
+    },
+    {
+      "date": "2023-05-31",
+      "code": "PG25",
+      "title": "Lapsed in a contracting state [announced via postgrant information from national office to epo]",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "HU"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT; INVALID AB INITIO"
+        },
+        {
+          "label": "Effective date",
+          "value": "20120724"
+        },
+        {
+          "label": "Ref country code",
+          "value": "CY"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-28",
+      "code": "P01",
+      "title": "Opt-out of the competence of the unified patent court (upc) registered",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20230519"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-30",
+      "code": "PG25",
+      "title": "Lapsed in a contracting state [announced via postgrant information from national office to epo]",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "MK"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-28",
+      "code": "PG25",
+      "title": "Lapsed in a contracting state [announced via postgrant information from national office to epo]",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "TR"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-30",
+      "code": "PG25",
+      "title": "Lapsed in a contracting state [announced via postgrant information from national office to epo]",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "MT"
+        },
+        {
+          "label": "Free format text",
+          "value": "LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200909"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-10",
+      "code": "PGFP",
+      "title": "Annual fee paid to national office [announced via postgrant information from national office to epo]",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "DE"
+        },
+        {
+          "label": "Payment date",
+          "value": "20240625"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "13"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-10",
+      "code": "PGFP",
+      "title": "Annual fee paid to national office [announced via postgrant information from national office to epo]",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "GB"
+        },
+        {
+          "label": "Payment date",
+          "value": "20250612"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "14"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-18",
+      "code": "PGFP",
+      "title": "Annual fee paid to national office [announced via postgrant information from national office to epo]",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "FR"
+        },
+        {
+          "label": "Payment date",
+          "value": "20250623"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "14"
+        }
+      ]
+    }
+  ]
+}

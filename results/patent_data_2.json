@@ -1,0 +1,879 @@
+{
+  "search_metadata": {
+    "id": "68a9f8a38ffd7b6b003fc887",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0b869938fea57f07/68a9f8a38ffd7b6b003fc887.json",
+    "created_at": "2025-08-23 17:21:39 UTC",
+    "processed_at": "2025-08-23 17:21:39 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN115668526B/en",
+    "raw_html_file": "https://serpapi.com/searches/0b869938fea57f07/68a9f8a38ffd7b6b003fc887.html",
+    "total_time_taken": 0.94
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN115668526B/en"
+  },
+  "title": "Electrode assembly, manufacturing method and manufacturing system thereof, battery cell and battery",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/5b/79/b5/a7a89bf26b750a/CN115668526B.pdf",
+  "publication_number": "CN115668526B",
+  "country": "China",
+  "prior_art_keywords": [
+    "positive electrode",
+    "active material",
+    "negative electrode",
+    "material layer",
+    "edge portion"
+  ],
+  "prior_art_date": "2021-02-04",
+  "application_number": "CN202180035399.5A",
+  "inventors": [
+    {
+      "name": "\u5510\u5f6c\u6770",
+      "link": "https://patents.google.com/?inventor=%E5%94%90%E5%BD%AC%E6%9D%B0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%94%90%E5%BD%AC%E6%9D%B0"
+    },
+    {
+      "name": "\u5f20\u6c38\u5f3a",
+      "link": "https://patents.google.com/?inventor=%E5%BC%A0%E6%B0%B8%E5%BC%BA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%BC%A0%E6%B0%B8%E5%BC%BA"
+    },
+    {
+      "name": "\u845b\u9500\u660e",
+      "link": "https://patents.google.com/?inventor=%E8%91%9B%E9%94%80%E6%98%8E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E8%91%9B%E9%94%80%E6%98%8E"
+    }
+  ],
+  "assignees": [
+    "Contemporary Amperex Technology Co Ltd"
+  ],
+  "priority_date": "2021-02-04",
+  "filing_date": "2021-02-04",
+  "publication_date": "2025-01-14",
+  "worldwide_applications": {
+    "2021": [
+      {
+        "filing_date": "2021-02-04",
+        "country_code": "CN",
+        "application_number": "CN202411627018.4A",
+        "document_id": "patent/CN119480895A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2021-02-04",
+        "country_code": "WO",
+        "application_number": "PCT/CN2021/075164",
+        "document_id": "patent/WO2022165688A1/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2021-02-04",
+        "country_code": "HU",
+        "application_number": "HUE21904631A",
+        "document_id": "patent/HUE069876T2/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2021-02-04",
+        "country_code": "CN",
+        "application_number": "CN202180035399.5A",
+        "document_id": "patent/CN115668526B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2021-02-04",
+        "country_code": "EP",
+        "application_number": "EP21904631.5A",
+        "document_id": "patent/EP4068418B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2022": [
+      {
+        "filing_date": "2022-06-16",
+        "country_code": "US",
+        "application_number": "US17/842,015",
+        "document_id": "patent/US20220311104A1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2021-02-04",
+      "title": "Application filed by Contemporary Amperex Technology Co Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Contemporary Amperex Technology Co Ltd"
+    },
+    {
+      "date": "2021-02-04",
+      "title": "Priority to CN202411627018.4A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN119480895A/en"
+    },
+    {
+      "date": "2023-01-31",
+      "title": "Publication of CN115668526A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN115668526A/en"
+    },
+    {
+      "date": "2025-01-14",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2025-01-14",
+      "title": "Publication of CN115668526B",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN115668526B/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2041-02-04",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=115668526B&KC=B&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/202180035399/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN115668526B"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "H01M4/13",
+      "description": "Electrodes for accumulators with non-aqueous electrolyte, e.g. for lithium-accumulators; Processes of manufacture thereof",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0431",
+      "description": "Cells with wound or folded electrodes",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/052",
+      "description": "Li-accumulators",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0525",
+      "description": "Rocking-chair batteries, i.e. batteries with lithium insertion or intercalation in both electrodes; Lithium-ion batteries",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0585",
+      "description": "Construction or manufacture of accumulators having only flat construction elements, i.e. flat positive electrodes, flat negative electrodes and flat separators",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0587",
+      "description": "Construction or manufacture of accumulators having only wound construction elements, i.e. wound positive electrodes, wound negative electrodes and wound separators",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/4235",
+      "description": "Safety or regulating additives or arrangements in electrodes, separators or electrolyte",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/02",
+      "description": "Electrodes composed of, or comprising, active material",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/0404",
+      "description": "Methods of deposition of the material by coating on electrode collectors",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/131",
+      "description": "Electrodes based on mixed oxides or hydroxides, or on mixtures of oxides or hydroxides, e.g. LiCoOx",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/133",
+      "description": "Electrodes based on carbonaceous material, e.g. graphite-intercalation compounds or CFx",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/139",
+      "description": "Processes of manufacture",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/366",
+      "description": "Composites as layered products",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/525",
+      "description": "Selection of substances as active materials, active masses, active liquids of inorganic oxides or hydroxides of nickel, cobalt or iron of mixed oxides or hydroxides containing iron, cobalt or nickel for inserting or intercalating light metals, e.g. LiNiO2, LiCoO2 or LiCoOxFy",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/70",
+      "description": "Carriers or collectors characterised by shape or form",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/103",
+      "description": "Primary casings; Jackets or wrappings characterised by their shape or physical structure prismatic or rectangular",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/209",
+      "description": "Racks, modules or packs for multiple batteries or multiple cells characterised by their shape adapted for prismatic or rectangular cells",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/531",
+      "description": "Electrode connections inside a battery casing",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2004/021",
+      "description": "Physical characteristics, e.g. porosity, surface area",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2004/027",
+      "description": "Negative electrodes",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2004/028",
+      "description": "Positive electrodes",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2010/4292",
+      "description": "Aspects relating to capacity ratio of electrodes/electrolyte or anode/cathode",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2220/20",
+      "description": "Batteries in motive systems, e.g. vehicle, ship, plane",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E60/10",
+      "description": "Energy storage using batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02P70/50",
+      "description": "Manufacturing or production processes characterised by the final manufactured product",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The embodiment of the application provides an electrode assembly, a manufacturing method and a manufacturing system thereof, a battery cell and a battery. The electrode assembly comprises a positive electrode plate and a negative electrode plate, wherein a positive electrode active material layer of the positive electrode plate and a negative electrode active material layer of the negative electrode plate face each other, and the end part of the negative electrode active material layer exceeds the positive electrode active material layer. The anode active material layer includes an anode main body portion and an anode edge portion, one end of the anode edge portion facing away from the anode main body portion exceeds the cathode active material layer, at least a portion of the anode edge portion overlaps the cathode active material layer, the anode active material layer is configured such that a unit area capacity of the anode edge portion is larger than a unit area capacity of the anode main body portion, and/or the cathode active material layer includes a cathode main body portion and a cathode edge portion, and the cathode edge portion is configured such that a unit area capacity of the cathode edge portion is smaller than a unit area capacity of the cathode main body portion. The electrode assembly with the structure can reduce the risk of lithium precipitation of the pole piece.",
+  "description_link": "https://serpapi.com/searches/68a9f8a38ffd7b6b003fc887/google_patents_details/description.html",
+  "claims": [
+    "1.\u4e00\u79cd\u7535\u6781\u7ec4\u4ef6\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u5305\u62ec\u53e0\u52a0\u8bbe\u7f6e\u7684\u6b63\u6781\u6781\u7247\u548c\u8d1f\u6781\u6781\u7247\uff1b1. An electrode assembly, characterized in that it comprises a positive electrode sheet and a negative electrode sheet stacked together;\n      \n      \n         \u6240\u8ff0\u6b63\u6781\u6781\u7247\u5305\u62ec\u6b63\u6781\u96c6\u6d41\u4f53\u548c\u6b63\u6781\u6d3b\u6027\u7269\u8d28\u5c42\uff0c\u6240\u8ff0\u6b63\u6781\u96c6\u6d41\u4f53\u5305\u62ec\u6b63\u6781\u6d82\u8986\u533a\u548c\u6b63\u6781\u6781\u8033\uff0c\u6240\u8ff0\u6b63\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u81f3\u5c11\u90e8\u5206\u6d82\u8986\u4e8e\u6240\u8ff0\u6b63\u6781\u6d82\u8986\u533a\uff0c\u6240\u8ff0\u6b63\u6781\u6781\u8033\u8fde\u63a5\u4e8e\u6240\u8ff0\u6b63\u6781\u6d82\u8986\u533a\u6cbf\u7b2c\u4e00\u65b9\u5411\u7684\u7aef\u90e8\uff0c\u6240\u8ff0\u7b2c\u4e00\u65b9\u5411\u5782\u76f4\u4e8e\u6240\u8ff0\u6b63\u6781\u6781\u7247\u548c\u6240\u8ff0\u8d1f\u6781\u6781\u7247\u7684\u53e0\u52a0\u65b9\u5411\uff1bThe positive electrode sheet comprises a positive electrode current collector and a positive electrode active material layer, the positive electrode current collector comprises a positive electrode coating area and a positive electrode tab, the positive electrode active material layer is at least partially coated on the positive electrode coating area, and the positive electrode tab is connected to an end of the positive electrode coating area along a first direction, and the first direction is perpendicular to the stacking direction of the positive electrode sheet and the negative electrode sheet;\n      \n      \n         \u6240\u8ff0\u6b63\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u4e0e\u6240\u8ff0\u8d1f\u6781\u6781\u7247\u7684\u8d1f\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u9762\u5bf9\u8bbe\u7f6e\uff0c\u5e76\u4e14\u6240\u8ff0\u8d1f\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u7684\u7aef\u90e8\u8d85\u51fa\u6240\u8ff0\u6b63\u6781\u6d3b\u6027\u7269\u8d28\u5c42\uff1bThe positive electrode active material layer is arranged opposite to the negative electrode active material layer of the negative electrode plate, and the end of the negative electrode active material layer exceeds the positive electrode active material layer;\n      \n      \n         \u6240\u8ff0\u6b63\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u5305\u62ec\u6b63\u6781\u4e3b\u4f53\u90e8\u548c\u8fde\u63a5\u4e8e\u6240\u8ff0\u6b63\u6781\u4e3b\u4f53\u90e8\u7684\u6b63\u6781\u8fb9\u7f18\u90e8\uff0c\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u88ab\u914d\u7f6e\u4e3a\uff1a\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u7684\u5355\u4f4d\u9762\u79ef\u5bb9\u91cf\u5c0f\u4e8e\u6240\u8ff0\u6b63\u6781\u4e3b\u4f53\u90e8\u7684\u5355\u4f4d\u9762\u79ef\u5bb9\u91cf\uff1bThe positive electrode active material layer includes a positive electrode main body and a positive electrode edge portion connected to the positive electrode main body, wherein the positive electrode edge portion is configured such that: the capacity per unit area of the positive electrode edge portion is smaller than the capacity per unit area of the positive electrode main body;\n      \n      \n         \u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u81f3\u5c11\u4e3a\u4e24\u4e2a\uff0c\u4e24\u4e2a\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u5206\u522b\u4f4d\u4e8e\u6240\u8ff0\u6b63\u6781\u4e3b\u4f53\u90e8\u6cbf\u6240\u8ff0\u7b2c\u4e00\u65b9\u5411\u7684\u4e24\u4fa7\u3002There are at least two positive electrode edge portions, and the two positive electrode edge portions are respectively located on two sides of the positive electrode main body portion along the first direction.",
+    "2.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u7535\u6781\u7ec4\u4ef6\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u6240\u8ff0\u8d1f\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u5305\u62ec\u8d1f\u6781\u4e3b\u4f53\u90e8\u548c\u8fde\u63a5\u4e8e\u6240\u8ff0\u8d1f\u6781\u4e3b\u4f53\u90e8\u7684\u8d1f\u6781\u8fb9\u7f18\u90e8\uff0c\u6240\u8ff0\u8d1f\u6781\u8fb9\u7f18\u90e8\u7684\u80cc\u79bb\u6240\u8ff0\u8d1f\u6781\u4e3b\u4f53\u90e8\u7684\u4e00\u7aef\u8d85\u51fa\u6240\u8ff0\u6b63\u6781\u6d3b\u6027\u7269\u8d28\u5c42\uff0c\u4e14\u5728\u6240\u8ff0\u53e0\u52a0\u65b9\u5411\u4e0a\uff0c\u6240\u8ff0\u8d1f\u6781\u8fb9\u7f18\u90e8\u81f3\u5c11\u4e00\u90e8\u5206\u4e0e\u6240\u8ff0\u6b63\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u91cd\u53e0\uff0c\u6240\u8ff0\u8d1f\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u88ab\u914d\u7f6e\u4e3a\uff1a\u6240\u8ff0\u8d1f\u6781\u8fb9\u7f18\u90e8\u7684\u5355\u4f4d\u9762\u79ef\u5bb9\u91cf\u5927\u4e8e\u6240\u8ff0\u8d1f\u6781\u4e3b\u4f53\u90e8\u7684\u5355\u4f4d\u9762\u79ef\u5bb9\u91cf\u30022. The electrode assembly according to claim 1 is characterized in that the negative electrode active material layer includes a negative electrode main body and a negative electrode edge portion connected to the negative electrode main body, an end of the negative electrode edge portion facing away from the negative electrode main body exceeds the positive electrode active material layer, and in the stacking direction, at least a portion of the negative electrode edge portion overlaps with the positive electrode active material layer, and the negative electrode active material layer is configured as: the unit area capacity of the negative electrode edge portion is greater than the unit area capacity of the negative electrode main body.",
+    "3.\u6839\u636e\u6743\u5229\u8981\u6c422\u6240\u8ff0\u7684\u7535\u6781\u7ec4\u4ef6\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u6240\u8ff0\u8d1f\u6781\u8fb9\u7f18\u90e8\u4e2d\u7684\u6d3b\u6027\u6750\u6599\u4e0e\u6240\u8ff0\u8d1f\u6781\u8fb9\u7f18\u90e8\u7684\u91cd\u91cf\u6bd4\u5927\u4e8e\u6240\u8ff0\u8d1f\u6781\u4e3b\u4f53\u90e8\u4e2d\u7684\u6d3b\u6027\u6750\u6599\u4e0e\u6240\u8ff0\u8d1f\u6781\u4e3b\u4f53\u90e8\u7684\u91cd\u91cf\u6bd4\uff0c\u4ee5\u4f7f\u6240\u8ff0\u8d1f\u6781\u8fb9\u7f18\u90e8\u7684\u5355\u4f4d\u9762\u79ef\u5bb9\u91cf\u5927\u4e8e\u6240\u8ff0\u8d1f\u6781\u4e3b\u4f53\u90e8\u7684\u5355\u4f4d\u9762\u79ef\u5bb9\u91cf\u30023. The electrode assembly according to claim 2 is characterized in that the weight ratio of the active material in the negative electrode edge portion to the negative electrode edge portion is greater than the weight ratio of the active material in the negative electrode main portion to the negative electrode main portion, so that the unit area capacity of the negative electrode edge portion is greater than the unit area capacity of the negative electrode main portion.",
+    "4.\u6839\u636e\u6743\u5229\u8981\u6c422\u6240\u8ff0\u7684\u7535\u6781\u7ec4\u4ef6\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u6240\u8ff0\u8d1f\u6781\u8fb9\u7f18\u90e8\u4e2d\u7684\u6d3b\u6027\u6750\u6599\u7684\u514b\u5bb9\u91cf\u5927\u4e8e\u6240\u8ff0\u8d1f\u6781\u4e3b\u4f53\u90e8\u4e2d\u7684\u6d3b\u6027\u6750\u6599\u7684\u514b\u5bb9\u91cf\uff0c\u4ee5\u4f7f\u6240\u8ff0\u8d1f\u6781\u8fb9\u7f18\u90e8\u7684\u5355\u4f4d\u9762\u79ef\u5bb9\u91cf\u5927\u4e8e\u6240\u8ff0\u8d1f\u6781\u4e3b\u4f53\u90e8\u7684\u5355\u4f4d\u9762\u79ef\u5bb9\u91cf\u30024. The electrode assembly according to claim 2 is characterized in that the gram capacity of the active material in the negative electrode edge portion is greater than the gram capacity of the active material in the negative electrode main body portion, so that the unit area capacity of the negative electrode edge portion is greater than the unit area capacity of the negative electrode main body portion.",
+    "5.\u6839\u636e\u6743\u5229\u8981\u6c422\u6240\u8ff0\u7684\u7535\u6781\u7ec4\u4ef6\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c5. The electrode assembly according to claim 2, characterized in that:\n      \n      \n         \u6240\u8ff0\u8d1f\u6781\u8fb9\u7f18\u90e8\u5305\u62ec\u6cbf\u6240\u8ff0\u53e0\u52a0\u65b9\u5411\u5c42\u53e0\u8bbe\u7f6e\u7684\u7b2c\u4e00\u8d1f\u6781\u6d82\u5c42\u548c\u7b2c\u4e8c\u8d1f\u6781\u6d82\u5c42\uff1bThe negative electrode edge portion includes a first negative electrode coating and a second negative electrode coating stacked along the stacking direction;\n      \n      \n         \u6240\u8ff0\u7b2c\u4e8c\u8d1f\u6781\u6d82\u5c42\u4e2d\u7684\u6d3b\u6027\u6750\u6599\u4e0e\u6240\u8ff0\u7b2c\u4e8c\u8d1f\u6781\u6d82\u5c42\u7684\u91cd\u91cf\u6bd4\u5927\u4e8e\u6240\u8ff0\u7b2c\u4e00\u8d1f\u6781\u6d82\u5c42\u4e2d\u7684\u6d3b\u6027\u6750\u6599\u4e0e\u6240\u8ff0\u7b2c\u4e00\u8d1f\u6781\u6d82\u5c42\u7684\u91cd\u91cf\u6bd4\uff1b\u6216\u8005\uff0c\u6240\u8ff0\u7b2c\u4e8c\u8d1f\u6781\u6d82\u5c42\u4e2d\u7684\u6d3b\u6027\u6750\u6599\u7684\u514b\u5bb9\u91cf\u5927\u4e8e\u6240\u8ff0\u7b2c\u4e00\u8d1f\u6781\u6d82\u5c42\u4e2d\u7684\u6d3b\u6027\u6750\u6599\u7684\u514b\u5bb9\u91cf\u3002The weight ratio of the active material in the second negative electrode coating to the second negative electrode coating is greater than the weight ratio of the active material in the first negative electrode coating to the first negative electrode coating; or, the gram capacity of the active material in the second negative electrode coating is greater than the gram capacity of the active material in the first negative electrode coating.",
+    "6.\u6839\u636e\u6743\u5229\u8981\u6c422\u6240\u8ff0\u7684\u7535\u6781\u7ec4\u4ef6\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u6240\u8ff0\u8d1f\u6781\u8fb9\u7f18\u90e8\u4e2d\u7684\u6d3b\u6027\u6750\u6599\u7684\u7c92\u5f84\u5c0f\u4e8e\u6240\u8ff0\u8d1f\u6781\u4e3b\u4f53\u90e8\u4e2d\u7684\u6d3b\u6027\u6750\u6599\u7684\u7c92\u5f84\u30026 . The electrode assembly according to claim 2 , wherein a particle size of the active material in the negative electrode edge portion is smaller than a particle size of the active material in the negative electrode main body portion.",
+    "7.\u6839\u636e\u6743\u5229\u8981\u6c422\u6240\u8ff0\u7684\u7535\u6781\u7ec4\u4ef6\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c7. The electrode assembly according to claim 2, characterized in that:\n      \n      \n         \u6240\u8ff0\u8d1f\u6781\u6781\u7247\u5305\u62ec\u8d1f\u6781\u96c6\u6d41\u4f53\uff0c\u6240\u8ff0\u8d1f\u6781\u96c6\u6d41\u4f53\u5305\u62ec\u8d1f\u6781\u6d82\u8986\u533a\u548c\u8d1f\u6781\u6781\u8033\uff0c\u6240\u8ff0\u8d1f\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u81f3\u5c11\u90e8\u5206\u6d82\u8986\u4e8e\u6240\u8ff0\u8d1f\u6781\u6d82\u8986\u533a\uff0c\u6240\u8ff0\u8d1f\u6781\u6781\u8033\u8fde\u63a5\u4e8e\u6240\u8ff0\u8d1f\u6781\u6d82\u8986\u533a\u6cbf\u6240\u8ff0\u7b2c\u4e00\u65b9\u5411\u7684\u7aef\u90e8\uff1bThe negative electrode sheet includes a negative electrode current collector, the negative electrode current collector includes a negative electrode coating area and a negative electrode tab, the negative electrode active material layer is at least partially coated on the negative electrode coating area, and the negative electrode tab is connected to an end of the negative electrode coating area along the first direction;\n      \n      \n         \u6240\u8ff0\u8d1f\u6781\u8fb9\u7f18\u90e8\u81f3\u5c11\u4e3a\u4e24\u4e2a\uff0c\u4e24\u4e2a\u6240\u8ff0\u8d1f\u6781\u8fb9\u7f18\u90e8\u5206\u522b\u4f4d\u4e8e\u6240\u8ff0\u8d1f\u6781\u4e3b\u4f53\u90e8\u6cbf\u6240\u8ff0\u7b2c\u4e00\u65b9\u5411\u7684\u4e24\u4fa7\u3002There are at least two negative electrode edge portions, and the two negative electrode edge portions are respectively located on two sides of the negative electrode main body portion along the first direction.",
+    "8.\u6839\u636e\u6743\u5229\u8981\u6c427\u6240\u8ff0\u7684\u7535\u6781\u7ec4\u4ef6\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u5728\u4e24\u4e2a\u6240\u8ff0\u8d1f\u6781\u8fb9\u7f18\u90e8\u4e2d\uff0c\u9760\u8fd1\u6240\u8ff0\u8d1f\u6781\u6781\u8033\u7684\u6240\u8ff0\u8d1f\u6781\u8fb9\u7f18\u90e8\u7684\u81f3\u5c11\u90e8\u5206\u7684\u539a\u5ea6\u5c0f\u4e8e\u6240\u8ff0\u8d1f\u6781\u4e3b\u4f53\u90e8\u7684\u539a\u5ea6\uff0c\u8fdc\u79bb\u6240\u8ff0\u8d1f\u6781\u6781\u8033\u7684\u6240\u8ff0\u8d1f\u6781\u8fb9\u7f18\u90e8\u7684\u539a\u5ea6\u7b49\u4e8e\u6240\u8ff0\u8d1f\u6781\u4e3b\u4f53\u90e8\u7684\u539a\u5ea6\u30028. The electrode assembly according to claim 7 is characterized in that, among the two negative electrode edge portions, the thickness of at least a portion of the negative electrode edge portion close to the negative electrode tab is less than the thickness of the negative electrode main body portion, and the thickness of the negative electrode edge portion away from the negative electrode tab is equal to the thickness of the negative electrode main body portion.",
+    "9.\u6839\u636e\u6743\u5229\u8981\u6c427\u6240\u8ff0\u7684\u7535\u6781\u7ec4\u4ef6\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u6240\u8ff0\u8d1f\u6781\u8fb9\u7f18\u90e8\u7684\u4e0e\u6240\u8ff0\u6b63\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u5728\u6240\u8ff0\u53e0\u52a0\u65b9\u5411\u4e0a\u91cd\u53e0\u7684\u90e8\u5206\u5728\u6240\u8ff0\u7b2c\u4e00\u65b9\u5411\u4e0a\u7684\u5c3a\u5bf8\u5927\u4e8e0.5mm\u30029 . The electrode assembly according to claim 7 , wherein a portion of the negative electrode edge portion overlapping with the positive electrode active material layer in the stacking direction has a size in the first direction greater than 0.5 mm.",
+    "10.\u6839\u636e\u6743\u5229\u8981\u6c422\u6240\u8ff0\u7684\u7535\u6781\u7ec4\u4ef6\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u6240\u8ff0\u8d1f\u6781\u8fb9\u7f18\u90e8\u73af\u7ed5\u6240\u8ff0\u8d1f\u6781\u4e3b\u4f53\u90e8\u8bbe\u7f6e\u300210 . The electrode assembly according to claim 2 , wherein the negative electrode edge portion is disposed around the negative electrode main body portion.",
+    "11.\u6839\u636e\u6743\u5229\u8981\u6c422-10\u4efb\u4e00\u9879\u6240\u8ff0\u7684\u7535\u6781\u7ec4\u4ef6\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u6240\u8ff0\u8d1f\u6781\u8fb9\u7f18\u90e8\u5305\u62ec\u7b2c\u4e00\u90e8\u5206\u548c\u7b2c\u4e8c\u90e8\u5206\uff0c\u6240\u8ff0\u7b2c\u4e00\u90e8\u5206\u4e0e\u6240\u8ff0\u6b63\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u5728\u6240\u8ff0\u53e0\u52a0\u65b9\u5411\u4e0a\u91cd\u53e0\uff0c\u6240\u8ff0\u7b2c\u4e8c\u90e8\u5206\u8d85\u51fa\u6240\u8ff0\u6b63\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u300211. The electrode assembly according to any one of claims 2 to 10, characterized in that the negative electrode edge portion comprises a first portion and a second portion, the first portion overlaps with the positive electrode active material layer in the stacking direction, and the second portion exceeds the positive electrode active material layer.",
+    "12.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u7535\u6781\u7ec4\u4ef6\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c12. The electrode assembly according to claim 1, characterized in that\n      \n      \n         \u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u7684\u6d3b\u6027\u6750\u6599\u4e0e\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u7684\u91cd\u91cf\u6bd4\u5c0f\u4e8e\u6240\u8ff0\u6b63\u6781\u4e3b\u4f53\u90e8\u7684\u6d3b\u6027\u6750\u6599\u4e0e\u6240\u8ff0\u6b63\u6781\u4e3b\u4f53\u90e8\u7684\u91cd\u91cf\u6bd4\uff0c\u4ee5\u4f7f\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u7684\u5355\u4f4d\u9762\u79ef\u5bb9\u91cf\u5c0f\u4e8e\u6240\u8ff0\u6b63\u6781\u4e3b\u4f53\u90e8\u7684\u5355\u4f4d\u9762\u79ef\u5bb9\u91cf\u3002The weight ratio of the active material in the positive electrode edge portion to the positive electrode edge portion is smaller than the weight ratio of the active material in the positive electrode main body portion to the positive electrode main body portion, so that the unit area capacity of the positive electrode edge portion is smaller than the unit area capacity of the positive electrode main body portion.",
+    "13.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u7535\u6781\u7ec4\u4ef6\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u7684\u6d3b\u6027\u6750\u6599\u7684\u514b\u5bb9\u91cf\u5c0f\u4e8e\u6240\u8ff0\u6b63\u6781\u4e3b\u4f53\u90e8\u7684\u6d3b\u6027\u6750\u6599\u7684\u514b\u5bb9\u91cf\uff0c\u4ee5\u4f7f\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u7684\u5355\u4f4d\u9762\u79ef\u5bb9\u91cf\u5c0f\u4e8e\u6240\u8ff0\u6b63\u6781\u4e3b\u4f53\u90e8\u7684\u5355\u4f4d\u9762\u79ef\u5bb9\u91cf\u300213. The electrode assembly according to claim 1 is characterized in that the gram capacity of the active material in the edge portion of the positive electrode is smaller than the gram capacity of the active material in the main portion of the positive electrode, so that the unit area capacity of the edge portion of the positive electrode is smaller than the unit area capacity of the main portion of the positive electrode.",
+    "14.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u7535\u6781\u7ec4\u4ef6\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c14. The electrode assembly according to claim 1, characterized in that:\n      \n      \n         \u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u5305\u62ec\u6cbf\u6240\u8ff0\u53e0\u52a0\u65b9\u5411\u5c42\u53e0\u8bbe\u7f6e\u7684\u7b2c\u4e00\u6b63\u6781\u6d82\u5c42\u548c\u7b2c\u4e8c\u6b63\u6781\u6d82\u5c42\uff1bThe positive electrode edge portion includes a first positive electrode coating and a second positive electrode coating stacked along the stacking direction;\n      \n      \n         \u6240\u8ff0\u7b2c\u4e8c\u6b63\u6781\u6d82\u5c42\u4e2d\u7684\u6d3b\u6027\u6750\u6599\u4e0e\u6240\u8ff0\u7b2c\u4e8c\u6b63\u6781\u6d82\u5c42\u7684\u91cd\u91cf\u6bd4\u5c0f\u4e8e\u6240\u8ff0\u7b2c\u4e00\u6b63\u6781\u6d82\u5c42\u4e2d\u7684\u6d3b\u6027\u6750\u6599\u4e0e\u6240\u8ff0\u7b2c\u4e00\u6b63\u6781\u6d82\u5c42\u7684\u91cd\u91cf\u6bd4\uff1b\u6216\u8005\uff0c\u6240\u8ff0\u7b2c\u4e8c\u6b63\u6781\u6d82\u5c42\u4e2d\u7684\u6d3b\u6027\u6750\u6599\u7684\u514b\u5bb9\u91cf\u5c0f\u4e8e\u6240\u8ff0\u7b2c\u4e00\u6b63\u6781\u6d82\u5c42\u4e2d\u7684\u6d3b\u6027\u6750\u6599\u7684\u514b\u5bb9\u91cf\u3002The weight ratio of the active material in the second positive electrode coating to the second positive electrode coating is less than the weight ratio of the active material in the first positive electrode coating to the first positive electrode coating; or, the gram capacity of the active material in the second positive electrode coating is less than the gram capacity of the active material in the first positive electrode coating.",
+    "15.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u7535\u6781\u7ec4\u4ef6\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u7684\u6d3b\u6027\u6750\u6599\u7684\u7c92\u5f84\u5927\u4e8e\u6240\u8ff0\u6b63\u6781\u4e3b\u4f53\u90e8\u7684\u6d3b\u6027\u6750\u6599\u7684\u7c92\u5f84\u300215 . The electrode assembly according to claim 1 , wherein the particle size of the active material in the positive electrode edge portion is larger than the particle size of the active material in the positive electrode main portion.",
+    "16.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u7535\u6781\u7ec4\u4ef6\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u5728\u4e24\u4e2a\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u4e2d\uff0c\u9760\u8fd1\u6240\u8ff0\u6b63\u6781\u6781\u8033\u7684\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u7684\u81f3\u5c11\u90e8\u5206\u539a\u5ea6\u5c0f\u4e8e\u6240\u8ff0\u6b63\u6781\u4e3b\u4f53\u90e8\u7684\u539a\u5ea6\uff0c\u8fdc\u79bb\u6240\u8ff0\u6b63\u6781\u6781\u8033\u7684\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u7684\u539a\u5ea6\u7b49\u4e8e\u6240\u8ff0\u6b63\u6781\u4e3b\u4f53\u90e8\u7684\u539a\u5ea6\u300216. The electrode assembly according to claim 1 is characterized in that, among the two positive electrode edge portions, at least a portion of the thickness of the positive electrode edge portion close to the positive electrode tab is less than the thickness of the positive electrode main body portion, and the thickness of the positive electrode edge portion away from the positive electrode tab is equal to the thickness of the positive electrode main body portion.",
+    "17.\u6839\u636e\u6743\u5229\u8981\u6c421\u621616\u6240\u8ff0\u7684\u7535\u6781\u7ec4\u4ef6\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u5728\u6240\u8ff0\u7b2c\u4e00\u65b9\u5411\u4e0a\u7684\u5c3a\u5bf8\u5927\u4e8e0.5mm\u300217 . The electrode assembly according to claim 1 , wherein a dimension of the positive electrode edge portion in the first direction is greater than 0.5 mm.",
+    "18.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u7535\u6781\u7ec4\u4ef6\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u73af\u7ed5\u6240\u8ff0\u6b63\u6781\u4e3b\u4f53\u90e8\u8bbe\u7f6e\u300218 . The electrode assembly according to claim 1 , wherein the positive electrode edge portion is disposed around the positive electrode main body portion.",
+    "19.\u4e00\u79cd\u7535\u6c60\u5355\u4f53\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u5305\u62ec\uff1a19. A battery cell, comprising:\n      \n      \n         \u5916\u58f3\uff1bshell;\n      \n      \n         \u81f3\u5c11\u4e00\u4e2a\u5982\u6743\u5229\u8981\u6c421-18\u4e2d\u4efb\u4e00\u9879\u6240\u8ff0\u7684\u7535\u6781\u7ec4\u4ef6\uff0c\u5bb9\u7eb3\u4e8e\u6240\u8ff0\u5916\u58f3\u4e2d\u3002At least one electrode assembly according to any one of claims 1 to 18 is accommodated in the housing.",
+    "20.\u4e00\u79cd\u7535\u6c60\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u5305\u62ec\uff1a20. A battery, comprising:\n      \n      \n         \u7bb1\u4f53\uff1bBox;\n      \n      \n         \u81f3\u5c11\u4e00\u4e2a\u5982\u6743\u5229\u8981\u6c4219\u6240\u8ff0\u7684\u7535\u6c60\u5355\u4f53\uff0c\u6240\u8ff0\u7535\u6c60\u5355\u4f53\u6536\u5bb9\u4e8e\u6240\u8ff0\u7bb1\u4f53\u5185\u3002At least one battery cell as claimed in claim 19, wherein the battery cell is accommodated in the box.",
+    "21.\u4e00\u79cd\u7528\u7535\u8bbe\u5907\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u5305\u62ec\u6743\u5229\u8981\u6c4220\u6240\u8ff0\u7684\u7535\u6c60\uff0c\u6240\u8ff0\u7535\u6c60\u7528\u4e8e\u63d0\u4f9b\u7535\u80fd\u300221. An electrical device, characterized in that it comprises the battery according to claim 20, wherein the battery is used to provide electrical energy.",
+    "22.\u4e00\u79cd\u7535\u6781\u7ec4\u4ef6\u7684\u5236\u9020\u65b9\u6cd5\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u5305\u62ec\uff1a22. A method for manufacturing an electrode assembly, comprising:\n      \n      \n         \u63d0\u4f9b\u6b63\u6781\u6781\u7247\uff0c\u6240\u8ff0\u6b63\u6781\u6781\u7247\u5305\u62ec\u6b63\u6781\u96c6\u6d41\u4f53\u548c\u6b63\u6781\u6d3b\u6027\u7269\u8d28\u5c42\uff0c\u6240\u8ff0\u6b63\u6781\u96c6\u6d41\u4f53\u5305\u62ec\u6b63\u6781\u6d82\u8986\u533a\u548c\u6b63\u6781\u6781\u8033\uff0c\u6240\u8ff0\u6b63\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u81f3\u5c11\u90e8\u5206\u6d82\u8986\u4e8e\u6240\u8ff0\u6b63\u6781\u6d82\u8986\u533a\uff0c\u6240\u8ff0\u6b63\u6781\u6781\u8033\u8fde\u63a5\u4e8e\u6240\u8ff0\u6b63\u6781\u6d82\u8986\u533a\u6cbf\u7b2c\u4e00\u65b9\u5411\u7684\u7aef\u90e8\uff1bProviding a positive electrode sheet, the positive electrode sheet comprising a positive electrode current collector and a positive electrode active material layer, the positive electrode current collector comprising a positive electrode coating area and a positive electrode tab, the positive electrode active material layer is at least partially coated on the positive electrode coating area, and the positive electrode tab is connected to an end of the positive electrode coating area along a first direction;\n      \n      \n         \u63d0\u4f9b\u8d1f\u6781\u6781\u7247\uff1bProviding negative electrode sheet;\n      \n      \n         \u5c06\u6240\u8ff0\u6b63\u6781\u6781\u7247\u548c\u6240\u8ff0\u8d1f\u6781\u6781\u7247\u53e0\u52a0\u8bbe\u7f6e\u4ee5\u4f7f\u6240\u8ff0\u6b63\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u4e0e\u6240\u8ff0\u8d1f\u6781\u6781\u7247\u7684\u8d1f\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u9762\u5bf9\u8bbe\u7f6e\uff0c\u5e76\u4e14\u6240\u8ff0\u8d1f\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u7684\u7aef\u90e8\u8d85\u51fa\u6240\u8ff0\u6b63\u6781\u6d3b\u6027\u7269\u8d28\u5c42\uff1bThe positive electrode sheet and the negative electrode sheet are stacked so that the positive electrode active material layer faces the negative electrode active material layer of the negative electrode sheet, and the end of the negative electrode active material layer exceeds the positive electrode active material layer;\n      \n      \n         \u5176\u4e2d\uff0c\u6240\u8ff0\u7b2c\u4e00\u65b9\u5411\u5782\u76f4\u4e8e\u6240\u8ff0\u6b63\u6781\u6781\u7247\u548c\u6240\u8ff0\u8d1f\u6781\u6781\u7247\u7684\u53e0\u52a0\u65b9\u5411\uff0c\u6240\u8ff0\u6b63\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u5305\u62ec\u6b63\u6781\u4e3b\u4f53\u90e8\u548c\u8fde\u63a5\u4e8e\u6240\u8ff0\u6b63\u6781\u4e3b\u4f53\u90e8\u7684\u6b63\u6781\u8fb9\u7f18\u90e8\uff0c\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u88ab\u914d\u7f6e\u4e3a\uff1a\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u7684\u5355\u4f4d\u9762\u79ef\u5bb9\u91cf\u5c0f\u4e8e\u6240\u8ff0\u6b63\u6781\u4e3b\u4f53\u90e8\u7684\u5355\u4f4d\u9762\u79ef\u5bb9\u91cf\uff1b\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u81f3\u5c11\u4e3a\u4e24\u4e2a\uff0c\u4e24\u4e2a\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u5206\u522b\u4f4d\u4e8e\u6240\u8ff0\u6b63\u6781\u4e3b\u4f53\u90e8\u6cbf\u6240\u8ff0\u7b2c\u4e00\u65b9\u5411\u7684\u4e24\u4fa7\u3002Among them, the first direction is perpendicular to the stacking direction of the positive electrode sheet and the negative electrode sheet, the positive electrode active material layer includes a positive electrode main body and a positive electrode edge portion connected to the positive electrode main body, and the positive electrode edge portion is configured as follows: the unit area capacity of the positive electrode edge portion is smaller than the unit area capacity of the positive electrode main body; there are at least two positive electrode edge portions, and the two positive electrode edge portions are respectively located on both sides of the positive electrode main body along the first direction.",
+    "23.\u4e00\u79cd\u7535\u6781\u7ec4\u4ef6\u7684\u5236\u9020\u7cfb\u7edf\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u5305\u62ec\uff1a23. A manufacturing system for an electrode assembly, comprising:\n      \n      \n         \u7b2c\u4e00\u63d0\u4f9b\u88c5\u7f6e\uff0c\u7528\u4e8e\u63d0\u4f9b\u6b63\u6781\u6781\u7247\uff0c\u6240\u8ff0\u6b63\u6781\u6781\u7247\u5305\u62ec\u6b63\u6781\u96c6\u6d41\u4f53\u548c\u6b63\u6781\u6d3b\u6027\u7269\u8d28\u5c42\uff0c\u6240\u8ff0\u6b63\u6781\u96c6\u6d41\u4f53\u5305\u62ec\u6b63\u6781\u6d82\u8986\u533a\u548c\u6b63\u6781\u6781\u8033\uff0c\u6240\u8ff0\u6b63\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u81f3\u5c11\u90e8\u5206\u6d82\u8986\u4e8e\u6240\u8ff0\u6b63\u6781\u6d82\u8986\u533a\uff0c\u6240\u8ff0\u6b63\u6781\u6781\u8033\u8fde\u63a5\u4e8e\u6240\u8ff0\u6b63\u6781\u6d82\u8986\u533a\u6cbf\u7b2c\u4e00\u65b9\u5411\u7684\u7aef\u90e8\uff1bA first providing device is used to provide a positive electrode sheet, wherein the positive electrode sheet includes a positive electrode current collector and a positive electrode active material layer, the positive electrode current collector includes a positive electrode coating area and a positive electrode tab, the positive electrode active material layer is at least partially coated on the positive electrode coating area, and the positive electrode tab is connected to an end of the positive electrode coating area along a first direction;\n      \n      \n         \u7b2c\u4e8c\u63d0\u4f9b\u88c5\u7f6e\uff0c\u7528\u4e8e\u63d0\u4f9b\u8d1f\u6781\u6781\u7247\uff1bA second providing device, used for providing a negative electrode sheet;\n      \n      \n         \u7ec4\u88c5\u88c5\u7f6e\uff0c\u7528\u4e8e\u5c06\u6240\u8ff0\u6b63\u6781\u6781\u7247\u548c\u6240\u8ff0\u8d1f\u6781\u6781\u7247\u53e0\u52a0\u8bbe\u7f6e\uff0c\u4ee5\u4f7f\u6240\u8ff0\u6b63\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u4e0e\u6240\u8ff0\u8d1f\u6781\u6781\u7247\u7684\u8d1f\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u9762\u5bf9\u8bbe\u7f6e\uff0c\u5e76\u4e14\u6240\u8ff0\u8d1f\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u7684\u7aef\u90e8\u8d85\u51fa\u6240\u8ff0\u6b63\u6781\u6d3b\u6027\u7269\u8d28\u5c42\uff1bAn assembling device, used for stacking the positive electrode sheet and the negative electrode sheet so that the positive electrode active material layer is arranged opposite to the negative electrode active material layer of the negative electrode sheet, and the end of the negative electrode active material layer exceeds the positive electrode active material layer;\n      \n      \n         \u5176\u4e2d\uff0c\u6240\u8ff0\u7b2c\u4e00\u65b9\u5411\u5782\u76f4\u4e8e\u6240\u8ff0\u6b63\u6781\u6781\u7247\u548c\u6240\u8ff0\u8d1f\u6781\u6781\u7247\u7684\u53e0\u52a0\u65b9\u5411\uff0c\u6240\u8ff0\u6b63\u6781\u6d3b\u6027\u7269\u8d28\u5c42\u5305\u62ec\u6b63\u6781\u4e3b\u4f53\u90e8\u548c\u8fde\u63a5\u4e8e\u6240\u8ff0\u6b63\u6781\u4e3b\u4f53\u90e8\u7684\u6b63\u6781\u8fb9\u7f18\u90e8\uff0c\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u88ab\u914d\u7f6e\u4e3a\uff1a\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u7684\u5355\u4f4d\u9762\u79ef\u5bb9\u91cf\u5c0f\u4e8e\u6240\u8ff0\u6b63\u6781\u4e3b\u4f53\u90e8\u7684\u5355\u4f4d\u9762\u79ef\u5bb9\u91cf\uff1b\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u81f3\u5c11\u4e3a\u4e24\u4e2a\uff0c\u4e24\u4e2a\u6240\u8ff0\u6b63\u6781\u8fb9\u7f18\u90e8\u5206\u522b\u4f4d\u4e8e\u6240\u8ff0\u6b63\u6781\u4e3b\u4f53\u90e8\u6cbf\u6240\u8ff0\u7b2c\u4e00\u65b9\u5411\u7684\u4e24\u4fa7\u3002Among them, the first direction is perpendicular to the stacking direction of the positive electrode sheet and the negative electrode sheet, the positive electrode active material layer includes a positive electrode main body and a positive electrode edge portion connected to the positive electrode main body, and the positive electrode edge portion is configured as follows: the unit area capacity of the positive electrode edge portion is smaller than the unit area capacity of the positive electrode main body; there are at least two positive electrode edge portions, and the two positive electrode edge portions are respectively located on both sides of the positive electrode main body along the first direction."
+  ],
+  "child_applications": [
+    {
+      "application_number": "CN202411627018.4A",
+      "relation_type": "Division",
+      "representative_publication": "CN119480895A",
+      "primary_language": "en",
+      "priority_date": "2021-02-04",
+      "filing_date": "2021-02-04",
+      "title": "Electrode assembly, battery cell, battery and electrical equipment"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN202411627018.4A",
+      "representative_publication": "CN119480895A",
+      "primary_language": "en",
+      "priority_date": "2021-02-04",
+      "filing_date": "2021-02-04",
+      "title": "Electrode assembly, battery cell, battery and electrical equipment"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "PCT/CN2021/075164",
+      "representative_publication": "WO2022165688A1",
+      "primary_language": "en",
+      "priority_date": "2021-02-04",
+      "filing_date": "2021-02-04",
+      "title": "Electrode assembly and manufacturing method and system therefor, battery cell, and battery"
+    }
+  ],
+  "family_id": "82740678",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "CN109980177A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-03-29",
+        "publication_date": "2019-07-05",
+        "assignee_original": "\u5b81\u5fb7\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Electrode plates and electrochemical appliance comprising the electrode plates",
+        "patent_id": "patent/CN109980177A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109980177A%2Fen"
+      },
+      {
+        "publication_number": "CN110010902A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-03-29",
+        "publication_date": "2019-07-12",
+        "assignee_original": "\u5b81\u5fb7\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Electrode pole piece and electrochemical device comprising the electrode pole piece",
+        "patent_id": "patent/CN110010902A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110010902A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "EP1256996A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-12-27",
+        "publication_date": "2008-01-23",
+        "assignee_original": "Mitsubishi Chem Corp",
+        "title": "LITHIUM SECONDARY CELL",
+        "patent_id": "patent/EP1256996A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1256996A4%2Fen"
+      },
+      {
+        "publication_number": "JP4232458B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-26",
+        "publication_date": "2009-03-04",
+        "assignee_original": "\u4e09\u83f1\u30de\u30c6\u30ea\u30a2\u30eb\u682a\u5f0f\u4f1a\u793e",
+        "title": "Lithium ion polymer secondary battery",
+        "patent_id": "patent/JP4232458B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4232458B2%2Fen"
+      },
+      {
+        "publication_number": "JP6318918B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-06-30",
+        "publication_date": "2018-05-09",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u8c4a\u7530\u81ea\u52d5\u7e54\u6a5f",
+        "title": "Power storage device and method for manufacturing power storage device",
+        "patent_id": "patent/JP6318918B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6318918B2%2Fen"
+      },
+      {
+        "publication_number": "CN111916844B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-08-13",
+        "publication_date": "2022-04-15",
+        "assignee_original": "\u4e1c\u839e\u65b0\u80fd\u5b89\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Electrochemical devices and electronic devices",
+        "patent_id": "patent/CN111916844B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111916844B%2Fen"
+      },
+      {
+        "publication_number": "CN111916845B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-08-13",
+        "publication_date": "2021-07-06",
+        "assignee_original": "\u4e1c\u839e\u65b0\u80fd\u5b89\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Electrochemical devices and electronic devices",
+        "patent_id": "patent/CN111916845B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111916845B%2Fen"
+      },
+      {
+        "publication_number": "CN112103463B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-09-14",
+        "publication_date": "2022-03-29",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u52a8\u529b\u7535\u6c60\u6709\u9650\u516c\u53f8",
+        "title": "Negative pole piece and lithium ion battery comprising same",
+        "patent_id": "patent/CN112103463B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112103463B%2Fen"
+      },
+      {
+        "publication_number": "CN112086621B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-09-29",
+        "publication_date": "2021-07-06",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Negative plate and laminated lithium ion battery comprising same",
+        "patent_id": "patent/CN112086621B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112086621B%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "family_to_family": [
+      {
+        "publication_number": "CN116936732A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-04-08",
+        "publication_date": "2023-10-24",
+        "assignee_original": "\u5b81\u5fb7\u65f6\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Battery cells, batteries and electrical devices",
+        "patent_id": "patent/CN116936732A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116936732A%2Fen"
+      },
+      {
+        "publication_number": "CN218783074U",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-10-26",
+        "publication_date": "2023-03-31",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Battery cell and battery",
+        "patent_id": "patent/CN218783074U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN218783074U%2Fen"
+      },
+      {
+        "publication_number": "CN115548468B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-11-29",
+        "publication_date": "2023-04-21",
+        "assignee_original": "\u745e\u6d66\u5170\u94a7\u80fd\u6e90\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Battery cells, batteries and electrical devices",
+        "patent_id": "patent/CN115548468B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115548468B%2Fen"
+      },
+      {
+        "publication_number": "CN115810715A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-12-05",
+        "publication_date": "2023-03-17",
+        "assignee_original": "\u534e\u9f0e\u56fd\u8054\u52a8\u529b\u7535\u6c60\u6709\u9650\u516c\u53f8",
+        "title": "A non-uniformly coated positive electrode sheet and a battery containing the positive electrode sheet",
+        "patent_id": "patent/CN115810715A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115810715A%2Fen"
+      },
+      {
+        "publication_number": "CN116404110A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-03-20",
+        "publication_date": "2023-07-07",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u52a8\u529b\u7535\u6c60\u6709\u9650\u516c\u53f8",
+        "title": "A kind of positive plate and battery",
+        "patent_id": "patent/CN116404110A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116404110A%2Fen"
+      },
+      {
+        "publication_number": "CN116230856B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-05-08",
+        "publication_date": "2023-07-18",
+        "assignee_original": "\u5b81\u5fb7\u65f6\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Positive electrode sheet, battery and electrical equipment",
+        "patent_id": "patent/CN116230856B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116230856B%2Fen"
+      },
+      {
+        "publication_number": "CN116247162B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-05-09",
+        "publication_date": "2023-08-04",
+        "assignee_original": "\u5b81\u5fb7\u65f6\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Positive pole piece, battery and electric equipment",
+        "patent_id": "patent/CN116247162B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116247162B%2Fen"
+      },
+      {
+        "publication_number": "CN116454415A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-06-20",
+        "publication_date": "2023-07-18",
+        "assignee_original": "\u6df1\u5733\u6d77\u8fb0\u50a8\u80fd\u63a7\u5236\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "title": "Electrode assembly, battery and electric equipment",
+        "patent_id": "patent/CN116454415A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116454415A%2Fen"
+      },
+      {
+        "publication_number": "CN117154001B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-10-27",
+        "publication_date": "2024-02-20",
+        "assignee_original": "\u4e2d\u521b\u65b0\u822a\u79d1\u6280\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Cylindrical battery",
+        "patent_id": "patent/CN117154001B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117154001B%2Fen"
+      },
+      {
+        "publication_number": "CN221651518U",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-11-07",
+        "publication_date": "2024-09-03",
+        "assignee_original": "\u5b81\u5fb7\u65f6\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Battery cells, batteries and electrical equipment",
+        "patent_id": "patent/CN221651518U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN221651518U%2Fen"
+      },
+      {
+        "publication_number": "WO2025097365A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-11-09",
+        "publication_date": "2025-05-15",
+        "assignee_original": "\u5b81\u5fb7\u65f6\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Battery cell, battery and electric device",
+        "patent_id": "patent/WO2025097365A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025097365A1%2Fen"
+      },
+      {
+        "publication_number": "CN117637989B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-01-26",
+        "publication_date": "2024-06-11",
+        "assignee_original": "\u5b81\u5fb7\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Electrode sheet, electrode assembly and battery",
+        "patent_id": "patent/CN117637989B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117637989B%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CN115668526B",
+      "primary_language": "en",
+      "publication_date": "2025-01-14",
+      "title": "Electrode assembly, manufacturing method and manufacturing system thereof, battery cell and battery",
+      "patent_id": "patent/CN115668526B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115668526B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN115413379B",
+      "primary_language": "en",
+      "publication_date": "2024-01-12",
+      "title": "Electrode assembly, battery cell, battery, and method and apparatus for manufacturing electrode assembly",
+      "patent_id": "patent/CN115413379B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115413379B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN115606020B",
+      "primary_language": "en",
+      "publication_date": "2023-12-12",
+      "title": "Electrode assembly and manufacturing method and manufacturing system thereof, battery cell and battery",
+      "patent_id": "patent/CN115606020B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115606020B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20220367921A1",
+      "primary_language": "en",
+      "publication_date": "2022-11-17",
+      "title": "Electrode assembly and manufacturing method and manufacturing system therefor, battery cell and battery",
+      "patent_id": "patent/US20220367921A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220367921A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20220246973A1",
+      "primary_language": "en",
+      "publication_date": "2022-08-04",
+      "title": "Electrode assembly, battery cell, battery, and manufacturing device and method for electrode assembly",
+      "patent_id": "patent/US20220246973A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220246973A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20220320596A1",
+      "primary_language": "en",
+      "publication_date": "2022-10-06",
+      "title": "Electrode assembly, manufacturing method and manufacturing system of same, battery cell, and battery",
+      "patent_id": "patent/US20220320596A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220320596A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP4102607A1",
+      "primary_language": "en",
+      "publication_date": "2022-12-14",
+      "title": "Electrode assembly, battery cell, battery, and method and device for manufacturing electrode assembly",
+      "patent_id": "patent/EP4102607A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4102607A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN219937332U",
+      "primary_language": "en",
+      "publication_date": "2023-10-31",
+      "title": "Battery cells, batteries and electrical devices",
+      "patent_id": "patent/CN219937332U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN219937332U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN219144431U",
+      "primary_language": "en",
+      "publication_date": "2023-06-06",
+      "title": "Electrode assembly, battery cell, battery and electricity utilization device",
+      "patent_id": "patent/CN219144431U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN219144431U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN221978131U",
+      "primary_language": "en",
+      "publication_date": "2024-11-08",
+      "title": "Battery device, box and electrical equipment",
+      "patent_id": "patent/CN221978131U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN221978131U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN222673257U",
+      "primary_language": "en",
+      "publication_date": "2025-03-25",
+      "title": "Battery monomer, battery and electric equipment",
+      "patent_id": "patent/CN222673257U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN222673257U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN220291016U",
+      "primary_language": "en",
+      "publication_date": "2024-01-02",
+      "title": "Battery monomer, battery and power consumption device",
+      "patent_id": "patent/CN220291016U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN220291016U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN223167506U",
+      "primary_language": "en",
+      "publication_date": "2025-07-29",
+      "title": "Battery cell, battery device, electricity utilization device and electrode assembly",
+      "patent_id": "patent/CN223167506U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN223167506U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN221282307U",
+      "primary_language": "en",
+      "publication_date": "2024-07-05",
+      "title": "Electrode assembly, battery cell, battery and electric equipment",
+      "patent_id": "patent/CN221282307U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN221282307U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN222762978U",
+      "primary_language": "en",
+      "publication_date": "2025-04-15",
+      "title": "Battery cells, batteries and electrical devices",
+      "patent_id": "patent/CN222762978U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN222762978U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN221486735U",
+      "primary_language": "en",
+      "publication_date": "2024-08-06",
+      "title": "Battery cells, batteries and electrical devices",
+      "patent_id": "patent/CN221486735U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN221486735U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN222775554U",
+      "primary_language": "en",
+      "publication_date": "2025-04-18",
+      "title": "Battery cells, batteries and electrical devices",
+      "patent_id": "patent/CN222775554U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN222775554U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20250226522A1",
+      "primary_language": "en",
+      "publication_date": "2025-07-10",
+      "title": "Housing component, battery cell, battery, and electric device",
+      "patent_id": "patent/US20250226522A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250226522A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN221861909U",
+      "primary_language": "en",
+      "publication_date": "2024-10-18",
+      "title": "Battery cells, batteries and electrical devices",
+      "patent_id": "patent/CN221861909U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN221861909U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2025065498A1",
+      "primary_language": "en",
+      "publication_date": "2025-04-03",
+      "title": "Battery cell, battery and electric device",
+      "patent_id": "patent/WO2025065498A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025065498A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2025118581A1",
+      "primary_language": "en",
+      "publication_date": "2025-06-12",
+      "title": "Battery cell, battery, electric device, and energy storage cabinet",
+      "patent_id": "patent/WO2025118581A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025118581A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2025118508A1",
+      "primary_language": "en",
+      "publication_date": "2025-06-12",
+      "title": "Battery cell, battery, electric device and energy storage cabinet",
+      "patent_id": "patent/WO2025118508A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025118508A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN118801060A",
+      "primary_language": "en",
+      "publication_date": "2024-10-18",
+      "title": "Battery cells, batteries and electrical devices",
+      "patent_id": "patent/CN118801060A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN118801060A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN119208861A",
+      "primary_language": "en",
+      "publication_date": "2024-12-27",
+      "title": "Battery cells, batteries and electrical devices",
+      "patent_id": "patent/CN119208861A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119208861A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2023-01-31",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2023-01-31",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2023-02-17",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2023-02-17",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2025-01-14",
+      "code": "GR01",
+      "title": "Patent grant"
+    },
+    {
+      "date": "2025-01-14",
+      "code": "GR01",
+      "title": "Patent grant"
+    }
+  ]
+}

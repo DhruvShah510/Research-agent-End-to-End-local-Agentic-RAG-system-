@@ -1,0 +1,2492 @@
+{
+  "search_metadata": {
+    "id": "68a9f8dc5c018f94b02a03bc",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2057f9543773f6ab/68a9f8dc5c018f94b02a03bc.json",
+    "created_at": "2025-08-23 17:22:36 UTC",
+    "processed_at": "2025-08-23 17:22:36 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/WO2013054795A1/en",
+    "raw_html_file": "https://serpapi.com/searches/2057f9543773f6ab/68a9f8dc5c018f94b02a03bc.html",
+    "total_time_taken": 0.89
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/WO2013054795A1/en"
+  },
+  "title": "Hybrid storage cell, vehicle and power storage unit employing same, smart grid vehicle system employing vehicle, and power supply network system employing power storage unit",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/b4/7d/b0/e1abe0a0c3369f/WO2013054795A1.pdf",
+  "publication_number": "WO2013054795A1",
+  "country": "WIPO (PCT)",
+  "prior_art_keywords": [
+    "storage battery",
+    "lithium ion",
+    "battery",
+    "voltage",
+    "hybrid"
+  ],
+  "prior_art_date": "2011-10-11",
+  "application_number": "PCT/JP2012/076149",
+  "inventors": [
+    {
+      "name": "\u76f4\u82b3 \u53ef\u77e5",
+      "link": "https://patents.google.com/?inventor=%E7%9B%B4%E8%8A%B3+%E5%8F%AF%E7%9F%A5",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E7%9B%B4%E8%8A%B3+%E5%8F%AF%E7%9F%A5"
+    }
+  ],
+  "priority_date": "2011-10-11",
+  "filing_date": "2012-10-09",
+  "publication_date": "2013-04-18",
+  "worldwide_applications": {
+    "2012": [
+      {
+        "filing_date": "2012-10-09",
+        "country_code": "PL",
+        "application_number": "PL12839768T",
+        "document_id": "patent/PL2768071T3/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2012-10-09",
+        "country_code": "US",
+        "application_number": "US14/239,745",
+        "document_id": "patent/US9385543B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2012-10-09",
+        "country_code": "JP",
+        "application_number": "JP2013518608A",
+        "document_id": "patent/JP5373999B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2012-10-09",
+        "country_code": "EP",
+        "application_number": "EP12839768.4A",
+        "document_id": "patent/EP2768071B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2012-10-09",
+        "country_code": "ES",
+        "application_number": "ES12839768.4T",
+        "document_id": "patent/ES2627932T3/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2012-10-09",
+        "country_code": "HU",
+        "application_number": "HUE12839768A",
+        "document_id": "patent/HUE032780T2/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2012-10-09",
+        "country_code": "DK",
+        "application_number": "DK12839768.4T",
+        "document_id": "patent/DK2768071T3/en",
+        "legal_status_cat": "active"
+      },
+      {
+        "filing_date": "2012-10-09",
+        "country_code": "WO",
+        "application_number": "PCT/JP2012/076149",
+        "document_id": "patent/WO2013054795A1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Application Filing",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2012-10-09",
+      "title": "Application filed by Kachi Naoyoshi",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Kachi Naoyoshi"
+    },
+    {
+      "date": "2012-10-09",
+      "title": "Priority to DK12839768.4T",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/DK2768071T3/en"
+    },
+    {
+      "date": "2012-10-09",
+      "title": "Priority to JP2013518608A",
+      "type": "priority",
+      "document_id": "patent/JP5373999B2/en"
+    },
+    {
+      "date": "2012-10-09",
+      "title": "Priority to US14/239,745",
+      "type": "priority",
+      "document_id": "patent/US9385543B2/en"
+    },
+    {
+      "date": "2012-10-09",
+      "title": "Priority to EP12839768.4A",
+      "type": "priority",
+      "document_id": "patent/EP2768071B1/en"
+    },
+    {
+      "date": "2012-10-09",
+      "title": "Priority to ES12839768.4T",
+      "type": "priority",
+      "document_id": "patent/ES2627932T3/en"
+    },
+    {
+      "date": "2012-10-09",
+      "title": "Priority to PL12839768T",
+      "type": "priority",
+      "document_id": "patent/PL2768071T3/en"
+    },
+    {
+      "date": "2013-04-18",
+      "title": "Publication of WO2013054795A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/WO2013054795A1/en"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=WO&NR=2013054795A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/WIPO/PCTJP2012076149/1"
+    },
+    {
+      "text": "PatentScope",
+      "link": "https://patentscope.wipo.int/search/en/WO2013054795"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/WO2013054795A1"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/47/88/3c/be5154bc76adc9/JPOXMLDOC01-appb-D000005.png",
+    "https://patentimages.storage.googleapis.com/6a/7d/cf/26ccce3787cfe5/JPOXMLDOC01-appb-D000006.png",
+    "https://patentimages.storage.googleapis.com/d1/63/9b/27b1c5b9b3b4d8/JPOXMLDOC01-appb-D000007.png",
+    "https://patentimages.storage.googleapis.com/ea/e8/a1/3455dde921fe97/JPOXMLDOC01-appb-D000008.png",
+    "https://patentimages.storage.googleapis.com/c6/f7/1c/39b89f153c8105/JPOXMLDOC01-appb-D000009.png",
+    "https://patentimages.storage.googleapis.com/55/d7/cf/cbbf17bc126785/JPOXMLDOC01-appb-D000010.png",
+    "https://patentimages.storage.googleapis.com/85/58/83/f1c6ffb6818828/JPOXMLDOC01-appb-D000011.png",
+    "https://patentimages.storage.googleapis.com/25/7b/7e/8096505552ea2a/JPOXMLDOC01-appb-D000012.png",
+    "https://patentimages.storage.googleapis.com/7b/94/18/0e9b3ab0e61166/JPOXMLDOC01-appb-D000013.png"
+  ],
+  "classifications": [
+    {
+      "code": "B60L3/0046",
+      "description": "Detecting, eliminating, remedying or compensating for drive train abnormalities, e.g. failures within the drive train relating to electric energy storage systems, e.g. batteries or capacitors",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L1/003",
+      "description": "Supplying electric power to auxiliary equipment of vehicles to auxiliary motors, e.g. for pumps, compressors",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L1/02",
+      "description": "Supplying electric power to auxiliary equipment of vehicles to electric heating circuits",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L15/2009",
+      "description": "Methods, circuits, or devices for controlling the traction-motor speed of electrically-propelled vehicles for control of the vehicle or its driving motor to achieve a desired performance, e.g. speed, torque, programmed variation of speed for braking",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L50/51",
+      "description": "Electric propulsion with power supplied within the vehicle using propulsion power supplied by batteries or fuel cells characterised by AC-motors",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L50/52",
+      "description": "Electric propulsion with power supplied within the vehicle using propulsion power supplied by batteries or fuel cells characterised by DC-motors",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L58/13",
+      "description": "Maintaining the SoC within a determined range",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L58/14",
+      "description": "Preventing excessive discharging",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L58/15",
+      "description": "Preventing overcharging",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L58/16",
+      "description": "Methods or circuit arrangements for monitoring or controlling batteries or fuel cells, specially adapted for electric vehicles for monitoring or controlling batteries responding to battery ageing, e.g. to the number of charging cycles or the state of health [SoH]",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L58/18",
+      "description": "Methods or circuit arrangements for monitoring or controlling batteries or fuel cells, specially adapted for electric vehicles for monitoring or controlling batteries of two or more battery modules",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L58/22",
+      "description": "Balancing the charge of battery modules",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L58/26",
+      "description": "Methods or circuit arrangements for monitoring or controlling batteries or fuel cells, specially adapted for electric vehicles for monitoring or controlling batteries for controlling the temperature of batteries by cooling",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L7/12",
+      "description": "Dynamic electric regenerative braking for vehicles propelled by DC motors",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L7/14",
+      "description": "Dynamic electric regenerative braking for vehicles propelled by AC motors",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/052",
+      "description": "Li-accumulators",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/06",
+      "description": "Lead-acid accumulators",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/44",
+      "description": "Methods for charging or discharging",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M16/00",
+      "description": "Structural combinations of different types of electrochemical generators",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L2200/18",
+      "description": "Buses",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L2200/36",
+      "description": "Vehicles designed to transport cargo, e.g. trucks",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L2210/30",
+      "description": "AC to DC converters",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L2240/421",
+      "description": "Speed",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L2240/423",
+      "description": "Torque",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L2240/545",
+      "description": "Temperature",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L2240/547",
+      "description": "Voltage",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L2240/549",
+      "description": "Current",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/5825",
+      "description": "Oxygenated metallic salts or polyanionic structures, e.g. borates, phosphates, silicates, olivines",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E60/10",
+      "description": "Energy storage using batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T10/64",
+      "description": "Electric machine technologies in electromobility",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T10/70",
+      "description": "Energy storage systems for electromobility, e.g. batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T10/72",
+      "description": "Electric energy management in electromobility",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Provided is a hybrid storage cell that can prevent overcharge, despite lacking an expensive protection switch or other device adapted to deal with high current or high voltage, in order to proactively prevent rupture or ignition of lithium ion storage cells or other organic solution storage cells in the event of unforeseen overcharging. The cell comprises a plurality of series-connected virtual cells (32) of parallel-connected organic solution storage cells (24A) and aqueous solution storage cells (26A), the organic solution storage cells and the aqueous solution storage cells having closely approximating average discharge voltages. The overcharge threshold voltage of the organic solution storage cells is designed to be higher than the final discharge voltage of the aqueous solution storage cells, and the final discharge voltage of the organic solution storage cells to be lower than the final discharge voltage of the aqueous solution storage cells. In the event that the organic solution storage cells of a virtual cell are exposed to overcharge energy that could lead to overcharge, the energy is absorbed by a hydrogen-generating reaction of the aqueous solution storage cells, holding the discharge voltage of the virtual cell to the final discharge voltage of the aqueous solution storage cells, and preventing the organic solution storage cells from reaching the overcharge threshold voltage.",
+  "description_link": "https://serpapi.com/searches/68a9f8dc5c018f94b02a03bc/google_patents_details/description.html",
+  "claims": [
+    "\u3000\u6709\u6a5f\u6eb6\u6db2\u3092\u96fb\u89e3\u6db2\u3068\u3057\u3066\u7528\u3044\u308b\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u3068\u3001\u6c34\u6eb6\u6027\u96fb\u89e3\u6db2\u3092\u7528\u3044\u308b\u6c34\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u3068\u3092\u4e26\u5217\u63a5\u7d9a\u3057\u3066\u306a\u308b\u4eee\u60f3\u96fb\u6c60\u3092\u8907\u6570\u500b\u76f4\u5217\u63a5\u7d9a\u3057\u3066\u306a\u308b\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u3067\u3042\u3063\u3066\u3001\n\u3000\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u3068\u524d\u8a18\u6c34\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u3068\u306f\u3001\n\u3000\u4e92\u3044\u306b\u8fd1\u63a5\u3057\u305f\u5e73\u5747\u653e\u96fb\u96fb\u5727\u3092\u6709\u3057\u3001\n\u3000\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u306e\u904e\u5145\u96fb\u5371\u967a\u96fb\u5727\u304c\u3001\u524d\u8a18\u6c34\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u306e\u5145\u96fb\u7d42\u6b62\u96fb\u5727\u3088\u308a\u3082\u9ad8\u304f\u3001\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u306e\u5145\u96fb\u7d42\u6b62\u96fb\u5727\u304c\u3001\u524d\u8a18\u6c34\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u306e\u5145\u96fb\u7d42\u6b62\u96fb\u5727\u3088\u308a\u3082\u4f4e\u304f\u306a\u308b\u3088\u3046\u306b\u69cb\u6210\u3055\u308c\u3001\n\u3000\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u306f\u3001\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u306e\u5145\u96fb\u7d42\u6b62\u96fb\u5727\u3092\u8d85\u3048\u3066\u5145\u96fb\u3055\u308c\u308b\u3068\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u304c\u904e\u5145\u96fb\u306b\u81f3\u308a\u3001\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u306e\u904e\u5145\u96fb\u5371\u967a\u96fb\u5727\u3092\u8d85\u3048\u3066\u5145\u96fb\u3055\u308c\u308b\u3068\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u304c\u5371\u967a\u306a\u72b6\u614b\u306b\u81f3\u308a\u3001\u524d\u8a18\u6c34\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u306f\u3001\u524d\u8a18\u6c34\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u306e\u5145\u96fb\u7d42\u6b62\u96fb\u5727\u3092\u8d85\u3048\u3066\u5145\u96fb\u3055\u308c\u308b\u3068\u524d\u8a18\u6c34\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u304c\u904e\u5145\u96fb\u306b\u81f3\u308b\u3082\u306e\u3067\u3042\u308a\u3001\n\u3000\u524d\u8a18\u4eee\u60f3\u96fb\u6c60\u306b\u5bfe\u3057\u3066\u3001\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u304c\u904e\u5145\u96fb\u306b\u81f3\u308b\u904e\u5145\u96fb\u30a8\u30cd\u30eb\u30ae\u304c\u4e0e\u3048\u3089\u308c\u305f\u5834\u5408\u306b\u3001\u524d\u8a18\u6c34\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u304c\u6c34\u7d20\u767a\u751f\u53cd\u5fdc\u3092\u884c\u3046\u3053\u3068\u306b\u3088\u308a\u524d\u8a18\u904e\u5145\u96fb\u30a8\u30cd\u30eb\u30ae\u3092\u5438\u53ce\u3057\u3001\u524d\u8a18\u4eee\u60f3\u96fb\u6c60\u306e\u5145\u96fb\u96fb\u5727\u3092\u524d\u8a18\u6c34\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u306e\u5145\u96fb\u7d42\u6b62\u96fb\u5727\u306b\u6291\u3048\u3001\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u304c\u305d\u306e\u904e\u5145\u96fb\u5371\u967a\u96fb\u5727\u306b\u81f3\u308b\u306e\u3092\u9632\u6b62\u3059\u308b\u3088\u3046\u306b\u3057\u305f\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u3002\nA hybrid storage battery in which a plurality of virtual batteries obtained by connecting an organic solution storage battery using an organic solution as an electrolyte and an aqueous storage battery using a water-soluble electrolyte in parallel are connected in series,  The organic solution storage battery and the aqueous solution storage battery are:  Having an average discharge voltage close to each other;  The overcharge danger voltage of the organic solution storage battery is higher than the charge end voltage of the aqueous solution storage battery, and the charge end voltage of the organic solution storage battery is lower than the charge end voltage of the aqueous solution storage battery. And  When the organic solution storage battery is charged exceeding the end-of-charge voltage of the organic solution storage battery, the organic solution storage battery is overcharged and charged exceeding the overcharge danger voltage of the organic solution storage battery. And the organic solution storage battery reaches a dangerous state, the aqueous solution storage battery is overcharged when the aqueous solution storage battery is charged beyond the end-of-charge voltage of the aqueous solution storage battery,  When the organic battery is charged with overcharge energy that causes the organic solution battery to overcharge, the aqueous battery absorbs the overcharge energy by performing a hydrogen generation reaction, and the virtual battery The hybrid storage battery is characterized in that the charge voltage of the aqueous solution storage battery is suppressed to the end-of-charge voltage of the aqueous solution storage battery to prevent the organic solution storage battery from reaching its overcharge danger voltage.",
+    "\u3000\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u3068\u524d\u8a18\u6c34\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u3068\u306f\u3001\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u306e\u5e73\u5747\u653e\u96fb\u96fb\u5727\u304c\u3001\u524d\u8a18\u6c34\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u306e\u5145\u96fb\u7d42\u6b62\u96fb\u5727\u3068\u524d\u8a18\u6c34\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u306e\u5e73\u5747\u653e\u96fb\u96fb\u5727\u3068\u306e\u9593\u306b\u306a\u308b\u3088\u3046\u306b\u69cb\u6210\u3055\u308c\u3066\u3044\u308b\u8acb\u6c42\u9805\uff11\u306b\u8a18\u8f09\u306e\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u3002\n\nThe organic solution storage battery and the aqueous solution storage battery are configured such that an average discharge voltage of the organic solution storage battery is between an end-of-charge voltage of the aqueous solution storage battery and an average discharge voltage of the aqueous solution storage battery. The hybrid storage battery according to claim 1.",
+    "\u3000\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u3068\u524d\u8a18\u6c34\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u3068\u306f\u3001\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u306e\u653e\u96fb\u7d42\u6b62\u96fb\u5727\u304c\u3001\u524d\u8a18\u6c34\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u306e\u653e\u96fb\u7d42\u6b62\u96fb\u5727\u3088\u308a\u9ad8\u304f\u306a\u308b\u3088\u3046\u306b\u69cb\u6210\u3055\u308c\u3066\u3044\u308b\u8acb\u6c42\u9805\uff11\u53c8\u306f\uff12\u306b\u8a18\u8f09\u306e\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u3002\n\nThe hybrid according to claim 1 or 2, wherein the organic solution storage battery and the aqueous solution storage battery are configured such that a discharge end voltage of the organic solution storage battery is higher than a discharge end voltage of the aqueous solution storage battery. Storage battery.",
+    "\u3000\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u3068\u925b\u84c4\u96fb\u6c60\u3068\u3092\u4e26\u5217\u63a5\u7d9a\u3057\u3066\u306a\u308b\u4eee\u60f3\u96fb\u6c60\u3092\u8907\u6570\u500b\u76f4\u5217\u63a5\u7d9a\u3057\u3066\u306a\u308b\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u3067\u3042\u3063\u3066\u3001\n\u3000\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u3068\u524d\u8a18\u925b\u84c4\u96fb\u6c60\u3068\u306f\u3001\n\u3000\u4e92\u3044\u306b\u8fd1\u63a5\u3057\u305f\u5e73\u5747\u653e\u96fb\u96fb\u5727\u3092\u6709\u3057\u3001\n\u3000\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u306e\u904e\u5145\u96fb\u5371\u967a\u96fb\u5727\u304c\u3001\u524d\u8a18\u925b\u84c4\u96fb\u6c60\u306e\u5145\u96fb\u7d42\u6b62\u96fb\u5727\u3088\u308a\u3082\u9ad8\u304f\u3001\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u306e\u5145\u96fb\u7d42\u6b62\u96fb\u5727\u304c\u3001\u524d\u8a18\u925b\u84c4\u96fb\u6c60\u306e\u5145\u96fb\u7d42\u6b62\u96fb\u5727\u3088\u308a\u3082\u4f4e\u304f\u306a\u308b\u3088\u3046\u306b\u69cb\u6210\u3055\u308c\u3001\n\u3000\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u306f\u3001\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u306e\u5145\u96fb\u7d42\u6b62\u96fb\u5727\u3092\u8d85\u3048\u3066\u5145\u96fb\u3055\u308c\u308b\u3068\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u304c\u904e\u5145\u96fb\u306b\u81f3\u308a\u3001\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u306e\u904e\u5145\u96fb\u5371\u967a\u96fb\u5727\u3092\u8d85\u3048\u3066\u5145\u96fb\u3055\u308c\u308b\u3068\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u304c\u5371\u967a\u306a\u72b6\u614b\u306b\u81f3\u308a\u3001\u524d\u8a18\u925b\u84c4\u96fb\u6c60\u306f\u3001\u524d\u8a18\u925b\u84c4\u96fb\u6c60\u306e\u5145\u96fb\u7d42\u6b62\u96fb\u5727\u3092\u8d85\u3048\u3066\u5145\u96fb\u3055\u308c\u308b\u3068\u524d\u8a18\u925b\u84c4\u96fb\u6c60\u304c\u904e\u5145\u96fb\u306b\u81f3\u308b\u3082\u306e\u3067\u3042\u308a\u3001\n\u3000\u524d\u8a18\u4eee\u60f3\u96fb\u6c60\u306b\u5bfe\u3057\u3066\u3001\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u304c\u904e\u5145\u96fb\u306b\u81f3\u308b\u904e\u5145\u96fb\u30a8\u30cd\u30eb\u30ae\u304c\u4e0e\u3048\u3089\u308c\u305f\u5834\u5408\u306b\u3001\u524d\u8a18\u925b\u84c4\u96fb\u6c60\u304c\u6c34\u7d20\u767a\u751f\u53cd\u5fdc\u3092\u884c\u3046\u3053\u3068\u306b\u3088\u308a\u524d\u8a18\u904e\u5145\u96fb\u30a8\u30cd\u30eb\u30ae\u3092\u5438\u53ce\u3057\u3001\u524d\u8a18\u4eee\u60f3\u96fb\u6c60\u306e\u5145\u96fb\u96fb\u5727\u3092\u524d\u8a18\u925b\u84c4\u96fb\u6c60\u306e\u5145\u96fb\u7d42\u6b62\u96fb\u5727\u306b\u6291\u3048\u3001\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u304c\u305d\u306e\u904e\u5145\u96fb\u5371\u967a\u96fb\u5727\u306b\u81f3\u308b\u306e\u3092\u9632\u6b62\u3059\u308b\u3088\u3046\u306b\u3057\u305f\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u3002\nA hybrid storage battery in which a plurality of virtual batteries formed by connecting lithium ion storage batteries and lead storage batteries in parallel are connected in series,  The lithium ion storage battery and the lead storage battery are:  Having an average discharge voltage close to each other;  The overcharge danger voltage of the lithium ion storage battery is higher than the charge end voltage of the lead storage battery, and the charge end voltage of the lithium ion storage battery is configured to be lower than the charge end voltage of the lead storage battery,  When the lithium ion storage battery is charged beyond the end-of-charge voltage of the lithium ion storage battery, the lithium ion storage battery is overcharged, and when the lithium ion storage battery is charged beyond the overcharge danger voltage of the lithium ion storage battery, the lithium ion storage battery When the storage battery reaches a dangerous state, the lead storage battery is overcharged when charged beyond the end-of-charge voltage of the lead storage battery,  When the lithium ion storage battery is given an overcharge energy that leads to overcharging, the lead storage battery absorbs the overcharge energy by performing a hydrogen generation reaction, and the virtual battery is charged. A hybrid storage battery characterized in that the voltage is suppressed to the end-of-charge voltage of the lead storage battery, and the lithium ion storage battery is prevented from reaching its overcharge dangerous voltage.",
+    "\u3000\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u3068\u524d\u8a18\u925b\u84c4\u96fb\u6c60\u3068\u306f\u3001\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u306e\u5e73\u5747\u653e\u96fb\u96fb\u5727\u304c\u3001\u524d\u8a18\u925b\u84c4\u96fb\u6c60\u306e\u5145\u96fb\u7d42\u6b62\u96fb\u5727\u3068\u524d\u8a18\u925b\u84c4\u96fb\u6c60\u306e\u5e73\u5747\u653e\u96fb\u96fb\u5727\u3068\u306e\u9593\u306b\u306a\u308b\u3088\u3046\u306b\u69cb\u6210\u3055\u308c\u3066\u3044\u308b\u8acb\u6c42\u9805\uff14\u306b\u8a18\u8f09\u306e\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u3002\n\n5. The lithium ion storage battery and the lead storage battery are configured such that an average discharge voltage of the lithium ion storage battery is between a charge end voltage of the lead storage battery and an average discharge voltage of the lead storage battery. The hybrid storage battery described in 1.",
+    "\u3000\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u3068\u524d\u8a18\u925b\u84c4\u96fb\u6c60\u3068\u306f\u3001\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u306e\u653e\u96fb\u7d42\u6b62\u96fb\u5727\u304c\u3001\u524d\u8a18\u925b\u84c4\u96fb\u6c60\u306e\u653e\u96fb\u7d42\u6b62\u96fb\u5727\u3088\u308a\u9ad8\u304f\u306a\u308b\u3088\u3046\u306b\u69cb\u6210\u3055\u308c\u3066\u3044\u308b\u8acb\u6c42\u9805\uff14\u53c8\u306f\uff15\u306b\u8a18\u8f09\u306e\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u3002\n\nThe hybrid storage battery according to claim 4 or 5, wherein the lithium ion storage battery and the lead storage battery are configured such that a discharge end voltage of the lithium ion storage battery is higher than a discharge end voltage of the lead storage battery.",
+    "\u3000\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u306f\u3001\u6b63\u6975\u6d3b\u7269\u8cea\u3068\u3057\u3066\u71d0\u9178\u9244\u30ea\u30c1\u30a6\u30e0\u3092\u7528\u3044\u305f\u71d0\u9178\u9244\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u3067\u3042\u308b\u8acb\u6c42\u9805\uff14\uff5e\uff16\u306e\u3044\u305a\u308c\u304b\u306b\u8a18\u8f09\u306e\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u3002\n\nThe hybrid storage battery according to any one of claims 4 to 6, wherein the lithium ion storage battery is a lithium iron phosphate storage battery using lithium iron phosphate as a positive electrode active material.",
+    "\u3000\u3055\u3089\u306b\u3001\u524d\u8a18\u76f4\u5217\u63a5\u7d9a\u3055\u308c\u305f\u524d\u8a18\u8907\u6570\u306e\u4eee\u60f3\u96fb\u6c60\u9593\u306e\u5145\u96fb\u30d0\u30e9\u30f3\u30b9\u3092\u8abf\u6574\u3059\u308b\u305f\u3081\u306e\u3001\u5404\u4eee\u60f3\u96fb\u6c60\u306b\u4f75\u8a2d\u3055\u308c\u305f\u4eee\u60f3\u96fb\u6c60\u30d0\u30e9\u30f3\u30b9\u56de\u8def\u3092\u5099\u3048\u308b\u8acb\u6c42\u9805\uff14\uff5e\uff17\u306e\u3044\u305a\u308c\u304b\u306b\u8a18\u8f09\u306e\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u3002\n\nThe hybrid storage battery according to any one of claims 4 to 7, further comprising a virtual battery balance circuit provided in each virtual battery for adjusting a charge balance between the plurality of virtual batteries connected in series.",
+    "\u3000\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u306f\u3001\u76f4\u5217\u306b\u63a5\u7d9a\u3055\u308c\u305f\u8907\u6570\u306e\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u30bb\u30eb\u304b\u3089\u306a\u308a\u3001\u53c8\u306f\u4e26\u5217\u306b\u63a5\u7d9a\u3055\u308c\u305f\u8907\u6570\u306e\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u30bb\u30eb\u3088\u308a\u306a\u308b\u7b2c\uff11\u30bb\u30eb\u7fa4\u304c\u76f4\u5217\u306b\u8907\u6570\u63a5\u7d9a\u3055\u308c\u3066\u306a\u308a\u3001\n\u3000\u76f4\u5217\u306b\u63a5\u7d9a\u3055\u308c\u305f\u524d\u8a18\u8907\u6570\u306e\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u30bb\u30eb\u9593\u3001\u53c8\u306f\u76f4\u5217\u306b\u63a5\u7d9a\u3055\u308c\u305f\u524d\u8a18\u8907\u6570\u306e\u7b2c\uff11\u30bb\u30eb\u7fa4\u9593\u306e\u5145\u96fb\u30d0\u30e9\u30f3\u30b9\u3092\u63c3\u3048\u308b\u305f\u3081\u306e\u7b2c\uff11\u30bb\u30eb\u30d0\u30e9\u30f3\u30b9\u56de\u8def\u3092\u5099\u3048\u308b\u8acb\u6c42\u9805\uff14\uff5e\uff18\u306e\u3044\u305a\u308c\u304b\u306b\u8a18\u8f09\u306e\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u3002\nThe lithium ion storage battery consists of a plurality of lithium ion cells connected in series, or a plurality of first cell groups consisting of a plurality of lithium ion cells connected in parallel,  9. A first cell balance circuit for adjusting a charge balance between the plurality of lithium ion cells connected in series or between the plurality of first cell groups connected in series. The hybrid storage battery described.",
+    "\u3000\u524d\u8a18\u925b\u84c4\u96fb\u6c60\u306f\u3001\u76f4\u5217\u306b\u63a5\u7d9a\u3055\u308c\u305f\u8907\u6570\u306e\u925b\u84c4\u96fb\u6c60\u5358\u30bb\u30eb\u304b\u3089\u306a\u308a\u3001\u53c8\u306f\u4e26\u5217\u306b\u63a5\u7d9a\u3055\u308c\u305f\u8907\u6570\u306e\u925b\u84c4\u96fb\u6c60\u5358\u30bb\u30eb\u3088\u308a\u306a\u308b\u7b2c\uff12\u30bb\u30eb\u7fa4\u304c\u76f4\u5217\u306b\u8907\u6570\u63a5\u7d9a\u3055\u308c\u3066\u306a\u308a\u3001\n\u3000\u524d\u8a18\u8907\u6570\u306e\u925b\u84c4\u96fb\u6c60\u5358\u30bb\u30eb\u9593\u3001\u53c8\u306f\u76f4\u5217\u306b\u63a5\u7d9a\u3055\u308c\u305f\u524d\u8a18\u8907\u6570\u306e\u7b2c\uff12\u30bb\u30eb\u7fa4\u9593\u306e\u5145\u96fb\u30d0\u30e9\u30f3\u30b9\u306e\u5145\u96fb\u30d0\u30e9\u30f3\u30b9\u3092\u63c3\u3048\u308b\u305f\u3081\u306e\u7b2c\uff12\u30bb\u30eb\u30d0\u30e9\u30f3\u30b9\u56de\u8def\u3092\u5099\u3048\u308b\u8acb\u6c42\u9805\uff14\uff5e\uff19\u306e\u3044\u305a\u308c\u304b\u306b\u8a18\u8f09\u306e\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u3002\nThe lead storage battery consists of a plurality of lead storage battery single cells connected in series, or a plurality of second cell groups consisting of a plurality of lead storage battery single cells connected in parallel,  10. A second cell balance circuit for adjusting a charge balance between the plurality of lead storage battery single cells or between the plurality of second cell groups connected in series. Hybrid storage battery.",
+    "\u3000\u524d\u8a18\u4eee\u60f3\u96fb\u6c60\u306e\u4f5c\u52d5\u96fb\u5727\u306f\u3001\uff19\uff0e\uff10\uff36\uff5e\uff11\uff17\uff0e\uff10\uff36\u306e\u7bc4\u56f2\u306b\u3042\u308b\u8acb\u6c42\u9805\uff14\uff5e\uff11\uff10\u306e\u3044\u305a\u308c\u304b\u306b\u8a18\u8f09\u306e\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u3002\n\nThe hybrid storage battery according to any one of claims 4 to 10, wherein an operating voltage of the virtual battery is in a range of 9.0V to 17.0V.",
+    "\u3000\u524d\u8a18\u4eee\u60f3\u96fb\u6c60\u306e\u4f5c\u52d5\u96fb\u5727\u306f\u3001\uff11\uff18\uff0e\uff10\uff36\uff5e\uff13\uff14\uff0e\uff10\uff36\u306e\u7bc4\u56f2\u306b\u3042\u308b\u8acb\u6c42\u9805\uff14\uff5e\uff11\uff11\u306e\u3044\u305a\u308c\u304b\u306b\u8a18\u8f09\u306e\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u3002\n\nThe hybrid storage battery according to any one of claims 4 to 11, wherein an operating voltage of the virtual battery is in a range of 18.0V to 34.0V.",
+    "\u3000\u524d\u8a18\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u306e\u4f5c\u52d5\u96fb\u5727\u306f\u3001\uff16\uff10\uff36\u4ee5\u4e0b\u3067\u3042\u308b\u8acb\u6c42\u9805\uff14\uff5e\uff11\uff12\u306e\u3044\u305a\u308c\u304b\u306b\u8a18\u8f09\u306e\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u3002\n\nThe hybrid storage battery according to any one of claims 4 to 12, wherein an operating voltage of the hybrid storage battery is 60 V or less.",
+    "\u3000\u524d\u8a18\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u304b\u3089\u306e\u30a8\u30cd\u30eb\u30ae\u306e\u4f9b\u7d66\u306f\u3001\u6e80\u5145\u96fb\u306e\u72b6\u614b\u304b\u3089\u306e\u653e\u96fb\u306e\u5e8f\u76e4\u306b\u306f\u4e3b\u306b\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u304b\u3089\u884c\u308f\u308c\u3001\u307e\u305f\u3001\u524d\u8a18\u6e80\u5145\u96fb\u306e\u72b6\u614b\u304b\u3089\u306e\u653e\u96fb\u306e\u7d42\u76e4\u306b\u306f\u524d\u8a18\u925b\u84c4\u96fb\u6c60\u304b\u3089\u884c\u308f\u308c\u308b\u8acb\u6c42\u9805\uff14\uff5e\uff11\uff13\u306e\u3044\u305a\u308c\u304b\u306b\u8a18\u8f09\u306e\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u3002\n\nThe supply of energy from the hybrid storage battery is mainly performed from the lithium ion storage battery in the early stage of discharge from the fully charged state, and from the lead storage battery in the final stage of discharge from the fully charged state. The hybrid storage battery according to any one of claims 4 to 13.",
+    "\u3000\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u3001\u53c8\u306f\u76f4\u5217\u63a5\u7d9a\u3055\u308c\u305f\u524d\u8a18\u8907\u6570\u306e\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u306f\u3001\u30ab\u30bb\u30c3\u30c8\u30e2\u30b8\u30e5\u30fc\u30eb\u3068\u3057\u3066\u7740\u8131\u4ea4\u63db\u53ef\u80fd\u306b\u30e2\u30b8\u30e5\u30fc\u30eb\u5316\u3055\u308c\u3066\u306a\u308b\u8acb\u6c42\u9805\uff14\uff5e\uff11\uff14\u306e\u3044\u305a\u308c\u304b\u306b\u8a18\u8f09\u306e\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u3002\n\nThe hybrid storage battery according to any one of claims 4 to 14, wherein the lithium ion storage battery or the plurality of lithium ion storage batteries connected in series is modularized so as to be detachable and replaceable as a cassette module.",
+    "\u3000\u99c6\u52d5\u30a8\u30cd\u30eb\u30ae\u6e90\u3068\u3057\u3066\u3001\u8acb\u6c42\u9805\uff11\uff5e\uff11\uff15\u306e\u3044\u305a\u308c\u304b\u306b\u8a18\u8f09\u306e\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u3092\u5099\u3048\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u8d70\u884c\u8eca\u8f0c\u3002\n\nA traveling vehicle comprising the hybrid storage battery according to any one of claims 1 to 15 as a drive energy source.",
+    "\u3000\u524d\u8a18\u8d70\u884c\u8eca\u8f0c\u306e\u8d70\u884c\u6642\u306b\u304a\u3051\u308b\u4f59\u5270\u30a8\u30cd\u30eb\u30ae\u3092\u56de\u751f\u96fb\u529b\u3068\u3057\u3066\u56de\u53ce\u3057\u3001\u524d\u8a18\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u306b\u5145\u96fb\u3059\u308b\u8acb\u6c42\u9805\uff11\uff16\u306b\u8a18\u8f09\u306e\u8d70\u884c\u8eca\u8f0c\u3002\n\nThe traveling vehicle according to claim 16, wherein surplus energy at the time of traveling of the traveling vehicle is recovered as regenerative electric power, and the hybrid storage battery is charged.",
+    "\u3000\u8acb\u6c42\u9805\uff11\uff16\u53c8\u306f\u8acb\u6c42\u9805\uff11\uff17\u306b\u8a18\u8f09\u306e\u8d70\u884c\u8eca\u8f0c\u3068\u3001\n\u3000\u8907\u6570\u500b\u8caf\u8535\u3055\u308c\u305f\u5145\u96fb\u6e08\u307f\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u3001\u53c8\u306f\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u306e\u30ab\u30bb\u30c3\u30c8\u30e2\u30b8\u30e5\u30fc\u30eb\u3001\u53ca\u3073\u653e\u96fb\u3057\u3066\u4ea4\u63db\u304c\u5fc5\u8981\u306a\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u3001\u53c8\u306f\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u306e\u30ab\u30bb\u30c3\u30c8\u30e2\u30b8\u30e5\u30fc\u30eb\u3092\u5145\u96fb\u3059\u308b\u5145\u96fb\u5668\u3092\u5099\u3048\u308b\u96fb\u529b\u8caf\u8535\u8a2d\u5099\u3068\u3092\u6709\u3059\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u30b9\u30de\u30fc\u30c8\u30b0\u30ea\u30c3\u30c9\u8d70\u884c\u8eca\u8f0c\u30b7\u30b9\u30c6\u30e0\u3002\nA traveling vehicle according to claim 16 or claim 17,  A plurality of charged organic solution-based storage batteries or cassette modules of the lithium-ion storage batteries, and a charger for charging the organic solution-based storage batteries that need to be discharged and replaced, or the cassette modules of the lithium-ion storage batteries. A smart grid traveling vehicle system comprising a power storage facility.",
+    "\u3000\u66f4\u306b\u3001\u524d\u8a18\u96fb\u529b\u8caf\u8535\u8a2d\u5099\u306f\u3001\u524d\u8a18\u8d70\u884c\u8eca\u8f0c\u306b\u642d\u8f09\u3055\u308c\u305f\u3001\u653e\u96fb\u3057\u3066\u4ea4\u63db\u304c\u5fc5\u8981\u306a\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u3001\u53c8\u306f\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u306e\u30ab\u30bb\u30c3\u30c8\u30e2\u30b8\u30e5\u30fc\u30eb\u3092\u3001\u8caf\u8535\u3055\u308c\u305f\u5145\u96fb\u6e08\u307f\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u3001\u53c8\u306f\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u306e\u30ab\u30bb\u30c3\u30c8\u30e2\u30b8\u30e5\u30fc\u30eb\u3068\u4ea4\u63db\u3059\u308b\u305f\u3081\u306e\u4ea4\u63db\u624b\u6bb5\u3092\u5099\u3048\u308b\u8acb\u6c42\u9805\uff11\uff18\u306b\u8a18\u8f09\u306e\u30b9\u30de\u30fc\u30c8\u30b0\u30ea\u30c3\u30c9\u8d70\u884c\u8eca\u8f0c\u30b7\u30b9\u30c6\u30e0\u3002\n\nFurther, the power storage facility is mounted on the traveling vehicle, the organic solution storage battery that needs to be discharged and replaced, or the cassette module of the lithium ion storage battery, the charged organic solution storage battery that has been stored, The smart grid traveling vehicle system according to claim 18, further comprising exchange means for replacing the cassette module of the lithium ion storage battery.",
+    "\u3000\u5185\u90e8\u306b\u8caf\u8535\u3055\u308c\u308b\u8907\u6570\u500b\u306e\u3001\u8acb\u6c42\u9805\uff11\uff5e\uff11\uff15\u306e\u3044\u305a\u308c\u304b\u306b\u8a18\u8f09\u306e\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u84c4\u96fb\u6c60\u3068\u3001\n\u3000\u5185\u90e8\u306b\u8caf\u8535\u3055\u308c\u308b\u5145\u96fb\u6e08\u307f\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u3001\u53c8\u306f\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u306e\u30ab\u30bb\u30c3\u30c8\u30e2\u30b8\u30e5\u30fc\u30eb\u3068\u3001\n\u3000\u653e\u96fb\u3057\u305f\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u3001\u53c8\u306f\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u306e\u30ab\u30bb\u30c3\u30c8\u30e2\u30b8\u30e5\u30fc\u30eb\u3092\u5145\u96fb\u3059\u308b\u305f\u3081\u306e\u5145\u96fb\u5668\u3068\u3001\u3092\u5099\u3048\u3001\n\u3000\u524d\u8a18\u5145\u96fb\u6e08\u307f\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u3001\u53c8\u306f\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u306e\u30ab\u30bb\u30c3\u30c8\u30e2\u30b8\u30e5\u30fc\u30eb\u3068\u3001\u653e\u96fb\u3057\u3066\u4ea4\u63db\u304c\u5fc5\u8981\u306a\u524d\u8a18\u6709\u6a5f\u6eb6\u6db2\u7cfb\u84c4\u96fb\u6c60\u3001\u53c8\u306f\u524d\u8a18\u30ea\u30c1\u30a6\u30e0\u30a4\u30aa\u30f3\u84c4\u96fb\u6c60\u306e\u30ab\u30bb\u30c3\u30c8\u30e2\u30b8\u30e5\u30fc\u30eb\u3068\u3092\u4ea4\u63db\u53ef\u80fd\u3067\u3042\u308a\u3001\n\u3000\u8907\u6570\u306e\u96fb\u529b\u4f9b\u7d66\u5148\u8a2d\u5099\u3092\u63a5\u7d9a\u3059\u308b\u96fb\u529b\u4f9b\u7d66\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u306b\u63a5\u7d9a\u3055\u308c\u3001\u96fb\u529b\u5e73\u6e96\u5316\u53ca\u3073\u96fb\u529b\u8caf\u8535\u306b\u7528\u3044\u3089\u308c\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u96fb\u529b\u8caf\u8535\u8a2d\u5099\u3002\nA plurality of hybrid storage batteries according to any one of claims 1 to 15, stored therein,  The charged organic solution storage battery stored inside, or the cassette module of the lithium ion storage battery,  A charger for charging the discharged organic solution storage battery or the cassette module of the lithium ion storage battery,  The charged organic solution battery or the lithium ion battery cassette module can be replaced with the organic solution battery or the lithium ion battery cassette module that needs to be discharged and replaced.  A power storage facility connected to a power supply network connecting a plurality of power supply destination facilities and used for power leveling and power storage.",
+    "\u3000\u8acb\u6c42\u9805\uff12\uff10\u306b\u8a18\u8f09\u306e\u96fb\u529b\u8caf\u8535\u8a2d\u5099\u3068\u3001\n\u3000\u8a72\u96fb\u529b\u8caf\u8535\u8a2d\u5099\u3068\u8907\u6570\u306e\u96fb\u529b\u4f9b\u7d66\u5148\u8a2d\u5099\u3068\u3092\u63a5\u7d9a\u3057\u3001\u524d\u8a18\u96fb\u529b\u8caf\u8535\u8a2d\u5099\u304b\u3089\u524d\u8a18\u8907\u6570\u306e\u96fb\u529b\u4f9b\u7d66\u5148\u8a2d\u5099\u3078\u306e\u96fb\u529b\u4f9b\u7d66\u3092\u53ef\u80fd\u3068\u3059\u308b\u96fb\u529b\u4f9b\u7d66\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u3068\u3001\n\u3000\u524d\u8a18\u8907\u6570\u306e\u96fb\u529b\u4f9b\u7d66\u5148\u306e\u8a2d\u5099\u306b\u500b\u5225\u306b\u8a2d\u7f6e\u3055\u308c\u3001\u505c\u96fb\u6642\u3001\u96fb\u529b\u8caf\u8535\u8a2d\u5099\u3078\u306e\u96fb\u529b\u4f9b\u7d66\u6307\u793a\u53ca\u3073\u524d\u8a18\u96fb\u529b\u4f9b\u7d66\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u3092\u901a\u3058\u3066\u4f9b\u7d66\u3055\u308c\u305f\u4f9b\u7d66\u96fb\u529b\u91cf\u306e\u7ba1\u7406\u3092\u884c\u3046\u96fb\u529b\u4f9b\u7d66\u6307\u793a\u624b\u6bb5\u3068\u3001\u3092\u5099\u3048\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u96fb\u529b\u4f9b\u7d66\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u30b7\u30b9\u30c6\u30e0\u3002\nThe power storage facility according to claim 20;  A power supply network that connects the power storage facility and a plurality of power supply destination facilities, and enables power supply from the power storage facility to the plurality of power supply destination facilities;  A power supply instructing unit that is individually installed in the plurality of power supply destination facilities and that performs power supply instruction to a power storage facility and management of the amount of power supplied through the power supply network in the event of a power failure; Power supply network system characterized by"
+  ],
+  "priority_applications": [
+    {
+      "application_number": "DK12839768.4T",
+      "representative_publication": "DK2768071T3",
+      "primary_language": "en",
+      "priority_date": "2011-10-11",
+      "filing_date": "2012-10-09",
+      "title": "HYBRID STORAGE CELL, VEHICLE AND ENERGY STORAGE UNIT URGENTLY, SMART GRID VEHICLE VEHICLE, AND ENERGY STORAGE NETWORK SYSTEM WITH ENERGY STORAGE UNIT"
+    },
+    {
+      "application_number": "JP2013518608A",
+      "representative_publication": "JP5373999B2",
+      "primary_language": "en",
+      "priority_date": "2011-10-11",
+      "filing_date": "2012-10-09",
+      "title": "Hybrid storage battery, traveling vehicle and power storage facility using the same, smart grid traveling vehicle system using the traveling vehicle, and power supply network system using the power storage facility"
+    },
+    {
+      "application_number": "US14/239,745",
+      "representative_publication": "US9385543B2",
+      "primary_language": "en",
+      "priority_date": "2011-10-11",
+      "filing_date": "2012-10-09",
+      "title": "Hybrid storage cell, vehicle and power storage unit employing same, smart grid vehicle system employing vehicle, and power supply network system employing power storage unit"
+    },
+    {
+      "application_number": "EP12839768.4A",
+      "representative_publication": "EP2768071B1",
+      "primary_language": "en",
+      "priority_date": "2011-10-11",
+      "filing_date": "2012-10-09",
+      "title": "Hybrid storage cell, vehicle and power storage unit employing same, smart grid vehicle system employing vehicle, and power supply network system employing power storage unit"
+    },
+    {
+      "application_number": "ES12839768.4T",
+      "representative_publication": "ES2627932T3",
+      "primary_language": "en",
+      "priority_date": "2011-10-11",
+      "filing_date": "2012-10-09",
+      "title": "Hybrid storage cell, vehicle and energy storage unit that employ the same, intelligent network vehicle system that employs the vehicle and power supply network system that uses the energy storage unit"
+    },
+    {
+      "application_number": "PL12839768T",
+      "representative_publication": "PL2768071T3",
+      "primary_language": "en",
+      "priority_date": "2011-10-11",
+      "filing_date": "2012-10-09",
+      "title": "Hybrid storage cell, vehicle and power storage unit employing same, smart grid vehicle system employing vehicle, and power supply network system employing power storage unit"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "JP2011224070",
+      "filing_date": "2011-10-11"
+    },
+    {
+      "application_number": "JP2011-224070",
+      "filing_date": "2011-10-11"
+    }
+  ],
+  "family_id": "48081850",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "JP2003164068A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-11-22",
+        "publication_date": "2003-06-06",
+        "assignee_original": "Hitachi Ltd",
+        "title": "Power supply device, distributed power supply system and electric vehicle equipped with the same",
+        "patent_id": "patent/JP2003164068A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2003164068A%2Fen"
+      },
+      {
+        "publication_number": "JP2009219310A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-03-12",
+        "publication_date": "2009-09-24",
+        "assignee_original": "Nippon Telegr & Teleph Corp <Ntt>",
+        "title": "Power supply device",
+        "patent_id": "patent/JP2009219310A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2009219310A%2Fen"
+      },
+      {
+        "publication_number": "JP2010097388A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-16",
+        "publication_date": "2010-04-30",
+        "assignee_original": "Haruko Amiya",
+        "title": "Lease system for battery",
+        "patent_id": "patent/JP2010097388A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2010097388A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US5612606A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-09-15",
+        "publication_date": "1997-03-18",
+        "assignee_original": "David C. Guimarin",
+        "title": "Battery exchange system for electric vehicles",
+        "patent_id": "patent/US5612606A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5612606A%2Fen"
+      },
+      {
+        "publication_number": "JP3491473B2",
+        "primary_language": "en",
+        "priority_date": "1996-11-26",
+        "publication_date": "2004-01-26",
+        "assignee_original": "\u65b0\u795e\u6238\u96fb\u6a5f\u682a\u5f0f\u4f1a\u793e",
+        "title": "Battery pack",
+        "patent_id": "patent/JP3491473B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3491473B2%2Fen"
+      },
+      {
+        "publication_number": "JP2002025630A",
+        "primary_language": "en",
+        "priority_date": "2000-07-11",
+        "publication_date": "2002-01-25",
+        "assignee_original": "Shin Kobe Electric Mach Co Ltd",
+        "title": "Power supply system for traveling vehicles",
+        "patent_id": "patent/JP2002025630A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2002025630A%2Fen"
+      },
+      {
+        "publication_number": "US6366055B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-30",
+        "publication_date": "2002-04-02",
+        "assignee_original": "Shin-Kobe Electric Machinery Co., Ltd.",
+        "title": "Power supply system and state of charge estimating method",
+        "patent_id": "patent/US6366055B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6366055B1%2Fen"
+      },
+      {
+        "publication_number": "US20040201365A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-04-05",
+        "publication_date": "2004-10-14",
+        "assignee_original": "Electrovaya Inc.",
+        "title": "Energy storage device for loads having variable power rates",
+        "patent_id": "patent/US20040201365A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040201365A1%2Fen"
+      },
+      {
+        "publication_number": "JP2004032871A",
+        "primary_language": "en",
+        "priority_date": "2002-06-25",
+        "publication_date": "2004-01-29",
+        "assignee_original": "Shin Kobe Electric Mach Co Ltd",
+        "title": "Power supply system for running vehicles",
+        "patent_id": "patent/JP2004032871A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2004032871A%2Fen"
+      },
+      {
+        "publication_number": "US20090317696A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-19",
+        "publication_date": "2009-12-24",
+        "assignee_original": "Chih-Peng Chang",
+        "title": "Compound battery device having lithium battery and lead-acid battery",
+        "patent_id": "patent/US20090317696A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090317696A1%2Fen"
+      },
+      {
+        "publication_number": "CN102195333A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-17",
+        "publication_date": "2011-09-21",
+        "assignee_original": "\u65b0\u795e\u6237\u7535\u673a\u682a\u5f0f\u4f1a\u793e",
+        "title": "Direct-current power source apparatus",
+        "patent_id": "patent/CN102195333A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102195333A%2Fen"
+      },
+      {
+        "publication_number": "DE102012204962A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-03-28",
+        "publication_date": "2013-10-02",
+        "assignee_original": "Bayerische Motoren Werke Aktiengesellschaft",
+        "title": "Vehicle with lithium-ion battery",
+        "patent_id": "patent/DE102012204962A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102012204962A1%2Fen"
+      },
+      {
+        "publication_number": "KR20140125971A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-04-19",
+        "publication_date": "2014-10-30",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Dual battery pack and operating method thereof",
+        "patent_id": "patent/KR20140125971A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20140125971A%2Fen"
+      },
+      {
+        "publication_number": "US9812732B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-08-16",
+        "publication_date": "2017-11-07",
+        "assignee_original": "Johnson Controls Technology Company",
+        "title": "Dual storage system and method with lithium ion and lead acid battery cells",
+        "patent_id": "patent/US9812732B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9812732B2%2Fen"
+      },
+      {
+        "publication_number": "US9461482B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-04-15",
+        "publication_date": "2016-10-04",
+        "assignee_original": "Win Sheng Cheng",
+        "title": "Multi-chemistry battery pack system",
+        "patent_id": "patent/US9461482B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9461482B2%2Fen"
+      },
+      {
+        "publication_number": "JP2015217692A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-05-14",
+        "publication_date": "2015-12-07",
+        "assignee_original": "\u30c8\u30e8\u30bf\u81ea\u52d5\u8eca\u682a\u5f0f\u4f1a\u793e",
+        "title": "Power supply control device",
+        "patent_id": "patent/JP2015217692A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2015217692A%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "See also references of EP2768071A4",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "WO2014162686A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-04-03",
+        "publication_date": "2014-10-09",
+        "assignee_original": "\u30d1\u30ca\u30bd\u30cb\u30c3\u30af\u682a\u5f0f\u4f1a\u793e",
+        "title": "Battery system",
+        "patent_id": "patent/WO2014162686A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014162686A1%2Fen"
+      },
+      {
+        "publication_number": "US20150050527A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-08-16",
+        "publication_date": "2015-02-19",
+        "assignee_original": "Johnson Controls Technology Company",
+        "title": "Dual storage system and method with lithium ion and lead acid battery cells",
+        "patent_id": "patent/US20150050527A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150050527A1%2Fen"
+      },
+      {
+        "publication_number": "JP2015050009A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-08-30",
+        "publication_date": "2015-03-16",
+        "assignee_original": "\u4e09\u6d0b\u96fb\u6a5f\u682a\u5f0f\u4f1a\u793e",
+        "title": "Vehicle power supply device",
+        "patent_id": "patent/JP2015050009A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2015050009A%2Fen"
+      },
+      {
+        "publication_number": "WO2015108111A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-01-15",
+        "publication_date": "2015-07-23",
+        "assignee_original": "\uff23\uff4f\uff4e\uff4e\uff45\uff58\uff58 \uff33\uff59\uff53\uff54\uff45\uff4d\uff53 \u682a\u5f0f\u4f1a\u793e",
+        "title": "Hybrid storage battery and hybrid storage device, power generation and storage unit, power grid system, and traveling body using same",
+        "patent_id": "patent/WO2015108111A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015108111A1%2Fen"
+      },
+      {
+        "publication_number": "WO2016035280A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-09-05",
+        "publication_date": "2016-03-10",
+        "assignee_original": "\u30d1\u30ca\u30bd\u30cb\u30c3\u30af\uff29\uff50\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u682a\u5f0f\u4f1a\u793e",
+        "title": "Battery system, electric vehicle, and method for charging battery system",
+        "patent_id": "patent/WO2016035280A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016035280A1%2Fen"
+      },
+      {
+        "publication_number": "JP2016525865A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-07-22",
+        "publication_date": "2016-08-25",
+        "assignee_original": "\u30ea\u30ca\u30c3\u30af \u30a8\u30fc\uff0f\u30a8\u30b9",
+        "title": "Actuator system",
+        "patent_id": "patent/JP2016525865A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2016525865A%2Fen"
+      },
+      {
+        "publication_number": "JP2016526868A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-14",
+        "publication_date": "2016-09-05",
+        "assignee_original": "\u30d8\u30c3\u30b8\u30db\u30c3\u30b0\u30fb\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u30ba\u30fb\u30d3\u30fc\uff0e\u30d6\u30a4\uff0e\uff28\uff45\uff44\uff47\uff45\uff48\uff4f\uff47 \uff21\uff50\uff50\uff4c\uff49\uff43\uff41\uff54\uff49\uff4f\uff4e\uff53 \uff22\uff0e\uff36\uff0e",
+        "title": "Methods and systems for the use of regenerative braking energy of rail cars",
+        "patent_id": "patent/JP2016526868A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2016526868A%2Fen"
+      },
+      {
+        "publication_number": "JP2016182029A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-03-24",
+        "publication_date": "2016-10-13",
+        "assignee_original": "\u5f90 \u592b\u5b50\uff28\uff33\uff35 \uff26\uff55\u2212\uff34\uff5a\uff55",
+        "title": "Acid-alkaline resonant battery device with damper function",
+        "patent_id": "patent/JP2016182029A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2016182029A%2Fen"
+      },
+      {
+        "publication_number": "CN106671812A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-29",
+        "publication_date": "2017-05-17",
+        "assignee_original": "\u6d59\u6c5f\u5357\u8f66\u7535\u8f66\u6709\u9650\u516c\u53f8",
+        "title": "Rapid charging device and method for electric bus",
+        "patent_id": "patent/CN106671812A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106671812A%2Fen"
+      },
+      {
+        "publication_number": "JP2017111967A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-16",
+        "publication_date": "2017-06-22",
+        "assignee_original": "\uff23\uff4f\uff4e\uff4e\uff45\uff58\uff58 \uff33\uff59\uff53\uff54\uff45\uff4d\uff53\u682a\u5f0f\u4f1a\u793e",
+        "title": "Power storage system for building",
+        "patent_id": "patent/JP2017111967A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2017111967A%2Fen"
+      },
+      {
+        "publication_number": "WO2018169028A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-17",
+        "publication_date": "2018-09-20",
+        "assignee_original": "\u65ed\u5316\u6210\u682a\u5f0f\u4f1a\u793e",
+        "title": "Nonaqueous electrolyte, nonaqueous secondary battery, cell pack, and hybrid system",
+        "patent_id": "patent/WO2018169028A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018169028A1%2Fen"
+      },
+      {
+        "publication_number": "WO2018169029A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-17",
+        "publication_date": "2018-09-20",
+        "assignee_original": "\u65ed\u5316\u6210\u682a\u5f0f\u4f1a\u793e",
+        "title": "Nonaqueous electrolyte, nonaqueous secondary battery, cell pack, and hybrid system",
+        "patent_id": "patent/WO2018169029A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018169029A1%2Fen"
+      },
+      {
+        "publication_number": "WO2019030795A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-08-07",
+        "publication_date": "2019-02-14",
+        "assignee_original": "\uff23\uff4f\uff4e\uff4e\uff45\uff58\uff58 \uff33\uff59\uff53\uff54\uff45\uff4d\uff53\u682a\u5f0f\u4f1a\u793e",
+        "title": "Solar power generation system",
+        "patent_id": "patent/WO2019030795A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019030795A1%2Fen"
+      },
+      {
+        "publication_number": "JP2019160734A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-03-16",
+        "publication_date": "2019-09-19",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u6771\u829d",
+        "title": "Assembled battery, battery pack, vehicle, stationary power supply",
+        "patent_id": "patent/JP2019160734A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2019160734A%2Fen"
+      },
+      {
+        "publication_number": "WO2021085646A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-11-01",
+        "publication_date": "2021-05-06",
+        "assignee_original": "\uff2e\uff25\uff58\uff34\uff0d\uff45 \uff33\uff4f\uff4c\uff55\uff54\uff49\uff4f\uff4e\uff53\u682a\u5f0f\u4f1a\u793e",
+        "title": "Energy storage system",
+        "patent_id": "patent/WO2021085646A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021085646A1%2Fen"
+      },
+      {
+        "publication_number": "CN114122595A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-02",
+        "publication_date": "2022-03-01",
+        "assignee_original": "\u56fd\u7f51\u6e56\u5317\u7701\u7535\u529b\u6709\u9650\u516c\u53f8\u5b9c\u660c\u4f9b\u7535\u516c\u53f8",
+        "title": "Installation, replacement and maintenance method of battery module in DC system of substation",
+        "patent_id": "patent/CN114122595A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114122595A%2Fen"
+      },
+      {
+        "publication_number": "US11552483B2",
+        "primary_language": "en",
+        "priority_date": "2018-10-05",
+        "publication_date": "2023-01-10",
+        "assignee_original": "Next-E Solutions Inc.",
+        "title": "Electric storage system",
+        "patent_id": "patent/US11552483B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11552483B2%2Fen"
+      },
+      {
+        "publication_number": "JP2023009939A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-07-08",
+        "publication_date": "2023-01-20",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u30ea\u30b3\u30fc",
+        "title": "Power storage system, power source, drive device, power control device, and power storage state equalization method",
+        "patent_id": "patent/JP2023009939A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2023009939A%2Fen"
+      },
+      {
+        "publication_number": "CN115891703A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-11-10",
+        "publication_date": "2023-04-04",
+        "assignee_original": "\u84dd\u8c37\u667a\u6167(\u5317\u4eac)\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Control method of charging and replacing power station, charging and replacing power station and storage medium",
+        "patent_id": "patent/CN115891703A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115891703A%2Fen"
+      },
+      {
+        "publication_number": "US12074465B2",
+        "primary_language": "en",
+        "priority_date": "2015-11-18",
+        "publication_date": "2024-08-27",
+        "assignee_original": "Next-E Solutions Inc.",
+        "title": "Control device, electric storage device, electric storage system, and computer-readable medium",
+        "patent_id": "patent/US12074465B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12074465B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "RU2627240C1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-08-09",
+        "publication_date": "2017-08-04",
+        "assignee_original": "\u0425\u0438\u0442\u0430\u0447\u0438 \u0410\u0443\u0442\u043e\u043c\u043e\u0442\u0438\u0432 \u0421\u0438\u0441\u0442\u0435\u043c\u0441, \u041b\u0442\u0434.",
+        "title": "Storage battery control system and vehicle control system",
+        "patent_id": "patent/RU2627240C1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2627240C1%2Fen"
+      },
+      {
+        "publication_number": "JP6196281B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-02",
+        "publication_date": "2017-09-13",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u6771\u829d",
+        "title": "Battery control device, battery system, and moving body",
+        "patent_id": "patent/JP6196281B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6196281B2%2Fen"
+      },
+      {
+        "publication_number": "US10886745B2",
+        "primary_language": "en",
+        "priority_date": "2016-08-18",
+        "publication_date": "2021-01-05",
+        "assignee_original": "Cornell University",
+        "title": "Virtual localized energy storage devices in an electrical distribution system",
+        "patent_id": "patent/US10886745B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10886745B2%2Fen"
+      },
+      {
+        "publication_number": "WO2018094501A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-24",
+        "publication_date": "2018-05-31",
+        "assignee_original": "Blue Solutions Canada Inc.",
+        "title": "Conversion circuit device for uninterruptible power supply (ups) systems",
+        "patent_id": "patent/WO2018094501A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018094501A1%2Fen"
+      },
+      {
+        "publication_number": "JP6561407B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-04-07",
+        "publication_date": "2019-08-21",
+        "assignee_original": "\u5b66\u6821\u6cd5\u4eba\u65e9\u7a32\u7530\u5927\u5b66",
+        "title": "Battery pack, battery module and battery module evaluation method",
+        "patent_id": "patent/JP6561407B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6561407B2%2Fen"
+      },
+      {
+        "publication_number": "JP7240640B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-11-22",
+        "publication_date": "2023-03-16",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\uff27\uff53\u30e6\u30a2\u30b5",
+        "title": "lithium ion secondary battery",
+        "patent_id": "patent/JP7240640B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7240640B2%2Fen"
+      },
+      {
+        "publication_number": "US11038364B2",
+        "primary_language": "en",
+        "priority_date": "2018-01-10",
+        "publication_date": "2021-06-15",
+        "assignee_original": "Microsoft Technology Licensing, Llc",
+        "title": "Parallel charging and discharging of batteries with disparate characteristics",
+        "patent_id": "patent/US11038364B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11038364B2%2Fen"
+      },
+      {
+        "publication_number": "WO2019147244A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-01-25",
+        "publication_date": "2019-08-01",
+        "assignee_original": "Volvo Construction Equipment Ab",
+        "title": "Equalizer overload management",
+        "patent_id": "patent/WO2019147244A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019147244A1%2Fen"
+      },
+      {
+        "publication_number": "US20200070665A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-08-28",
+        "publication_date": "2020-03-05",
+        "assignee_original": "Ii-Vi Delaware, Inc.",
+        "title": "Adaptive Reservoir Charging Station",
+        "patent_id": "patent/US20200070665A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200070665A1%2Fen"
+      },
+      {
+        "publication_number": "US11453309B2",
+        "primary_language": "en",
+        "priority_date": "2018-09-06",
+        "publication_date": "2022-09-27",
+        "assignee_original": "Artisan Vehicle Systems, Inc.",
+        "title": "Electric power distribution system and method for electric mining machine",
+        "patent_id": "patent/US11453309B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11453309B2%2Fen"
+      },
+      {
+        "publication_number": "US10926661B2",
+        "primary_language": "en",
+        "priority_date": "2018-09-18",
+        "publication_date": "2021-02-23",
+        "assignee_original": "Ford Global Technologies, Llc",
+        "title": "Transient battery power management",
+        "patent_id": "patent/US10926661B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10926661B2%2Fen"
+      },
+      {
+        "publication_number": "US11101680B2",
+        "primary_language": "en",
+        "priority_date": "2019-06-28",
+        "publication_date": "2021-08-24",
+        "assignee_original": "Microsoft Technology Licensing, Llc",
+        "title": "Parallel battery charge management",
+        "patent_id": "patent/US11101680B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11101680B2%2Fen"
+      },
+      {
+        "publication_number": "DE102019217354A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-11-11",
+        "publication_date": "2021-05-12",
+        "assignee_original": "Robert Bosch Gmbh",
+        "title": "Method for charging an electrical energy storage system, electrical energy storage system and vehicle",
+        "patent_id": "patent/DE102019217354A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102019217354A1%2Fen"
+      },
+      {
+        "publication_number": "US11777323B2",
+        "primary_language": "en",
+        "priority_date": "2020-08-13",
+        "publication_date": "2023-10-03",
+        "assignee_original": "Entrantech Inc.",
+        "title": "Sequential power discharge for batteries in a power system",
+        "patent_id": "patent/US11777323B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11777323B2%2Fen"
+      },
+      {
+        "publication_number": "US12328020B2",
+        "primary_language": "en",
+        "priority_date": "2020-08-13",
+        "publication_date": "2025-06-10",
+        "assignee_original": "Entrantech Inc.",
+        "title": "System for swappable battery module charging and discharging",
+        "patent_id": "patent/US12328020B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12328020B2%2Fen"
+      },
+      {
+        "publication_number": "US11901749B2",
+        "primary_language": "en",
+        "priority_date": "2020-09-09",
+        "publication_date": "2024-02-13",
+        "assignee_original": "Microsoft Technology Licensing, Llc",
+        "title": "Balanced discharge in multi-battery system",
+        "patent_id": "patent/US11901749B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11901749B2%2Fen"
+      },
+      {
+        "publication_number": "CN114030388B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-10-27",
+        "publication_date": "2024-02-27",
+        "assignee_original": "\u667a\u65b0\u63a7\u5236\u7cfb\u7edf\u6709\u9650\u516c\u53f8",
+        "title": "Overcurrent protection system and method",
+        "patent_id": "patent/CN114030388B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114030388B%2Fen"
+      },
+      {
+        "publication_number": "US11689048B1",
+        "primary_language": "en",
+        "priority_date": "2021-12-10",
+        "publication_date": "2023-06-27",
+        "assignee_original": "NDSL, Inc.",
+        "title": "Methods, systems, and devices for maintenance and optimization of battery cabinets",
+        "patent_id": "patent/US11689048B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11689048B1%2Fen"
+      },
+      {
+        "publication_number": "US11462917B1",
+        "primary_language": "en",
+        "priority_date": "2021-12-10",
+        "publication_date": "2022-10-04",
+        "assignee_original": "NDSL, Inc.",
+        "title": "Methods, systems, and devices for maintenance and optimization of battery cabinets",
+        "patent_id": "patent/US11462917B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11462917B1%2Fen"
+      },
+      {
+        "publication_number": "US12095293B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-29",
+        "publication_date": "2024-09-17",
+        "assignee_original": "Live View Technologies, LLC",
+        "title": "Overcurrent protection, and associated circuitry, devices, systems, and methods",
+        "patent_id": "patent/US12095293B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12095293B2%2Fen"
+      },
+      {
+        "publication_number": "CN115817205B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-12-21",
+        "publication_date": "2025-04-08",
+        "assignee_original": "\u6d59\u6c5f\u51cc\u6607\u52a8\u529b\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Torque limiting method, computer equipment, readable storage medium and motor vehicle",
+        "patent_id": "patent/CN115817205B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115817205B%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "JP5373999B2",
+      "primary_language": "en",
+      "publication_date": "2013-12-18",
+      "title": "Hybrid storage battery, traveling vehicle and power storage facility using the same, smart grid traveling vehicle system using the traveling vehicle, and power supply network system using the power storage facility",
+      "patent_id": "patent/JP5373999B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5373999B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6419992B2",
+      "primary_language": "en",
+      "publication_date": "2018-11-07",
+      "title": "Hybrid energy storage module system",
+      "patent_id": "patent/JP6419992B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6419992B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "4540317274625281201",
+      "scholar_authors": "Dixon et al.",
+      "publication_date": "2009",
+      "title": "Electric vehicle using a combination of ultracapacitors and ZEBRA battery",
+      "patent_id": "scholar/4540317274625281201",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F4540317274625281201"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN1864329B",
+      "primary_language": "en",
+      "publication_date": "2011-07-06",
+      "title": "Energy storage device for loads having variable power rates",
+      "patent_id": "patent/CN1864329B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1864329B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20020145404A1",
+      "primary_language": "en",
+      "publication_date": "2002-10-10",
+      "title": "Energy storage device and loads having variable power rates",
+      "patent_id": "patent/US20020145404A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020145404A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080113226A1",
+      "primary_language": "en",
+      "publication_date": "2008-05-15",
+      "title": "Energy storage device for loads having variable power rates",
+      "patent_id": "patent/US20080113226A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080113226A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20140186659A1",
+      "primary_language": "en",
+      "publication_date": "2014-07-03",
+      "title": "Hybrid battery system for electric and hybrid electric vehicles",
+      "patent_id": "patent/US20140186659A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140186659A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2008121982A1",
+      "primary_language": "en",
+      "publication_date": "2008-10-09",
+      "title": "Vehicle hybrid energy system",
+      "patent_id": "patent/WO2008121982A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008121982A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7140852B2",
+      "primary_language": "en",
+      "publication_date": "2022-09-21",
+      "title": "Hybrid energy storage module system with auxiliary battery",
+      "patent_id": "patent/JP7140852B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7140852B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6460254B2",
+      "primary_language": "en",
+      "publication_date": "2019-01-30",
+      "title": "Electricity storage pack",
+      "patent_id": "patent/JP6460254B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6460254B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20170166078A1",
+      "primary_language": "en",
+      "publication_date": "2017-06-15",
+      "title": "Battery charge equalization system",
+      "patent_id": "patent/US20170166078A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170166078A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20170053071A",
+      "primary_language": "en",
+      "publication_date": "2017-05-15",
+      "title": "Vehicle battery apparatus",
+      "patent_id": "patent/KR20170053071A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20170053071A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN214189325U",
+      "primary_language": "en",
+      "publication_date": "2021-09-14",
+      "title": "Automotive charger baby system",
+      "patent_id": "patent/CN214189325U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN214189325U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101743675B",
+      "primary_language": "en",
+      "publication_date": "2014-07-09",
+      "title": "Vehicle hybrid energy system",
+      "patent_id": "patent/CN101743675B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101743675B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109130950A",
+      "primary_language": "en",
+      "publication_date": "2019-01-04",
+      "title": "A kind of the hybrid battery set control system and control method of electric vehicle",
+      "patent_id": "patent/CN109130950A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109130950A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20220112883A",
+      "primary_language": "en",
+      "publication_date": "2022-08-12",
+      "title": "Smart power supply",
+      "patent_id": "patent/KR20220112883A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20220112883A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "13829566939130028376",
+      "scholar_authors": "Raj et al.",
+      "publication_date": "2023",
+      "title": "A review on components of electric vehicle and Indian scenario of electric vehicles",
+      "patent_id": "scholar/13829566939130028376",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13829566939130028376"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6831123466937388948",
+      "scholar_authors": "Broussely",
+      "publication_date": "2007",
+      "title": "Traction batteries. EV and HEV",
+      "patent_id": "scholar/6831123466937388948",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6831123466937388948"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111152668B",
+      "primary_language": "en",
+      "publication_date": "2023-01-13",
+      "title": "Dual hybrid battery pack suitable for motor driving apparatus",
+      "patent_id": "patent/CN111152668B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111152668B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2025088459A1",
+      "primary_language": "en",
+      "publication_date": "2025-05-01",
+      "title": "Charging control system",
+      "patent_id": "patent/WO2025088459A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025088459A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2025068748A1",
+      "primary_language": "en",
+      "publication_date": "2025-04-03",
+      "title": "Battery charging complex for electric vehicle fleet",
+      "patent_id": "patent/WO2025068748A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025068748A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20210115269A",
+      "primary_language": "en",
+      "publication_date": "2021-09-27",
+      "title": "E-motor drive hybrid battery pack",
+      "patent_id": "patent/KR20210115269A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20210115269A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17217010528913008744",
+      "scholar_authors": "Mazgut et al.",
+      "publication_date": "2015",
+      "title": "Possibilities optimizing energy consumption of electric vehicle",
+      "patent_id": "scholar/17217010528913008744",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17217010528913008744"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20200129264A",
+      "primary_language": "en",
+      "publication_date": "2020-11-18",
+      "title": "Device for protecting component and distributing power of electric vehicle",
+      "patent_id": "patent/KR20200129264A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20200129264A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "950069780467693453",
+      "scholar_authors": "Vezzini",
+      "publication_date": "2012",
+      "title": "Electric Automobiles",
+      "patent_id": "scholar/950069780467693453",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F950069780467693453"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2013-04-19",
+      "code": "ENP",
+      "title": "Entry into the national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "2013518608"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "JP"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A"
+        }
+      ]
+    },
+    {
+      "date": "2013-06-05",
+      "code": "121",
+      "title": "Ep: the epo has been informed by wipo that ep was designated in this application",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "12839768"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A1"
+        }
+      ]
+    },
+    {
+      "date": "2014-02-19",
+      "code": "REEP",
+      "title": "Request for entry into the european phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "2012839768"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        }
+      ]
+    },
+    {
+      "date": "2014-02-19",
+      "code": "WWE",
+      "title": "Wipo information: entry into national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "14239745"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "US"
+        },
+        {
+          "label": "Ref document number",
+          "value": "2012839768"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        }
+      ]
+    },
+    {
+      "date": "2014-04-11",
+      "code": "NENP",
+      "title": "Non-entry into the national phase",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "DE"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000003860",
+        "name": "storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "description"
+        ],
+        "count": 879
+      },
+      {
+        "id": "210000000352",
+        "name": "storage cell",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "abstract"
+        ],
+        "count": 16
+      },
+      {
+        "id": "229910001416",
+        "name": "lithium ion",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 328
+      },
+      {
+        "id": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "name": "Lithium ion",
+        "domain": "Chemical compound",
+        "smiles": "[Li+]",
+        "inchi_key": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 288
+      },
+      {
+        "id": "239000000243",
+        "name": "solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 92
+      },
+      {
+        "id": "239000007864",
+        "name": "aqueous solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 49
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "208000028659",
+        "name": "discharge",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 108
+      },
+      {
+        "id": "238000007600",
+        "name": "charging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 85
+      },
+      {
+        "id": "230000001172",
+        "name": "regenerating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 41
+      },
+      {
+        "id": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+        "name": "Hydrogen",
+        "domain": "Chemical compound",
+        "smiles": "[H][H]",
+        "inchi_key": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "GELKBWJHTRAYNV-UHFFFAOYSA-K",
+        "name": "lithium iron phosphate",
+        "domain": "Chemical group",
+        "smiles": "[Li+].[Fe+2].[O-]P([O-])([O-])=O",
+        "inchi_key": "GELKBWJHTRAYNV-UHFFFAOYSA-K",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "239000001257",
+        "name": "hydrogen",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "229910052739",
+        "name": "hydrogen",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "239000003792",
+        "name": "electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000007774",
+        "name": "positive electrode material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "210000004027",
+        "name": "cell",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "239000002253",
+        "name": "acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "230000005856",
+        "name": "abnormality",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "238000007599",
+        "name": "discharging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "230000009467",
+        "name": "reduction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000007423",
+        "name": "decrease",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000002159",
+        "name": "abnormal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000007789",
+        "name": "gas",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000012423",
+        "name": "maintenance",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000011084",
+        "name": "recovery",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000001816",
+        "name": "cooling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000000354",
+        "name": "decomposition reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000008151",
+        "name": "electrolyte solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000002474",
+        "name": "experimental method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000002265",
+        "name": "prevention",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000001133",
+        "name": "acceleration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000004378",
+        "name": "air conditioning",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000052",
+        "name": "comparative effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000010280",
+        "name": "constant potential charging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000004880",
+        "name": "explosion",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000002803",
+        "name": "fossil fuel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005259",
+        "name": "measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "name": "Carbon",
+        "domain": "Chemical compound",
+        "smiles": "[C]",
+        "inchi_key": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910010707",
+        "name": "LiFePO 4",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052493",
+        "name": "LiFePO4",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "name": "Lithium",
+        "domain": "Chemical compound",
+        "smiles": "[Li]",
+        "inchi_key": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910003307",
+        "name": "Ni-Cd",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910018095",
+        "name": "Ni-MH",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910018477",
+        "name": "Ni\u2014MH",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "NCZYUKGXRHBAHE-UHFFFAOYSA-K",
+        "name": "[Li+].P(=O)([O-])([O-])[O-].[Fe+2].[Li+]",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].P(=O)([O-])([O-])[O-].[Fe+2].[Li+]",
+        "inchi_key": "NCZYUKGXRHBAHE-UHFFFAOYSA-K",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000033228",
+        "name": "biological regulation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000010277",
+        "name": "constant-current charging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000006866",
+        "name": "deterioration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005611",
+        "name": "electricity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000007613",
+        "name": "environmental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000006872",
+        "name": "improvement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "150000002500",
+        "name": "ions",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052744",
+        "name": "lithium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004904",
+        "name": "shortening",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+        "name": "Dioxygen",
+        "domain": "Chemical compound",
+        "smiles": "O=O",
+        "inchi_key": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004606",
+        "name": "Fillers/Extenders",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "QSNQXZYQEIKDPU-UHFFFAOYSA-N",
+        "name": "[Li].[Fe]",
+        "domain": "Chemical compound",
+        "smiles": "[Li].[Fe]",
+        "inchi_key": "QSNQXZYQEIKDPU-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052799",
+        "name": "carbon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002388",
+        "name": "carbon-based active material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003575",
+        "name": "carbonaceous material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000015556",
+        "name": "catabolic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010281",
+        "name": "constant-current constant-voltage charging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005520",
+        "name": "cutting process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003247",
+        "name": "decreasing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002950",
+        "name": "deficient",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000006731",
+        "name": "degradation reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003111",
+        "name": "delayed effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009792",
+        "name": "diffusion process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001882",
+        "name": "dioxygen",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005868",
+        "name": "electrolysis reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004146",
+        "name": "energy storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010439",
+        "name": "graphite",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910002804",
+        "name": "graphite",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000020169",
+        "name": "heat generation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010438",
+        "name": "heat treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001771",
+        "name": "impaired effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007689",
+        "name": "inspection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001947",
+        "name": "lithium oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007773",
+        "name": "negative electrode material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005486",
+        "name": "organic electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002035",
+        "name": "prolonged effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001681",
+        "name": "protective effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002409",
+        "name": "silicon-based active material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002210",
+        "name": "silicon-based material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006641",
+        "name": "stabilisation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011105",
+        "name": "stabilization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007858",
+        "name": "starting material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052723",
+        "name": "transition metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "-1",
+        "name": "transition metal lithium oxide",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005303",
+        "name": "weighing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

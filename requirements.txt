@@ -1,0 +1,8 @@
+langchain-core 0.3.74
+crewai 0.165.1
+langchain-ollama 0.3.7
+dotenv
+requests
+json
+os
+pprint

@@ -1,0 +1,795 @@
+{
+  "search_metadata": {
+    "id": "68a9f8d6a8dce66007e81913",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/aa771fc6c26a90dd/68a9f8d6a8dce66007e81913.json",
+    "created_at": "2025-08-23 17:22:30 UTC",
+    "processed_at": "2025-08-23 17:22:30 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20120308890A1/en",
+    "raw_html_file": "https://serpapi.com/searches/aa771fc6c26a90dd/68a9f8d6a8dce66007e81913.html",
+    "total_time_taken": 0.97
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20120308890A1/en"
+  },
+  "title": "Cathode active material and lithium ion rechargeable battery using the material",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/6c/13/40/95cb66ef0f95c7/US20120308890A1.pdf",
+  "publication_number": "US20120308890A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "cathode",
+    "weight",
+    "battery",
+    "active material",
+    "lithium ion"
+  ],
+  "prior_art_date": "2011-05-30",
+  "application_number": "US13/368,359",
+  "inventors": [
+    {
+      "name": "Yuki Okuda",
+      "link": "https://patents.google.com/?inventor=Yuki+Okuda",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Yuki+Okuda"
+    },
+    {
+      "name": "Norio Iwayasu",
+      "link": "https://patents.google.com/?inventor=Norio+Iwayasu",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Norio+Iwayasu"
+    },
+    {
+      "name": "Hidetoshi Honbou",
+      "link": "https://patents.google.com/?inventor=Hidetoshi+Honbou",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Hidetoshi+Honbou"
+    }
+  ],
+  "assignees": [
+    "Maxell Ltd"
+  ],
+  "priority_date": "2011-05-30",
+  "filing_date": "2012-02-08",
+  "publication_date": "2012-12-06",
+  "worldwide_applications": {
+    "2011": [
+      {
+        "filing_date": "2011-05-30",
+        "country_code": "JP",
+        "application_number": "JP2011119842A",
+        "document_id": "patent/JP5455975B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ],
+    "2012": [
+      {
+        "filing_date": "2012-02-08",
+        "country_code": "US",
+        "application_number": "US13/368,359",
+        "document_id": "patent/US8685573B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2012-02-08",
+      "title": "Application filed by Hitachi Maxell Energy Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Hitachi Maxell Energy Ltd"
+    },
+    {
+      "date": "2012-02-08",
+      "title": "Assigned to HITACHI MAXELL ENERGY, LTD.",
+      "type": "reassignment",
+      "assignee_search": "HITACHI MAXELL ENERGY, LTD.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: IWAYASU, NORIO, HONBOU, HIDETOSHI, OKUDA, YUKI"
+      ]
+    },
+    {
+      "date": "2012-12-06",
+      "title": "Publication of US20120308890A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20120308890A1/en"
+    },
+    {
+      "date": "2013-06-18",
+      "title": "Assigned to HITACHI MAXELL, LTD.",
+      "type": "reassignment",
+      "assignee_search": "HITACHI MAXELL, LTD.",
+      "description": [
+        "MERGER (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: HITACHI MAXELL ENERGY, LTD."
+      ]
+    },
+    {
+      "date": "2014-04-01",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2014-04-01",
+      "title": "Publication of US8685573B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US8685573B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2032-05-31",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20120308890.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/13368359"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20120308890"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2012308890A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/13368359/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20120308890"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "H01M6/181",
+      "description": "Cells with non-aqueous electrolyte with solid electrolyte with polymeric electrolytes",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/131",
+      "description": "Electrodes based on mixed oxides or hydroxides, or on mixtures of oxides or hydroxides, e.g. LiCoOx",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/052",
+      "description": "Li-accumulators",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/4235",
+      "description": "Safety or regulating additives or arrangements in electrodes, separators or electrolyte",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2004/028",
+      "description": "Positive electrodes",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/525",
+      "description": "Selection of substances as active materials, active masses, active liquids of inorganic oxides or hydroxides of nickel, cobalt or iron of mixed oxides or hydroxides containing iron, cobalt or nickel for inserting or intercalating light metals, e.g. LiNiO2, LiCoO2 or LiCoOxFy",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/62",
+      "description": "Selection of inactive substances as ingredients for active masses, e.g. binders, fillers",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/103",
+      "description": "Primary casings; Jackets or wrappings characterised by their shape or physical structure prismatic or rectangular",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E60/10",
+      "description": "Energy storage using batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Provided is a lithium ion rechargeable battery less suffering from swelling even when stored at high temperatures. Disclosed are a cathode active material, a cathode for a lithium ion rechargeable battery using the cathode active material, and a lithium ion rechargeable battery using the cathode. The cathode active material includes particles, each of the particles including a cathode material capable of intercalating and deintercalating lithium ions, and a film formed on at least part of surfaces of the particles. The film includes a compound represented by Chemical Formula (1). Examples of the compound represented by Chemical Formula (1) include lithium squarate and dilithium squarate. Preferably, the lithium ion rechargeable battery is a prismatic battery.",
+  "description_link": "https://serpapi.com/searches/68a9f8d6a8dce66007e81913/google_patents_details/description.html",
+  "claims": [
+    "1. A cathode active material comprising:\nparticles, each of the particles including a cathode material capable of intercalating and deintercalating lithium ions; and a film being formed on at least part of surfaces of the particles, wherein the film includes a compound represented by Chemical Formula (1): \n      \n        \n          \n          \n             \n             \n          \n        \n      \n      wherein n is an integer of from 1 to 5 and R represents lithium (Li) or hydrogen (H).",
+    "2. The cathode active material according to claim 1,\nwherein the film further includes a compound represented by Chemical Formula (2): \n      \n        \n          \n          \n             \n             \n          \n        \n      \n      wherein n is an integer of from 1 to 5, R1 represents an alkali metal other than lithium, and R2 represents an alkali metal or hydrogen.",
+    "3. The cathode active material according to claim 1,\nwherein A2CO3 or AOH is formed on at least part of the surfaces of the particles, where A represents an alkali metal.",
+    "4. The cathode active material according to claim 1,\nwherein the cathode material includes nickel.",
+    "5. A cathode for a lithium ion rechargeable battery, comprising:\nthe cathode active material of claim 1, wherein the compound represented by Chemical Formula (1) is included in an amount of more than 0.001 part by weight and less than 10 parts by weight per 100 parts by weight of the cathode material.",
+    "6. A cathode for a lithium ion rechargeable battery, comprising:\nthe cathode active material of claim 2, wherein the compound represented by Chemical Formula (1) is included in an amount of more than 0.001 part by weight and less than 10 parts by weight per 100 parts by weight of the cathode material.",
+    "7. A cathode for a lithium ion rechargeable battery, comprising:\nthe cathode active material of claim 3, wherein the compound represented by Chemical Formula (1) is included in an amount of more than 0.001 part by weight and less than 10 parts by weight per 100 parts by weight of the cathode material.",
+    "8. A cathode for a lithium ion rechargeable battery, comprising:\nthe cathode active material of claim 4, wherein the compound represented by Chemical Formula (1) is included in an amount of more than 0.001 part by weight and less than 10 parts by weight per 100 parts by weight of the cathode material.",
+    "9. A cathode for a lithium ion rechargeable battery, comprising:\nthe cathode active material of claim 1, wherein the compound represented by Chemical Formula (1) is included in an amount of 0.01 part by weight or more and 5 parts by weight or less per 100 parts by weight of the cathode material.",
+    "10. A cathode for a lithium ion rechargeable battery, comprising:\nthe cathode active material of claim 2, wherein the compound represented by Chemical Formula (1) is included in an amount of 0.01 part by weight or more and 5 parts by weight or less per 100 parts by weight of the cathode material.",
+    "11. A cathode for a lithium ion rechargeable battery, comprising:\nthe cathode active material of claim 3, wherein the compound represented by Chemical Formula (1) is included in an amount of 0.01 part by weight or more and 5 parts by weight or less per 100 parts by weight of the cathode material.",
+    "12. A cathode for a lithium ion rechargeable battery, comprising:\nthe cathode active material of claim 4, wherein the compound represented by Chemical Formula (1) is included in an amount of 0.01 part by weight or more and 5 parts by weight or less per 100 parts by weight of the cathode material.",
+    "13. A lithium ion rechargeable battery comprising the cathode of claim 5, an anode, and an electrolyte.",
+    "14. A lithium ion rechargeable battery comprising the cathode of claim 9, an anode, and an electrolyte.",
+    "15. The lithium ion rechargeable battery according to claim 13,\nwherein the lithium ion rechargeable battery is a prismatic battery.",
+    "16. The lithium ion rechargeable battery according to claim 14,\nwherein the lithium ion rechargeable battery is a prismatic battery."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "JP2011119842A",
+      "representative_publication": "JP5455975B2",
+      "primary_language": "en",
+      "priority_date": "2011-05-30",
+      "filing_date": "2011-05-30",
+      "title": "Positive electrode active material, and positive electrode for lithium ion secondary battery and lithium ion secondary battery using the same"
+    },
+    {
+      "application_number": "JP2011-119842",
+      "filing_date": "2011-05-30"
+    }
+  ],
+  "family_id": "47261917",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US20040202930A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-12-02",
+        "publication_date": "2004-10-14",
+        "assignee_original": "Michel Armand",
+        "title": "New electrode materials derived from polyquinonic ionic compounds and their use in electrochemical generators",
+        "patent_id": "patent/US20040202930A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040202930A1%2Fen"
+      },
+      {
+        "publication_number": "US20110159368A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-24",
+        "publication_date": "2011-06-30",
+        "assignee_original": "Sony Corporation",
+        "title": "Lithium-ion secondary battery, anode for lithium-ion secondary battery, power tool, electric vehicle and energy storage system",
+        "patent_id": "patent/US20110159368A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110159368A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JP3172388B2",
+        "primary_language": "en",
+        "priority_date": "1995-02-27",
+        "publication_date": "2001-06-04",
+        "assignee_original": "\u4e09\u6d0b\u96fb\u6a5f\u682a\u5f0f\u4f1a\u793e",
+        "title": "Lithium secondary battery",
+        "patent_id": "patent/JP3172388B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3172388B2%2Fen"
+      },
+      {
+        "publication_number": "JP2938430B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-03-17",
+        "publication_date": "1999-08-23",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u6771\u829d",
+        "title": "Lithium secondary battery",
+        "patent_id": "patent/JP2938430B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2938430B1%2Fen"
+      },
+      {
+        "publication_number": "JP2007173064A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-12-22",
+        "publication_date": "2007-07-05",
+        "assignee_original": "Matsushita Electric Ind Co Ltd",
+        "title": "Nonaqueous electrolyte secondary battery and manufacturing method thereof",
+        "patent_id": "patent/JP2007173064A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007173064A%2Fen"
+      },
+      {
+        "publication_number": "US9118062B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-06-13",
+        "publication_date": "2015-08-25",
+        "assignee_original": "Sony Corporation",
+        "title": "Anode and method of manufacturing the same, and battery and method of manufacturing the same",
+        "patent_id": "patent/US9118062B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9118062B2%2Fen"
+      },
+      {
+        "publication_number": "JP2012089312A",
+        "primary_language": "en",
+        "priority_date": "2010-10-18",
+        "publication_date": "2012-05-10",
+        "assignee_original": "Hitachi Maxell Energy Ltd",
+        "title": "Lithium ion secondary battery and thickening inhibitor for lithium ion secondary battery",
+        "patent_id": "patent/JP2012089312A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2012089312A%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "WO2014176326A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-04-23",
+        "publication_date": "2014-10-30",
+        "assignee_original": "E. I. Du Pont De Nemours And Company",
+        "title": "Battery binder",
+        "patent_id": "patent/WO2014176326A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014176326A1%2Fen"
+      },
+      {
+        "publication_number": "EP2816644A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-21",
+        "publication_date": "2014-12-24",
+        "assignee_original": "Novaled GmbH",
+        "title": "Battery",
+        "patent_id": "patent/EP2816644A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2816644A1%2Fen"
+      },
+      {
+        "publication_number": "WO2014202399A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-21",
+        "publication_date": "2014-12-24",
+        "assignee_original": "Novaled Gmbh",
+        "title": "Battery",
+        "patent_id": "patent/WO2014202399A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014202399A1%2Fen"
+      },
+      {
+        "publication_number": "US20160043436A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-05-01",
+        "publication_date": "2016-02-11",
+        "assignee_original": "Altaimano, Inc.",
+        "title": "Lithium Titanate Cell",
+        "patent_id": "patent/US20160043436A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160043436A1%2Fen"
+      },
+      {
+        "publication_number": "US9905846B2",
+        "primary_language": "en",
+        "priority_date": "2015-03-06",
+        "publication_date": "2018-02-27",
+        "assignee_original": "Toyota Jidosha Kabushiki Kaisha",
+        "title": "Lithium ion secondary battery",
+        "patent_id": "patent/US9905846B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9905846B2%2Fen"
+      },
+      {
+        "publication_number": "FR3074967A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-08",
+        "publication_date": "2019-06-14",
+        "assignee_original": "Commissariat A L'energie Atomique Et Aux Energies Alternatives",
+        "title": "CURRENT COLLECTOR AND CURRENT-ELECTRODE COLLECTOR ASSEMBLY FOR ACCUMULATOR OPERATING ACCORDING TO THE PRINCIPLE OF INSERTION AND IONIC INSULATION",
+        "patent_id": "patent/FR3074967A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3074967A1%2Fen"
+      },
+      {
+        "publication_number": "US10505177B2",
+        "primary_language": "en",
+        "priority_date": "2015-09-25",
+        "publication_date": "2019-12-10",
+        "assignee_original": "Kabushiki Kaisha Toshiba",
+        "title": "Nonaqueous electrolyte battery electrode, nonaqueous electrolyte battery, and battery pack",
+        "patent_id": "patent/US10505177B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10505177B2%2Fen"
+      },
+      {
+        "publication_number": "CN112271280A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-10-22",
+        "publication_date": "2021-01-26",
+        "assignee_original": "\u6b23\u65fa\u8fbe\u7535\u52a8\u6c7d\u8f66\u7535\u6c60\u6709\u9650\u516c\u53f8",
+        "title": "Composite cathode material, preparation method thereof and lithium ion battery",
+        "patent_id": "patent/CN112271280A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112271280A%2Fen"
+      },
+      {
+        "publication_number": "CN113443973A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-30",
+        "publication_date": "2021-09-28",
+        "assignee_original": "\u534e\u4e1c\u7406\u5de5\u5927\u5b66",
+        "title": "Lithium squarate and preparation method and application thereof",
+        "patent_id": "patent/CN113443973A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113443973A%2Fen"
+      },
+      {
+        "publication_number": "US11515567B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-17",
+        "publication_date": "2022-11-29",
+        "assignee_original": "Asahi Kasei Kabushiki Kaisha",
+        "title": "Non-aqueous electrolyte solution, non-aqueous secondary battery, cell pack, and hybrid power system",
+        "patent_id": "patent/US11515567B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11515567B2%2Fen"
+      },
+      {
+        "publication_number": "US11532839B2",
+        "primary_language": "en",
+        "priority_date": "2017-03-17",
+        "publication_date": "2022-12-20",
+        "assignee_original": "Asahi Kasei Kabushiki Kaisha",
+        "title": "Non-aqueous secondary battery",
+        "patent_id": "patent/US11532839B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11532839B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US11056679B2",
+        "primary_language": "en",
+        "priority_date": "2018-07-31",
+        "publication_date": "2021-07-06",
+        "assignee_original": "GRU Energy Lab Inc.",
+        "title": "Positive electrodes with active materials and temporary lithium additives for lithium ion electrochemical cells",
+        "patent_id": "patent/US11056679B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11056679B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US8685573B2",
+      "primary_language": "en",
+      "publication_date": "2014-04-01",
+      "title": "Cathode active material and lithium ion rechargeable battery using the material",
+      "patent_id": "patent/US8685573B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8685573B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9911968B2",
+      "primary_language": "en",
+      "publication_date": "2018-03-06",
+      "title": "Electrode active material, method for producing same, electrode for nonaqueous secondary battery, and nonaqueous secondary battery",
+      "patent_id": "patent/US9911968B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9911968B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9593016B2",
+      "primary_language": "en",
+      "publication_date": "2017-03-14",
+      "title": "Method for producing difluorophosphate, non-aqueous electrolyte for secondary cell and non-aqueous electrolyte secondary cell",
+      "patent_id": "patent/US9593016B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9593016B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101201804B1",
+      "primary_language": "en",
+      "publication_date": "2012-11-15",
+      "title": "Negative active for rechargeable lithium battery, method of preparing the same, and rechargeable lithium battery including the same",
+      "patent_id": "patent/KR101201804B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101201804B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080063941A1",
+      "primary_language": "en",
+      "publication_date": "2008-03-13",
+      "title": "Positive electrode material for nonaqueous electrolyte secondary battery and nonaqueous electrolyte secondary battery",
+      "patent_id": "patent/US20080063941A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080063941A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2012127717A1",
+      "primary_language": "en",
+      "publication_date": "2012-09-27",
+      "title": "Secondary battery",
+      "patent_id": "patent/WO2012127717A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012127717A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20120256123A1",
+      "primary_language": "en",
+      "publication_date": "2012-10-11",
+      "title": "Positive active material for rechargeable lithium battery, method of preparing the same, and rechargeable lithium battery including the same",
+      "patent_id": "patent/US20120256123A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120256123A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2006082719A1",
+      "primary_language": "en",
+      "publication_date": "2006-08-10",
+      "title": "Positive electrode and nonaqueous electrolyte secondary battery",
+      "patent_id": "patent/WO2006082719A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006082719A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2004139743A",
+      "primary_language": "en",
+      "publication_date": "2004-05-13",
+      "title": "Nonaqueous electrolyte secondary battery",
+      "patent_id": "patent/JP2004139743A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2004139743A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2008147751A1",
+      "primary_language": "en",
+      "publication_date": "2008-12-04",
+      "title": "Non-aqueous electrolytes and electrochemical devices including the same",
+      "patent_id": "patent/WO2008147751A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008147751A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20120028622A",
+      "primary_language": "en",
+      "publication_date": "2012-03-23",
+      "title": "Cathode active material for lithium secondary battery, method for manufacturing the same and lithium secondary battery using the same",
+      "patent_id": "patent/KR20120028622A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20120028622A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2009105069A",
+      "primary_language": "en",
+      "publication_date": "2009-05-14",
+      "title": "ELECTROLYTE SOLUTION FOR LITHIUM SECONDARY BATTERY AND LITHIUM SECONDARY BATTERY CONTAINING THE SAME",
+      "patent_id": "patent/JP2009105069A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2009105069A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2002358999A",
+      "primary_language": "en",
+      "publication_date": "2002-12-13",
+      "title": "Non-aqueous electrolyte secondary battery",
+      "patent_id": "patent/JP2002358999A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2002358999A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6275694B2",
+      "primary_language": "en",
+      "publication_date": "2018-02-07",
+      "title": "Nonaqueous electrolyte secondary battery",
+      "patent_id": "patent/JP6275694B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6275694B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4345658B2",
+      "primary_language": "en",
+      "publication_date": "2009-10-14",
+      "title": "Secondary battery",
+      "patent_id": "patent/JP4345658B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4345658B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20140065477A1",
+      "primary_language": "en",
+      "publication_date": "2014-03-06",
+      "title": "Positive active material composition for rechargeable lithium battery, and positive electrode and rechargeable lithium battery including same",
+      "patent_id": "patent/US20140065477A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140065477A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4153170B2",
+      "primary_language": "en",
+      "publication_date": "2008-09-17",
+      "title": "Electrolyte for lithium secondary battery",
+      "patent_id": "patent/JP4153170B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4153170B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4949017B2",
+      "primary_language": "en",
+      "publication_date": "2012-06-06",
+      "title": "Lithium ion battery with improved high-temperature storage characteristics",
+      "patent_id": "patent/JP4949017B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4949017B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101676687B1",
+      "primary_language": "en",
+      "publication_date": "2016-11-16",
+      "title": "Positive active material for rechargeable lithium battery, method for manufacturing the same, and rechargeable lithium battery including the same",
+      "patent_id": "patent/KR101676687B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101676687B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20050074670A1",
+      "primary_language": "en",
+      "publication_date": "2005-04-07",
+      "title": "Lithium ion secondary cell",
+      "patent_id": "patent/US20050074670A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050074670A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3831550B2",
+      "primary_language": "en",
+      "publication_date": "2006-10-11",
+      "title": "Non-aqueous electrolyte battery",
+      "patent_id": "patent/JP3831550B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3831550B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4573098B2",
+      "primary_language": "en",
+      "publication_date": "2010-11-04",
+      "title": "Nonaqueous electrolyte secondary battery",
+      "patent_id": "patent/JP4573098B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4573098B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230335783A1",
+      "primary_language": "en",
+      "publication_date": "2023-10-19",
+      "title": "Lithium secondary battery",
+      "patent_id": "patent/US20230335783A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230335783A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20120282531A1",
+      "primary_language": "en",
+      "publication_date": "2012-11-08",
+      "title": "Electrolyte for rechargeable lithium battery and rechargeable lithium battery including the same",
+      "patent_id": "patent/US20120282531A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120282531A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2004039509A",
+      "primary_language": "en",
+      "publication_date": "2004-02-05",
+      "title": "Carbon material for lithium secondary battery and lithium secondary battery using the same for negative electrode",
+      "patent_id": "patent/JP2004039509A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2004039509A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2012-02-08",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "HITACHI MAXELL ENERGY, LTD., JAPAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:OKUDA, YUKI;IWAYASU, NORIO;HONBOU, HIDETOSHI;SIGNING DATES FROM 20120113 TO 20120118;REEL/FRAME:027668/0462"
+        }
+      ]
+    },
+    {
+      "date": "2013-06-18",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "HITACHI MAXELL, LTD., JAPAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "MERGER;ASSIGNOR:HITACHI MAXELL ENERGY, LTD.;REEL/FRAME:030631/0385"
+        },
+        {
+          "label": "Effective date",
+          "value": "20130101"
+        }
+      ]
+    },
+    {
+      "date": "2013-11-02",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2017-11-13",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.)"
+        }
+      ]
+    },
+    {
+      "date": "2018-04-30",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.)"
+        }
+      ]
+    },
+    {
+      "date": "2018-04-30",
+      "code": "STCH",
+      "title": "Information on status: patent discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362"
+        }
+      ]
+    },
+    {
+      "date": "2018-05-22",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20180401"
+        }
+      ]
+    }
+  ]
+}
