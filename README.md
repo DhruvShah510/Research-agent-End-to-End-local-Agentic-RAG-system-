@@ -8,40 +8,6 @@ This system automates the complex process of research and analysis. It uses an a
 
 The core retrieval-augmented generation (RAG) pipeline is equipped with multiple search strategies—semantic, keyword, and hybrid—to ensure the highest quality and relevance of retrieved data.
 
-# System Architecture
-The project is built on a multi-layered architecture that ensures a clear separation of concerns, from data storage to agentic task execution.
-
-```
-┌──────────────────────────────────┐
-│          User Interface          │
-│ (Input Query via Terminal)       │
-└──────────────────────────────────┘
-                 │
-                 ▼
-┌──────────────────────────────────┐
-│      Agent Orchestration         │
-│             (CrewAI)             │
-│   - Research Director Agent      │
-│   - Patent Retriever Agent       │
-│   - Data Analyst Agent           │
-└──────────────────────────────────┘
-                 │
-                 ▼
-┌──────────────────────────────────┐
-│      Knowledge & Retrieval       │
-│     (Custom Search Tools)        │
-│   - Semantic Search              │
-│   - Keyword Search               │
-│   - Hybrid Search                │
-└──────────────────────────────────┘
-                 │
-                 ▼
-┌──────────────────────────────────┐
-│      Data Storage & Indexing     │
-│           (OpenSearch)           │
-└──────────────────────────────────┘
-```
-
 # Key Features
 - Autonomous Multi-Agent System: Utilizes CrewAI to create specialized AI agents for research direction, data retrieval, and analysis.
 - Local First: Runs entirely on your local machine using Ollama for language models, ensuring privacy and offline capabilities.
@@ -56,6 +22,17 @@ The project is built on a multi-layered architecture that ensures a clear separa
 - LLM Model: deepseek-r1:1.5b
 - Embedding Model: nomic-embed-text
 - Data API: SerpAPI (for Google Patents)
+
+# Agents created in project 
+- research director
+- patent retriever
+- data analyst
+- innovation forcaster
+
+# knowledge and retrieval 
+- Semantic Search
+- Keyword Search               
+- Hybrid Search
 
 # File Structure
 ```
@@ -97,12 +74,14 @@ source .venv/bin/activate  # On Windows, use `.venv\Scripts\activate`
 pip install -r requirements.txt
 ```
 4. Configure Environment Variables
+   
 Create a .env file in the root directory and add your SerpAPI key:
 ```
 SERPAPI_API_KEY="your_serpapi_key_here"
 ```
 
 5. Start Services with Docker
+   
 This single command will start the OpenSearch and OpenSearch Dashboards services.
 Note : run the command in the terminal and set the path of the docker-compse.yml file properly
 ```
@@ -111,6 +90,7 @@ You can check if OpenSearch is running by visiting http://localhost:9200.
 ```
 
 6. Set Up Ollama and Download Models
+   
 Ensure Ollama image is installed in docker and running. Then, pull the required LLM and embedding models:
 ```
 docker exec -it ollama ollama run deepseek-r1:1.5b 
@@ -121,20 +101,22 @@ docker exec -it ollama ollama pull nomic-embed-text
 The workflow is divided into two main steps: data collection and analysis.
 
 1. Collect and Ingest Data :
+   
 Run the information_collector.py script to fetch patent data from Google Patents via SerpAPI. This script will automatically create embeddings and ingest them into your OpenSearch instance.
 
 ```
 python information_collector.py
 ```
 
-2. Run the Research Agent
+2. Run the Research Agent :
+   
 Execute the main application file to start the agentic workflow. The agents will begin their research and analysis based on the predefined query in the script.
 
 ```
 python agentic_rag.py
 ```
 
-# Upon completion, a detailed report file named patent_analysis_...txt will be generated in the root directory.
+Upon completion, a detailed report file named patent_analysis_...txt will be generated in the root directory.
 
 # Author:
 Dhruv Shah
