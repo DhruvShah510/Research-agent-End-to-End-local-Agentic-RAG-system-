@@ -11,51 +11,6 @@ The core retrieval-augmented generation (RAG) pipeline is equipped with multiple
 # System Architecture
 The project is built on a multi-layered architecture that ensures a clear separation of concerns, from data storage to agentic task execution.
 
-Of course. Here is how you can fix the spacing and alignment issues in your `README.md` file.
-
-The solution for both problems is to use **Markdown code blocks**. When you wrap text in a code block, it uses a monospaced font, which means every character has the same width. This preserves all your spaces and keeps text-based diagrams perfectly aligned.
-
------
-
-### 1\. Aligning the File Structure Comments
-
-To create a clean, table-like look, wrap the entire file list in a fenced code block (using three backticks ` ``` `) and then manually add spaces to align the `#` comments.
-
-**Replace this:**
-
-  * `agentic_rag.py # Main application entry point`
-  * `patent_crew.py # Defines CrewAI agents, tools, and tasks`
-  * ...and so on
-
-**With this:**
-
-```
-├── agentic_RAG_demo.mp4     # Project demo video
-├── agentic_rag.py           # Main application entry point
-├── patent_crew.py           # Defines CrewAI agents, tools, and tasks
-├── patent_search_tools.py   # Contains search functions (semantic, keyword, hybrid)
-├── information_collector.py # Fetches patent data using SerpAPI
-├── helper.py                # Helper functions for data collection
-├── embeddings.py            # Handles text embedding generation
-├── ingestion.py             # Ingests embeddings into OpenSearch
-├── opensearch_client.py     # OpenSearch client configuration
-├── docker-compose.yml       # Docker configuration for OpenSearch services
-├── requirements.txt         # Python dependencies
-└── dev.ipynb                # Jupyter notebook for development and testing
-```
-
-*I've used the `├──` and `└──` characters to give it a nice tree structure, which is common practice.*
-
------
-
-### 2\. Fixing the System Architecture Diagram
-
-Your diagram is misaligned because standard text uses proportional fonts. Wrapping it in a code block will force a monospaced font and fix the alignment.
-
-Here is a corrected and slightly cleaned-up version of your architecture diagram that you can copy and paste directly into your `README.md`.
-
-**Replace your current broken diagram with this:**
-
 ```
 ┌──────────────────────────────────┐
 │          User Interface          │
@@ -87,7 +42,6 @@ Here is a corrected and slightly cleaned-up version of your architecture diagram
 └──────────────────────────────────┘
 ```
 
-
 # Key Features
 - Autonomous Multi-Agent System: Utilizes CrewAI to create specialized AI agents for research direction, data retrieval, and analysis.
 - Local First: Runs entirely on your local machine using Ollama for language models, ensuring privacy and offline capabilities.
@@ -104,20 +58,20 @@ Here is a corrected and slightly cleaned-up version of your architecture diagram
 - Data API: SerpAPI (for Google Patents)
 
 # File Structure
-A brief overview of the key files in this repository:
-- agentic_RAG_demo.mp4      ```  # Project demo video
-- agentic_rag.py            ```  # Main application entry point
-- patent_crew.py              # Defines CrewAI agents, tools, and tasks
-- tent_search_tools.py        # Contains search functions (semantic, keyword, hybrid)
-- information_collector.py    # Fetches patent data using SerpAPI
-- helper.py                   # Helper functions for data collection
-- embeddings.py               # Handles text embedding generation
-- ingestion.py                # Ingests embeddings into OpenSearch
-- opensearch_client.py        # OpenSearch client configuration
-- docker-compose.yml          # Docker configuration for OpenSearch services
-- requirements.txt            # Python dependencies
-- dev.ipynb                   # Jupyter notebook for development and testing
-
+```
+├── agentic_RAG_demo.mp4     # Project demo video
+├── agentic_rag.py           # Main application entry point
+├── patent_crew.py           # Defines CrewAI agents, tools, and tasks
+├── patent_search_tools.py   # Contains search functions (semantic, keyword, hybrid)
+├── information_collector.py # Fetches patent data using SerpAPI
+├── helper.py                # Helper functions for data collection
+├── embeddings.py            # Handles text embedding generation
+├── ingestion.py             # Ingests embeddings into OpenSearch
+├── opensearch_client.py     # OpenSearch client configuration
+├── docker-compose.yml       # Docker configuration for OpenSearch services
+├── requirements.txt         # Python dependencies
+└── dev.ipynb                # Jupyter notebook for development and testing
+```
 
 # Prerequisites
 Before you begin, ensure you have the following installed:
@@ -130,5 +84,59 @@ Before you begin, ensure you have the following installed:
 # Installation and Setup
 Follow these steps to get the project running on your local machine.
 1. Clone the Repository
+```
+git clone https://github.com/DhruvShah510/Research-agent-End-to-End-local-Agentic-RAG-system-.git
+```
+2. Set Up Virtual Environment
+```
+python -m venv .venv
+source .venv/bin/activate  # On Windows, use `.venv\Scripts\activate`
+```
+3. Install Dependencies
+```
+pip install -r requirements.txt
+```
+4. Configure Environment Variables
+Create a .env file in the root directory and add your SerpAPI key:
+```
+SERPAPI_API_KEY="your_serpapi_key_here"
+```
+
+5. Start Services with Docker
+This single command will start the OpenSearch and OpenSearch Dashboards services.
+Note : run the command in the terminal and set the path of the docker-compse.yml file properly
+```
+docker compose -f docker-compose.yml up 
+You can check if OpenSearch is running by visiting http://localhost:9200.
+```
+
+6. Set Up Ollama and Download Models
+Ensure Ollama image is installed in docker and running. Then, pull the required LLM and embedding models:
+```
+docker exec -it ollama ollama run deepseek-r1:1.5b 
+docker exec -it ollama ollama pull nomic-embed-text
+```
+
+# Usage
+The workflow is divided into two main steps: data collection and analysis.
+
+1. Collect and Ingest Data :
+Run the information_collector.py script to fetch patent data from Google Patents via SerpAPI. This script will automatically create embeddings and ingest them into your OpenSearch instance.
+
+```
+python information_collector.py
+```
+
+2. Run the Research Agent
+Execute the main application file to start the agentic workflow. The agents will begin their research and analysis based on the predefined query in the script.
+
+```
+python agentic_rag.py
+```
+
+# Upon completion, a detailed report file named patent_analysis_...txt will be generated in the root directory.
+
+# Author:
+Dhruv Shah
 
 
